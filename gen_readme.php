@@ -63,7 +63,7 @@ foreach($data['nodes'] as $node ) {
 }
 usort( $rows, 'tscmp' );
 function tscmp($a, $b) {
-   return -($a['last_timestamp'] <=> $b['last_timestamp']);
+   return -($a['last_timestamp'] - $b['last_timestamp']);
 }
  
 
