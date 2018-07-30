@@ -26,7 +26,7 @@
 */ 
 
 
-exec('lightning-cli listnodes', $output, $rc );
+exec($_SERVER['HOME'] . '/bin/lightning-cli listnodes', $output, $rc );
 if( $rc != 0 ) {
     echo "lightning-cli failed with code $rc\n\n";
     exit($rc);
