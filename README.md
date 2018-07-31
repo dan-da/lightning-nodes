@@ -1,7 +1,7 @@
 # lightning-nodes
 A historical list of lightning nodes, including .onion, updated daily.
 
-Last updated: 2018-07-30 03:22:27 UTC
+Last updated: 2018-07-31 00:00:01 UTC
 ## Stats
 
 |Desc|count|
