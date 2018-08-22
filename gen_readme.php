@@ -43,6 +43,8 @@ $totals = [
     'ipv6' => 0,
     'ipv4' => 0,
 ];
+
+$bytype = [ 'torv3' => [], 'torv2' => [], 'ipv6' => [], 'ipv4' => [] ];
  
 foreach($data['nodes'] as $node ) {
     if( !@$node['addresses'] ) {
@@ -57,6 +59,7 @@ foreach($data['nodes'] as $node ) {
        $row = $node;
        unset($row['addresses']);
        $rows[] = array_merge($row, $addr);
+       $bytype[ $addr['type'] ][] = array_merge($row, $addr);
        $totals['addresses'] ++;
        $totals[ $addr['type'] ] ++;
     }
@@ -66,7 +69,11 @@ function tscmp($a, $b) {
    return -($a['last_timestamp'] - $b['last_timestamp']);
 }
  
+foreach( $bytype as &$list ) {
+   usort( $list, 'tscmp' );
+}
 
+file_put_contents(__DIR__ . '/nodes-by-addr-type.json', json_encode($bytype, JSON_PRETTY_PRINT));
 
 function print_node_table($rows, $addrtype) {
 
@@ -92,9 +99,13 @@ function e($b) {return htmlentities($b);}
 
 ?>
 # lightning-nodes
+
 A historical list of lightning nodes, including .onion, updated daily.
 
+Data obtained from [c-lightning](https://github.com/ElementsProject/lightning) listnodes API.  [json](nodes-by-addr-type.json) also available.
+
 Last updated: <?= gmdate('Y-m-d H:i:s e' ); ?>
+
 
 ## Stats
 
