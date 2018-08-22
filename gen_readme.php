@@ -102,7 +102,7 @@ function e($b) {return htmlentities($b);}
 
 A historical list of lightning nodes, including .onion, updated daily.
 
-Data obtained from [c-lightning](https://github.com/ElementsProject/lightning) listnodes API.  [json](nodes-by-addr-type.json) also available.
+Data obtained from [c-lightning](https://github.com/ElementsProject/lightning) listnodes API.  [json](https://raw.githubusercontent.com/dan-da/lightning-nodes/master/nodes-by-addr-type.json) also available.
 
 Last updated: <?= gmdate('Y-m-d H:i:s e' ); ?>
 
