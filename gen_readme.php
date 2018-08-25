@@ -95,7 +95,11 @@ END;
 
 function nbr($b) {return str_replace(' ', '&nbsp;', $b);}
 
-function e($b) {return htmlentities($b);}
+// we quote strings with backtick only if string includes a colon.  because markdown
+// interprets certain colon delimited strings as emoji chars with no way to escape properly.
+// for our purposes mostly it means that ipv6 addrs will be in backticks, which will format them
+// evenly anyway.
+function e($b) { $quote = strstr($b, ':') ? "`" : ''; return $quote . htmlentities($b) . $quote;}
 
 ?>
 # lightning-nodes
