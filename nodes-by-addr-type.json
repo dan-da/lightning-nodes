@@ -1,14 +1,65 @@
 {
     "torv3": [
-
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1557597996,
+            "globalfeatures": "",
+            "global_features": "",
+            "type": "torv3",
+            "address": "ihhsjdncang7ve2rvhuunvy45bxvmh2qwz3vh7mohbouizd36ywnxeid.onion",
+            "port": 9735
+        }
     ],
     "torv2": [
-
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1557597996,
+            "globalfeatures": "",
+            "global_features": "",
+            "type": "torv2",
+            "address": "yqygrtvwihl3exb2.onion",
+            "port": 9735
+        }
     ],
     "ipv6": [
-
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1557597996,
+            "globalfeatures": "",
+            "global_features": "",
+            "type": "ipv6",
+            "address": "2001:4c4e:1cc4:b300:41a3:33ab:b19:71c5",
+            "port": 9735
+        }
     ],
     "ipv4": [
-
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1557597996,
+            "globalfeatures": "",
+            "global_features": "",
+            "type": "ipv4",
+            "address": "84.1.220.6",
+            "port": 9735
+        },
+        {
+            "nodeid": "02cf3cc45d8fee5055c4ba5a58fe22ae973685fa2cb43e2c5b6454eaa1d08066a8",
+            "alias": "lightningspin.com",
+            "color": "3399ff",
+            "last_timestamp": 1537398663,
+            "globalfeatures": "",
+            "global_features": "",
+            "type": "ipv4",
+            "address": "52.54.216.230",
+            "port": 9375
+        }
     ]
 }
