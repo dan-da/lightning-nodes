@@ -9,25 +9,6 @@
 
     ],
     "ipv4": [
-        {
-            "nodeid": "02cf3cc45d8fee5055c4ba5a58fe22ae973685fa2cb43e2c5b6454eaa1d08066a8",
-            "alias": "lightningspin.com",
-            "color": "3399ff",
-            "last_timestamp": 1537398663,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "52.54.216.230",
-            "port": 9375
-        },
-        {
-            "nodeid": "02c22b94cd9f033979d58e6afda46822220578a11cde2412e818dec57cc50afe86",
-            "alias": "XoolPay",
-            "color": "ff0000",
-            "last_timestamp": 1532716167,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "35.203.38.22",
-            "port": 9735
-        }
+
     ]
 }
