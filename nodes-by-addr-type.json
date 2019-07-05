@@ -1,6 +1,466 @@
 {
     "torv3": [
         {
+            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
+            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
+            "color": "4286f5",
+            "last_timestamp": 1562284516,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "pinnqmvunxzeggwp2ubmlrpo3janirp2ls2aiyc4priq66r45ivxhtid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d91ffaf5c8ca34c8f01dfaba24654965f41b650ce67c031dbb49b0be1e965bca",
+            "alias": "Bitcoin_Dashboards",
+            "color": "3399ff",
+            "last_timestamp": 1562284111,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "746q66g4bgdrzmestxhoznjc2yyu5st2jmbnj7wqh4tvw7nvvwlcojyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a6af88923fa400b4b21bcdae62c074a49d6ad69562ae6cb68bc63716b8e23edf",
+            "alias": "Dont.Tread.On.Me",
+            "color": "166522",
+            "last_timestamp": 1562283819,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "4rlyhwozaphu56ezbplg5yxpmq5mm3cbq7vkw7lhhcoqtmukdy5saoqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "033af5090e5530aec789e32e6ba160a2abb1e567d4777bd3c7b6fb59a92154b841",
+            "alias": "BrothersGrin001",
+            "color": "000001",
+            "last_timestamp": 1562283812,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "rlns22pzf2oaol2i5t6v434xwmb33iw265mupodxuq5gz7ma6uazsdqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d8527e8aa8c2d11d562c900bb2ef47b920c371fc30b805167bb7b2f1da6d7356",
+            "alias": "firemoonjarwood",
+            "color": "eff9f9",
+            "last_timestamp": 1562283522,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "a5j4mp2phrgwmndkyys7yyggxtrxkp7wxgb4nmpdr4u4vcxix7zimrad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b0172bb38617fa3afdb69664468b492d5a21062a4fa8b47284b0cc320e6e7420",
+            "alias": "NO FEES",
+            "color": "ff1493",
+            "last_timestamp": 1562283516,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "otjdikxvtpoqkjce3ljb6komkaeolxduegrblttltjndbjcyobptmayd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03668e08fefdc45f91d21dada56f7fed9424dc1092390b88e34a4f119fa4a9e002",
+            "alias": "CryptoCloaks",
+            "color": "3399ff",
+            "last_timestamp": 1562280027,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "f4j42yid76hfoyj5wjuitiospdyoxko4apsswuw2cnnfmb3gcmqyjjyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6",
+            "alias": "FastForward",
+            "color": "3399ff",
+            "last_timestamp": 1562280025,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "tucutu2cpsnuglsqqaffu725ctsrwvqfgfm6thhecljcwghjwwjyxfqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02f0c9ba2df10171326a77518f8f5f5708677efa0656f377e8256d71f8f8df433a",
+            "alias": "DigitalWampum",
+            "color": "3399ff",
+            "last_timestamp": 1562279581,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "nruz2abbeaohaxdmyu6mjbw77uynhfbdusgdcuvmhw5hyqo3whasnhad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "026c7d28784791a4b31a64eb34d9ab01552055b795919165e6ae886de637632efb",
+            "alias": "WalletOfSatoshi.com",
+            "color": "3399ff",
+            "last_timestamp": 1562279579,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "inlbj2nfu4au6bpa62ysezf4ejekl5bwqqlnc2h4g6pmc2exmaggfpyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "027e74b73db73f0509c1682f66031685126c8c9b6f8999f463a7ed43dd986c6a9d",
+            "alias": "https:\/\/store.creamer.online",
+            "color": "3399ff",
+            "last_timestamp": 1562275882,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "34ga7tcmvqb2nqluvmwpxhnfblxarxehtxny46rvwvykohrxjzj4adid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b",
+            "alias": "CodeEngine",
+            "color": "3399ff",
+            "last_timestamp": 1562275628,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "pcfh5i56kjdmivy2dxil2nlxg5eftxg223n3yx2amqqwz6vzfxdbbkyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02f26b91ca89af68308e162723a2d0ad87f21807970a40b7bbf391fe70e3d1bc58",
+            "alias": "CHOLO-COIN",
+            "color": "3399ff",
+            "last_timestamp": 1562273561,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "wu446jtyop2tphcpgqzl76xgoxagryqa2p3dvzfgjxqztqybcu4qfiqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c",
+            "alias": "mainnet.demo.btcpayserver.org",
+            "color": "3399ff",
+            "last_timestamp": 1562273507,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "dppqg535s5shy5sjnsmzzrk3cdyshwau5vierujpybybboxxxglfx7id.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03844d74f7c60b52e50397c32e52e3910e37542b91c9c59bfdaa2306c63f9e5c6e",
+            "alias": "Ireland~Setantasats",
+            "color": "190533",
+            "last_timestamp": 1562273503,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "fu275wta7pbx47k5znkr76ttxss3jinusatxokhbihyt2undmed2waid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "032c9bab7bf5c3b17ad231c617315890861227a802b422c62422cf03bf4f089a0c",
+            "alias": "BTC_&_Beyond",
+            "color": "3399ff",
+            "last_timestamp": 1562267627,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "n6424f22xfk7xotusaomrhb3jyavjjlsx2bbl2hla3kfhnv43e6s24id.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c1321de5a127023115b90f33ae1244349269f5d18d3ea4014be697e700c07ccc",
+            "alias": "drader",
+            "color": "3399ff",
+            "last_timestamp": 1562267614,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "z2mtbdw4qm7luemw25h3ohivhyjaimjtrapb3mgprpz4osvhh6dpkayd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c9cb215be13811725c1398ed6f0995eaad5844fc3cd9695e630c81a744c8740d",
+            "alias": "lightninghood",
+            "color": "3399ff",
+            "last_timestamp": 1562267549,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ifcugk7njoucsmuthqoqxh7rnxjtxfabi4yfa4d7xhvuwan3wse47oyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "033c45158d8fda3b0989868b991d01071785a02fb7eabcf6b228eed06266273917",
+            "alias": "GR3Y",
+            "color": "0038f9",
+            "last_timestamp": 1562261422,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "azxzsmirbnltisnxghtdltt6xskdyasrm7vysxf4bmcwfnufsym4niad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02ef01a0a61aa6bc2730ce6d129338ea951658c94113ad9c901752c00c05d9a072",
+            "alias": "StippyGcpLnd",
+            "color": "3399ff",
+            "last_timestamp": 1562260479,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "5rkysp4y4vq6pkmxgg6lccs2lvi7cg3hix2kkxbd4r2hpmfxgvh4x5qd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "0200da31ae309a42f955de9383c150a4167246bb22d5380898cd70aecc59136c50",
+            "alias": "Kortik nodl [LND]",
+            "color": "0000ff",
+            "last_timestamp": 1562258628,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "2cl6pbc7dzopfnjmpzdmw3pnh36tqsam7zzp7ypp3v5fujwjllcfjoad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c428c711548cd58ba9ec91b7d033fd1ef3dd80e7401b55b2c69d32ff50fb4fa1",
+            "alias": "Wealth.of.Being",
+            "color": "008fb3",
+            "last_timestamp": 1562257749,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "pujgexbct3lgwv6shrpxgcssyw64yescivgxfugwigwdacd6i734l5ad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "026ea3b690695aa9324bd1b0216d8b1e8349de7aac5af93a322e7cad0ef415dd1b",
+            "alias": "Nodetorious",
+            "color": "3399ff",
+            "last_timestamp": 1562243760,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "mg7hv3ephcdc3hx2kiemv653m5sc7jcxdckw7b6emdogrjvohc325nad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b873b95a7b654fd70aa7af6f3d37bff83317f5db6a4f32c9b45b6f4cb1b065dc",
+            "alias": "StrangerInTheKu",
+            "color": "02b873",
+            "last_timestamp": 1562241542,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ib7ytgtfkikhuktkmuw7epqcbdzf6ckvxjpkj36hartvthrrss2hutid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03de1af7718d337582329110abb710bc9c4782afa4507efa4633f168273e92fabf",
+            "alias": "My_Livin_Truth",
+            "color": "3399ff",
+            "last_timestamp": 1562241300,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "vvao3fw2c564yrxjvw2rmvznncabgzjam5lg3pjtol4jzdndoyiwf3id.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
+            "alias": "nolim1t.co LNCM Box [Onion 2]",
+            "color": "000000",
+            "last_timestamp": 1562238866,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "lncmnlqtc5rovakrv2q5unv2zy434hhvv4mjz65kveyy26wp5tl7hrqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03774878eb997f238fb8ce1529e7edb5079a9fcbc6bde4da05f1be1687287c434e",
+            "alias": "TiberianSun",
+            "color": "3399ff",
+            "last_timestamp": 1562231884,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "4dusmcjhouel4v5exh7ij27z7ikijd3k2xxq2ok4irvjegmvrhe4yuad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+            "alias": "ACINQ",
+            "color": "49daaa",
+            "last_timestamp": 1562228901,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "of7husrflx7sforh3fw6yqlpwstee3wg5imvvmkp4bz6rbjxtg5nljad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "037f3d5b948f9c048aa53f2818255d4e137aabf03255e6adf3bc347b82bd3d20f8",
+            "alias": "uBITquity",
+            "color": "f6fc31",
+            "last_timestamp": 1562224078,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "hgas3ika4hgxsh5rl5v4rs3wngf5dsybwdiag3g2ifbvxuzegf35fnyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
+            "alias": "HODLcat.com",
+            "color": "3399ff",
+            "last_timestamp": 1562217076,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "eu4crm2co2o273naqvtiacjpibdzq6v5xsz6zfm2gtmh2g7xoggtyayd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "039fdcba660a31be8bf8d2f3b9b2dc58c0abcdf09db81a063fa2aaa77c5813cce9",
+            "alias": "SanFranciscoLN",
+            "color": "ff9900",
+            "last_timestamp": 1562211134,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "prr722o6lqwg5fj4wpvz2hchvbdlcv6danjqdhurhw5wxtl7i7wkqcid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1562209382,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ihhsjdncang7ve2rvhuunvy45bxvmh2qwz3vh7mohbouizd36ywnxeid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "024e8048d516473f5d2032eb2a221faf955060e54fd5ac3bfa153649620487fa0e",
+            "alias": "Breakwater",
+            "color": "00ffff",
+            "last_timestamp": 1562208218,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "b3bj72cb3otgqmaw34f5x3lxtnobgdg63opn72pfj7hoo5rqyhynchqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "029679e5a0413f06b082bb4cc081cee13517ad403323b9c018b172584718aea8f6",
+            "alias": "shallot",
+            "color": "b55c93",
+            "last_timestamp": 1562205348,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "q3m4yardlfgci2345zahghtzfhydrkdioduoi46xrtcoq6ija3tjzxid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "021d064e3b9a9dfd70f0e7485f4b1e96908d18a006d181a4df43c222a4657454bb",
+            "alias": "techsmalltalk",
+            "color": "3399ff",
+            "last_timestamp": 1562197915,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "e25fwqo7y7sy4dwe2gxffb72moojqz3247uprwoj7ecbakue7a5jvjid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "0318070901e08df311cdc6cdb8a0b4a43a3690c5b32d1fb9d8e99d1a625a65e5f2",
+            "alias": "ion.radar.tech",
+            "color": "3399ff",
+            "last_timestamp": 1562196429,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ijjz7cskcrpcyxhv65i54ciuef7cdusau63lgtvl3pvb3kyov4zkujqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "026e186f6cf00009595c9083980304f0be65c8c3736b63c1c9135ef9aa952f644e",
+            "alias": "Britvr",
+            "color": "3399ff",
+            "last_timestamp": 1562190361,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ffrcioqrhodqazcaxi74ib5zoa6j3lkxeyekdomarfmonmp4kzjotdad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03cc1619ec785b9ca1f0d61f8846d2b294e8446697ff65160937e2374d4897311f",
+            "alias": "Tarlui",
+            "color": "0000ff",
+            "last_timestamp": 1562185525,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "e6rewwent2ijq7e24z6dce3ke4plb2q6mq7gqami7tlybhu653s45wqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d419c9af624d0e7a7c90a60b9ffa35f4934973a9d7d3b4175cc3cc28b7ffcde1",
+            "alias": "stackingsats [NODL] [TFTC] [RHR]",
+            "color": "0000ff",
+            "last_timestamp": 1562185524,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "4k65ti7tyv6ejntpvtxwtzc2ala25fx4bxms2dekax3lb5n2c3rexhid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "033fd3e16bc450ea25cad365c8422f5534429c084a2f5e200caaf5fee6811418e5",
+            "alias": "OpenChannelN1",
+            "color": "000099",
+            "last_timestamp": 1562180779,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "kparkvouttawgfaskjeoxbbrlfb5ujr6v2hfke5nyfnmcxnozjoazmid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "020a9442b1daee87f771203cf78e1d6c1468f525ecc1a8fde027bd20582b8f6962",
+            "alias": "Pluke",
+            "color": "020a94",
+            "last_timestamp": 1562178298,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "uadjs4rnvn6xv5fxjas32zdjqwzzft4tupl75w5zrrmxj6xdmfdqgsqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b71e22854281fbd83a7a52932c97fa2e94458813c2e36ea723ac2f8c43a08d35",
+            "alias": "LibraReserve",
+            "color": "68f442",
+            "last_timestamp": 1562166581,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "brg6nv3srq2mi7uueeyy7pm2guwgxnp3hv5lbhswlyui6bnr6j22a2ad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02888244029c5909593038ab19f269947c720de3423e491791b46c7c92f76279b6",
+            "alias": "Bitkoins.nl",
+            "color": "23354d",
+            "last_timestamp": 1562166533,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "2bh7psr4dinasuz3d6jm5o56ebkmlnotqqptoesikzvsyqxwmaneyiad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "027fe83c26ea2cfc434d27a80506f1b54ff0867c761c1b4ec4bae37dc33f236953",
+            "alias": "GigaMegs",
+            "color": "3399ff",
+            "last_timestamp": 1562160758,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "3f25b2pdgi2mm2dshkepa635ewnnmqszgnqkwynirvbe25hkzhbwmqyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02233a3b30d7c8b08542eefe66978e45d2962ed21e857ce33ea1452b5b90173d77",
+            "alias": "Coincards",
+            "color": "3399ff",
+            "last_timestamp": 1562160553,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "di75hdinhyvgskx72ms2gwmyw5x52axotprihm2l6ajh6mzg76hbzcad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03949914687fadf3bca1abe088db2b9a5bc105194a36f230f7e54e90e88d2dc0ec",
+            "alias": "Onion Routing [nodl] [ramsesIAE]",
+            "color": "0000ff",
+            "last_timestamp": 1562159050,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "dfn7tldhgct7xxtw6kjrp6ndjf5xqivaqdhj5djheeuhijeplrki4wid.onion",
+            "port": 9735
+        },
+        {
             "nodeid": "02690881543d633f3a16c8ff97397f3f2e8765a15f5ac057d701243e5adb7ba856",
             "alias": "BTC4DeWin",
             "color": "3399ff",
@@ -8,86 +468,6 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "blpl6hmiojc7744yzgwrjyggnddxavyioqor4ajjemars22k57pd3oyd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "032c9bab7bf5c3b17ad231c617315890861227a802b422c62422cf03bf4f089a0c",
-            "alias": "BTC_&_Beyond",
-            "color": "3399ff",
-            "last_timestamp": 1562147334,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "n6424f22xfk7xotusaomrhb3jyavjjlsx2bbl2hla3kfhnv43e6s24id.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02b0172bb38617fa3afdb69664468b492d5a21062a4fa8b47284b0cc320e6e7420",
-            "alias": "NO FEES",
-            "color": "ff1493",
-            "last_timestamp": 1562147321,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "otjdikxvtpoqkjce3ljb6komkaeolxduegrblttltjndbjcyobptmayd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "03cc1619ec785b9ca1f0d61f8846d2b294e8446697ff65160937e2374d4897311f",
-            "alias": "Tarlui",
-            "color": "0000ff",
-            "last_timestamp": 1562147319,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "e6rewwent2ijq7e24z6dce3ke4plb2q6mq7gqami7tlybhu653s45wqd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02d8527e8aa8c2d11d562c900bb2ef47b920c371fc30b805167bb7b2f1da6d7356",
-            "alias": "firemoonjarwood",
-            "color": "eff9f9",
-            "last_timestamp": 1562143009,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "a5j4mp2phrgwmndkyys7yyggxtrxkp7wxgb4nmpdr4u4vcxix7zimrad.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "0318070901e08df311cdc6cdb8a0b4a43a3690c5b32d1fb9d8e99d1a625a65e5f2",
-            "alias": "ion.radar.tech",
-            "color": "3399ff",
-            "last_timestamp": 1562136540,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "ijjz7cskcrpcyxhv65i54ciuef7cdusau63lgtvl3pvb3kyov4zkujqd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "039fdcba660a31be8bf8d2f3b9b2dc58c0abcdf09db81a063fa2aaa77c5813cce9",
-            "alias": "SanFranciscoLN",
-            "color": "3399ff",
-            "last_timestamp": 1562136079,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "prr722o6lqwg5fj4wpvz2hchvbdlcv6danjqdhurhw5wxtl7i7wkqcid.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02d419c9af624d0e7a7c90a60b9ffa35f4934973a9d7d3b4175cc3cc28b7ffcde1",
-            "alias": "stackingsats [NODL] [TFTC] [RHR]",
-            "color": "0000ff",
-            "last_timestamp": 1562136076,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "4k65ti7tyv6ejntpvtxwtzc2ala25fx4bxms2dekax3lb5n2c3rexhid.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "027fe83c26ea2cfc434d27a80506f1b54ff0867c761c1b4ec4bae37dc33f236953",
-            "alias": "GigaMegs",
-            "color": "3399ff",
-            "last_timestamp": 1562134297,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "3f25b2pdgi2mm2dshkepa635ewnnmqszgnqkwynirvbe25hkzhbwmqyd.onion",
             "port": 9735
         },
         {
@@ -131,16 +511,6 @@
             "port": 9735
         },
         {
-            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
-            "alias": "nolim1t.co LNCM Box [Onion 2]",
-            "color": "000000",
-            "last_timestamp": 1562126401,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "lncmnlqtc5rovakrv2q5unv2zy434hhvv4mjz65kveyy26wp5tl7hrqd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "02fe07562f630052b738cbb7cbf411bc254abcbb8f077a59a3296054221d92f560",
             "alias": "Bitcoin_Rabbi",
             "color": "3399ff",
@@ -151,26 +521,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
-            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
-            "color": "4286f5",
-            "last_timestamp": 1562114728,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "pinnqmvunxzeggwp2ubmlrpo3janirp2ls2aiyc4priq66r45ivxhtid.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "03844d74f7c60b52e50397c32e52e3910e37542b91c9c59bfdaa2306c63f9e5c6e",
-            "alias": "Ireland~Setantasats",
-            "color": "190533",
-            "last_timestamp": 1562114183,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "fu275wta7pbx47k5znkr76ttxss3jinusatxokhbihyt2undmed2waid.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "0370805207c6db1c09528c20db0e32898bf8ff9116e47803a60b63b6d54705f904",
             "alias": "SamSamskies",
             "color": "3399ff",
@@ -178,36 +528,6 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "pgp3bjz5c3kecxhshzv42shrdwh3f7j6bgxmcywdyispwrefwu2rmgad.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "026c7d28784791a4b31a64eb34d9ab01552055b795919165e6ae886de637632efb",
-            "alias": "WalletOfSatoshi.com",
-            "color": "3399ff",
-            "last_timestamp": 1562114107,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "inlbj2nfu4au6bpa62ysezf4ejekl5bwqqlnc2h4g6pmc2exmaggfpyd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "03668e08fefdc45f91d21dada56f7fed9424dc1092390b88e34a4f119fa4a9e002",
-            "alias": "CryptoCloaks",
-            "color": "3399ff",
-            "last_timestamp": 1562111487,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "f4j42yid76hfoyj5wjuitiospdyoxko4apsswuw2cnnfmb3gcmqyjjyd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6",
-            "alias": "FastForward",
-            "color": "3399ff",
-            "last_timestamp": 1562107696,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "tucutu2cpsnuglsqqaffu725ctsrwvqfgfm6thhecljcwghjwwjyxfqd.onion",
             "port": 9735
         },
         {
@@ -241,23 +561,23 @@
             "port": 9735
         },
         {
-            "nodeid": "02c428c711548cd58ba9ec91b7d033fd1ef3dd80e7401b55b2c69d32ff50fb4fa1",
-            "alias": "Wealth.of.Being",
-            "color": "008fb3",
-            "last_timestamp": 1562095960,
+            "nodeid": "03387d02858848ca02d53b4f65db2998d031b7f05e4cbb2e5be97b97806ab46a8c",
+            "alias": "Dont Tread On Me",
+            "color": "0000ff",
+            "last_timestamp": 1562095764,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "pujgexbct3lgwv6shrpxgcssyw64yescivgxfugwigwdacd6i734l5ad.onion",
+            "address": "cafyigldd5t4275ztojz3cqnhs5knrus6ypyzntvrcufpakzovsmfbyd.onion",
             "port": 9735
         },
         {
-            "nodeid": "03949914687fadf3bca1abe088db2b9a5bc105194a36f230f7e54e90e88d2dc0ec",
-            "alias": "Onion Routing [nodl] [ramsesIAE]",
-            "color": "0000ff",
-            "last_timestamp": 1562094014,
+            "nodeid": "0214b87e06039a44b5a23580f0e2f801b913fe9e3dc29169419f5eed15e449e9d3",
+            "alias": "readevalprint",
+            "color": "3399ff",
+            "last_timestamp": 1562095763,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "dfn7tldhgct7xxtw6kjrp6ndjf5xqivaqdhj5djheeuhijeplrki4wid.onion",
+            "address": "fafumon6bsuvs7rchggboh5il4byab5ccin7q353i6rj7ww6fengcsqd.onion",
             "port": 9735
         },
         {
@@ -271,23 +591,13 @@
             "port": 9735
         },
         {
-            "nodeid": "02ef01a0a61aa6bc2730ce6d129338ea951658c94113ad9c901752c00c05d9a072",
-            "alias": "StippyGcpLnd",
+            "nodeid": "0378c09e54e11e4705e12333bb697c92dbc0124d7b58bac99f27822032ec112c76",
+            "alias": "0378c09e54e11e4705e1",
             "color": "3399ff",
-            "last_timestamp": 1562072511,
+            "last_timestamp": 1562089643,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "5rkysp4y4vq6pkmxgg6lccs2lvi7cg3hix2kkxbd4r2hpmfxgvh4x5qd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02f0c9ba2df10171326a77518f8f5f5708677efa0656f377e8256d71f8f8df433a",
-            "alias": "DigitalWampum",
-            "color": "3399ff",
-            "last_timestamp": 1562039444,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "nruz2abbeaohaxdmyu6mjbw77uynhfbdusgdcuvmhw5hyqo3whasnhad.onion",
+            "address": "nytnpilf4spxrn4fjttdhunn5pjf2mfyv43iysw4chla6jx645ure5id.onion",
             "port": 9735
         },
         {
@@ -298,16 +608,6 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "gwdllz5g7vky2q4gr45zguvoajzf33czreca3a3exosftx72ekppkuqd.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c",
-            "alias": "mainnet.demo.btcpayserver.org",
-            "color": "3399ff",
-            "last_timestamp": 1562030277,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "dppqg535s5shy5sjnsmzzrk3cdyshwau5vierujpybybboxxxglfx7id.onion",
             "port": 9735
         },
         {
@@ -391,16 +691,6 @@
             "port": 9735
         },
         {
-            "nodeid": "030d609a79a8a0226b9ec3d76fad79ddcc7abcef9f65a64b46d8bbe2fc6be14705",
-            "alias": "jiggytom-LN",
-            "color": "3399ff",
-            "last_timestamp": 1561980754,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "rg5wy4vkz6yufbjwj6war6xptvxj72n7uj5e3g3rsirhdd5htruekcqd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "02d538902fada60a1ab963116cf257a910fb57c0f22c9756526867a8965325a275",
             "alias": "nocomment",
             "color": "3399ff",
@@ -408,6 +698,16 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "hdosprf46u3zx3v44kmvvqtqj2g57kyy3honhymebjw7mk35ldgcriid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "030d609a79a8a0226b9ec3d76fad79ddcc7abcef9f65a64b46d8bbe2fc6be14705",
+            "alias": "jiggytom-LN",
+            "color": "3399ff",
+            "last_timestamp": 1561980754,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "rg5wy4vkz6yufbjwj6war6xptvxj72n7uj5e3g3rsirhdd5htruekcqd.onion",
             "port": 9735
         },
         {
@@ -431,13 +731,23 @@
             "port": 9735
         },
         {
-            "nodeid": "02233a3b30d7c8b08542eefe66978e45d2962ed21e857ce33ea1452b5b90173d77",
-            "alias": "Coincards",
-            "color": "3399ff",
-            "last_timestamp": 1561980710,
+            "nodeid": "03d433cecdf752e28d49feef3ce3e3afe9bbbbcd286f1f54ac4dfef1068968d4b5",
+            "alias": "))<Back+Forth_4eva>((",
+            "color": "9c6125",
+            "last_timestamp": 1561928291,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "di75hdinhyvgskx72ms2gwmyw5x52axotprihm2l6ajh6mzg76hbzcad.onion",
+            "address": "35jkoi6zb4xpfirdvgkwzcydudxtos337apdn3m24qxcosaxaquln7ad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "030b3244ddc7c5ad28631e29a23fb5da233ee17561796c276398f4ef140a6ee171",
+            "alias": "030b3244ddc7c5ad2863",
+            "color": "3399ff",
+            "last_timestamp": 1561926157,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "za43mkp2g3n3u45teekalv3vbgoc7dsaowumgojq3adt47axaspp4tad.onion",
             "port": 9735
         },
         {
@@ -471,13 +781,13 @@
             "port": 9735
         },
         {
-            "nodeid": "027e74b73db73f0509c1682f66031685126c8c9b6f8999f463a7ed43dd986c6a9d",
-            "alias": "https:\/\/store.creamer.online",
+            "nodeid": "038eb6893f5b49e7362af61ee1398005a1cf0129c3167fcd05ee07d63670cd3bab",
+            "alias": "paradyme",
             "color": "3399ff",
-            "last_timestamp": 1561888811,
+            "last_timestamp": 1561900496,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "34ga7tcmvqb2nqluvmwpxhnfblxarxehtxny46rvwvykohrxjzj4adid.onion",
+            "address": "cv7qjng7mmtheg7cabz6vqs5l3go6vztuttramwkyotfy4e5q7a6zgad.onion",
             "port": 9735
         },
         {
@@ -561,26 +871,6 @@
             "port": 9735
         },
         {
-            "nodeid": "033fd3e16bc450ea25cad365c8422f5534429c084a2f5e200caaf5fee6811418e5",
-            "alias": "OpenChannelN1",
-            "color": "000099",
-            "last_timestamp": 1561796828,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "kparkvouttawgfaskjeoxbbrlfb5ujr6v2hfke5nyfnmcxnozjoazmid.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
-            "alias": "HODLcat.com",
-            "color": "3399ff",
-            "last_timestamp": 1561794278,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "eu4crm2co2o273naqvtiacjpibdzq6v5xsz6zfm2gtmh2g7xoggtyayd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "023e33eec7f451d03bac8f23002e5933a19493fa8f98412b560375e5c97021beea",
             "alias": "023e33eec7f451d03bac",
             "color": "3399ff",
@@ -621,13 +911,13 @@
             "port": 9735
         },
         {
-            "nodeid": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
-            "alias": "ACINQ",
-            "color": "49daaa",
-            "last_timestamp": 1561667619,
+            "nodeid": "036be92279e96d7662ccad65e77a24f3c4f4c5cbbead557c9227cc9180e27eda1c",
+            "alias": "MinorNode",
+            "color": "65b8ed",
+            "last_timestamp": 1561689438,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "of7husrflx7sforh3fw6yqlpwstee3wg5imvvmkp4bz6rbjxtg5nljad.onion",
+            "address": "zberdw64f36m2i2uz6znkj6fiavwjxjmmgvte6x76brark26u6fd24yd.onion",
             "port": 9735
         },
         {
@@ -641,6 +931,26 @@
             "port": 9735
         },
         {
+            "nodeid": "035ef1c0ef3c3273820abeb6136a3c79736d7af4e1cb8783410eb022b5a46390a3",
+            "alias": "\u201cquitebeyond\u201d",
+            "color": "3399ff",
+            "last_timestamp": 1561110480,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "4ouqy3mvectbu2bau2je7dbgkrgvvp5cx4jlvdysyphjjvnqldoqa6qd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03b1ba0b913b793b4de77c9fbb5ed3bfc3897e247113b3c2d7d34fed0895ad4e1e",
+            "alias": "SLIMYMONKEY",
+            "color": "03b1ba",
+            "last_timestamp": 1560848548,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "fbvh223luee73v4o2f3zk3yo6rzlg4kmdpdhzbfyf7aajfxgy7dyk5yd.onion",
+            "port": 9735
+        },
+        {
             "nodeid": "032d23fcf7c4196425c12473296662efd71f9ea56600922483d6bee4582c4c21d7",
             "alias": "bitcoincentralxyz",
             "color": "3399ff",
@@ -651,6 +961,16 @@
             "port": 9735
         },
         {
+            "nodeid": "0258945ca7e59ea2f98dfa30ee129dc0e923140d41cb94d25466096c68ea06f50b",
+            "alias": "d25466096c68ea06f50b",
+            "color": "3399ff",
+            "last_timestamp": 1560583159,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "i3qa6kehv7ez3yg3puhymckjl2tib4bcjqrnfxo3uqq5ywvczzh32cqd.onion",
+            "port": 9735
+        },
+        {
             "nodeid": "0388a2cd707ac944a2b0c8adbf67c4a313d24b6dc2ab2baba842f9a9eecf925131",
             "alias": "Estonia",
             "color": "3dc7f2",
@@ -658,6 +978,26 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "bis4fbzfc5obborx4lfqwoxvqgihzle3kjtagp3emtbzggmlntmj7gyd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "025d3f013953c2f32f9cf27b1c66b6c25b915295983508ca1cde117d30f51d40cd",
+            "alias": "FreedomForever!",
+            "color": "3399ff",
+            "last_timestamp": 1559941530,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "ncpuul45es2ia7smhosvxkjqfgpgegrmry2rk3xtmvx6no27fnxsvxid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02876b0cfe1327dd3076c378ca04c56f53e6bcf9fdae5c5d45e517a6da6519f015",
+            "alias": "Yodamatka",
+            "color": "3399ff",
+            "last_timestamp": 1559564102,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "mntaoxzo4fc6ykzrn77j4gejqemde2sbu4hm5ocpqshe2s3yiw6valid.onion",
             "port": 9735
         },
         {
@@ -693,23 +1033,113 @@
     ],
     "torv2": [
         {
-            "nodeid": "03fc20baf6ca4f8c8f4599f1aa9088236ee53f6884412b80677c03b6deeeb449f6",
-            "alias": "ln-vps.nolim1t.co Neutrino",
-            "color": "3399ff",
-            "last_timestamp": 1562143758,
+            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
+            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
+            "color": "4286f5",
+            "last_timestamp": 1562284516,
             "globalfeatures": "",
             "type": "torv2",
-            "address": "lncmnlgypuendl5t.onion",
+            "address": "qk2ealuaxlfvwd3j.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b873b95a7b654fd70aa7af6f3d37bff83317f5db6a4f32c9b45b6f4cb1b065dc",
+            "alias": "StrangerInTheKu",
+            "color": "02b873",
+            "last_timestamp": 1562241542,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "x26ovwv2ikhgznnh.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
+            "alias": "nolim1t.co LNCM Box [Onion 2]",
+            "color": "000000",
+            "last_timestamp": 1562238866,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "lncmnlboujsrkjh6.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
+            "alias": "nolim1t.co LNCM Box [Onion 2]",
+            "color": "000000",
+            "last_timestamp": 1562238866,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "wylokoxmxwga56ia.onion",
             "port": 9735
         },
         {
             "nodeid": "02a7d9114c9dc6e447e012d6ba26781af84f324d8d6f6c32085ec1ee3595af73d1",
             "alias": "Tegege",
             "color": "68f442",
-            "last_timestamp": 1562137570,
+            "last_timestamp": 1562222221,
             "globalfeatures": "",
             "type": "torv2",
             "address": "lgjojfd7e6cyha74.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fc20baf6ca4f8c8f4599f1aa9088236ee53f6884412b80677c03b6deeeb449f6",
+            "alias": "ln-vps.nolim1t.co Neutrino",
+            "color": "3399ff",
+            "last_timestamp": 1562213291,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "lncmnlgypuendl5t.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1562209382,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "yqygrtvwihl3exb2.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02f31ff9c53e1773431f248ea81b97f09f98bb8798747e67e9f080d1d20b7d644d",
+            "alias": "candle",
+            "color": "68f442",
+            "last_timestamp": 1562185527,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "druozxf5on563npw.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "020a9442b1daee87f771203cf78e1d6c1468f525ecc1a8fde027bd20582b8f6962",
+            "alias": "Pluke",
+            "color": "020a94",
+            "last_timestamp": 1562178298,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "qvrx4xcynumgqyjf.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02888244029c5909593038ab19f269947c720de3423e491791b46c7c92f76279b6",
+            "alias": "Bitkoins.nl",
+            "color": "23354d",
+            "last_timestamp": 1562166533,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "tjeuwxa2rr24iprs.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "0276e09a267592e7451a939c932cf685f0754de382a3ca85d2fb3a864d4c365ad5",
+            "alias": "\"Cheese\"",
+            "color": "0276e0",
+            "last_timestamp": 1562145362,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "amxok6wgq7ytj2oq.onion",
             "port": 9735
         },
         {
@@ -730,46 +1160,6 @@
             "globalfeatures": "",
             "type": "torv2",
             "address": "mhpbuyl5zkfapkzb.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
-            "alias": "nolim1t.co LNCM Box [Onion 2]",
-            "color": "000000",
-            "last_timestamp": 1562126401,
-            "globalfeatures": "",
-            "type": "torv2",
-            "address": "wylokoxmxwga56ia.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "032658fa3a01177b381618af9a5b92f95d90b801752ef1a43f88b81b192f891bdb",
-            "alias": "nolim1t.co LNCM Box [Onion 2]",
-            "color": "000000",
-            "last_timestamp": 1562126401,
-            "globalfeatures": "",
-            "type": "torv2",
-            "address": "lncmnlboujsrkjh6.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02f31ff9c53e1773431f248ea81b97f09f98bb8798747e67e9f080d1d20b7d644d",
-            "alias": "candle",
-            "color": "68f442",
-            "last_timestamp": 1562116243,
-            "globalfeatures": "",
-            "type": "torv2",
-            "address": "druozxf5on563npw.onion",
-            "port": 9735
-        },
-        {
-            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
-            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
-            "color": "4286f5",
-            "last_timestamp": 1562114728,
-            "globalfeatures": "",
-            "type": "torv2",
-            "address": "qk2ealuaxlfvwd3j.onion",
             "port": 9735
         },
         {
@@ -888,10 +1278,30 @@
             "nodeid": "027ce055380348d7812d2ae7745701c9f93e70c1adeb2657f053f91df4f2843c71",
             "alias": "ftp.halifax.rwth-aachen.de",
             "color": "3399ff",
-            "last_timestamp": 1562130116,
+            "last_timestamp": 1562267610,
             "globalfeatures": "",
             "type": "ipv6",
             "address": "2a00:8a60:e012:a00::21",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1562209382,
+            "globalfeatures": "",
+            "type": "ipv6",
+            "address": "2001:4c4e:1cc2:ba00:1e6f:65ff:fec8:a825",
+            "port": 9735
+        },
+        {
+            "nodeid": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+            "alias": "BCash_Is_Trash",
+            "color": "ffaa00",
+            "last_timestamp": 1562167456,
+            "globalfeatures": "",
+            "type": "ipv6",
+            "address": "2601:186:c100:6bcd:219:d1ff:fe75:dc2f",
             "port": 9735
         },
         {
@@ -945,6 +1355,16 @@
             "port": 9735
         },
         {
+            "nodeid": "028b3ba3aa14be49e5096758c2b062114251eafd9a3dec502c64f3f079322672cb",
+            "alias": "shop.nodl.it",
+            "color": "ff0000",
+            "last_timestamp": 1561991600,
+            "globalfeatures": "",
+            "type": "ipv6",
+            "address": "2a07:7200:ffff:c35f::e1:243",
+            "port": 9735
+        },
+        {
             "nodeid": "02fe9469e1d7da69539e365c9b2a64d277ed5589622cb314dc8b3060f3c55f79e6",
             "alias": "ScripterRon",
             "color": "3399ff",
@@ -952,6 +1372,16 @@
             "globalfeatures": "",
             "type": "ipv6",
             "address": "2600:1f18:64d9:1603:4436:871e:2bfe:7403",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a2c53bc475cb92e4ab2f38a5bca56df695034ce90ad78c2f47c05911e3f79e41",
+            "alias": "schmoock.net",
+            "color": "00ddff",
+            "last_timestamp": 1561965241,
+            "globalfeatures": "",
+            "type": "ipv6",
+            "address": "2a01:4f8:141:47::2",
             "port": 9735
         },
         {
@@ -965,13 +1395,23 @@
             "port": 9735
         },
         {
-            "nodeid": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
-            "alias": "BCash_Is_Trash",
-            "color": "ffaa00",
-            "last_timestamp": 1559171393,
+            "nodeid": "03649c72a4816f0cd546f84aafbd657e92a30ab474de7ab795e8b5650a427611f7",
+            "alias": "Bitcoin emBassy TLV",
+            "color": "03649c",
+            "last_timestamp": 1558532308,
             "globalfeatures": "",
             "type": "ipv6",
-            "address": "2601:186:c100:6bcd:219:d1ff:fe75:dc2f",
+            "address": "2604:a880:400:d1::8bd:1001",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d925132e2c79d65cd13bba919a9223f43a44305591c60a01519826ac2ac6e69e",
+            "alias": "Dotbit.me",
+            "color": "02d925",
+            "last_timestamp": 1553798505,
+            "globalfeatures": "",
+            "type": "ipv6",
+            "address": "2a01:4f8:190:9005::2",
             "port": 9735
         },
         {
@@ -1017,43 +1457,1643 @@
     ],
     "ipv4": [
         {
-            "nodeid": "02cc7387483ce150555fdbfe1aafa32dc01536326015b3ad2c65f445edf9d76932",
-            "alias": "LND_SG [LND]",
-            "color": "68f442",
-            "last_timestamp": 1562154031,
+            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
+            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
+            "color": "4286f5",
+            "last_timestamp": 1562284516,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "219.75.115.140",
+            "address": "62.210.167.199",
             "port": 9735
         },
         {
-            "nodeid": "03094b63a5ece2c363ab859952017f95bec7bd9e6975f0c8152f9eff83d0b045c2",
-            "alias": "KIWILAMB",
-            "color": "ff4500",
-            "last_timestamp": 1562152733,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "203.118.161.101",
-            "port": 9735
-        },
-        {
-            "nodeid": "03e28223dc9b962d824c4a41dd6a2d178a72004594b87aa28cbfdf63e551fbef33",
-            "alias": "TheHub",
+            "nodeid": "02c79489d45cb0875515000d44bde452d2f9a0b3f718928248a254d413ae5bbbd2",
+            "alias": "MrYamiOko",
             "color": "3399ff",
-            "last_timestamp": 1562151641,
+            "last_timestamp": 1562283510,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "176.12.25.146",
+            "address": "1.156.4.131",
+            "port": 9735
+        },
+        {
+            "nodeid": "032434517e28f7b51665a525d5e11fa493bd4e30a59883b8156c2be4085f4aaf70",
+            "alias": "Sagittarius A*",
+            "color": "ff9000",
+            "last_timestamp": 1562283506,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.6.13.125",
+            "port": 9735
+        },
+        {
+            "nodeid": "0231eccc6510eb2e1c97c8a190d6ea096784aa7c358355442055aac8b20654f932",
+            "alias": "BitKassa LN34961 [LND]",
+            "color": "7423cd",
+            "last_timestamp": 1562283506,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "83.162.211.100",
+            "port": 9735
+        },
+        {
+            "nodeid": "02059220fa2153fb6d7768d7d67c6b86f441f83b7046aea492f2018f7b800edfa9",
+            "alias": "Swiss.Soleur[lnd]",
+            "color": "3399ff",
+            "last_timestamp": 1562283506,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "80.208.138.4",
+            "port": 9735
+        },
+        {
+            "nodeid": "03634bda49c9c42afd876d8288802942c49e58fbec3844ff54b46143bfcb6cdfaf",
+            "alias": "Zap Technologies",
+            "color": "242632",
+            "last_timestamp": 1562282273,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "157.230.144.234",
+            "port": 9735
+        },
+        {
+            "nodeid": "0309869dc743430ecbe3f159bb7a1a44490778cbe8acc854fe71fb0b513753de36",
+            "alias": "DonMacLightning",
+            "color": "4715ed",
+            "last_timestamp": 1562281249,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "81.107.214.119",
+            "port": 9735
+        },
+        {
+            "nodeid": "030b525fb57ab0d24c4952dfa5d0166f57dd39d873b6eba2715c1496a27f23dd4d",
+            "alias": "LNDoobie",
+            "color": "000000",
+            "last_timestamp": 1562280053,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "160.116.15.150",
+            "port": 9735
+        },
+        {
+            "nodeid": "03668e08fefdc45f91d21dada56f7fed9424dc1092390b88e34a4f119fa4a9e002",
+            "alias": "CryptoCloaks",
+            "color": "3399ff",
+            "last_timestamp": 1562280027,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "68.169.217.236",
+            "port": 9735
+        },
+        {
+            "nodeid": "0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6",
+            "alias": "FastForward",
+            "color": "3399ff",
+            "last_timestamp": 1562280025,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "45.76.39.125",
+            "port": 9735
+        },
+        {
+            "nodeid": "03c2abfa93eacec04721c019644584424aab2ba4dff3ac9bdab4e9c97007491dda",
+            "alias": "tippin.me",
+            "color": "ff4681",
+            "last_timestamp": 1562280025,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "104.248.84.249",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fbe1c1baedbc99b2642ae524d9c2a6f12b771a3ab91e0f56ca6efc6f7f7d53b6",
+            "alias": "\u26a1TheBebop\u26a1",
+            "color": "3399ff",
+            "last_timestamp": 1562279902,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "76.185.111.141",
+            "port": 9735
+        },
+        {
+            "nodeid": "024d2387409269f3b79e2708bb39b895c9f4b6a8322153af54eba487d4993bf60f",
+            "alias": "LNBIG.com [lnd-38]",
+            "color": "3399ff",
+            "last_timestamp": 1562279898,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.82",
+            "port": 9735
+        },
+        {
+            "nodeid": "02f0c9ba2df10171326a77518f8f5f5708677efa0656f377e8256d71f8f8df433a",
+            "alias": "DigitalWampum",
+            "color": "3399ff",
+            "last_timestamp": 1562279581,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "170.75.163.42",
+            "port": 9735
+        },
+        {
+            "nodeid": "026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2",
+            "alias": "Boltz",
+            "color": "ff9800",
+            "last_timestamp": 1562279581,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "104.196.200.39",
+            "port": 9735
+        },
+        {
+            "nodeid": "026c7d28784791a4b31a64eb34d9ab01552055b795919165e6ae886de637632efb",
+            "alias": "WalletOfSatoshi.com",
+            "color": "3399ff",
+            "last_timestamp": 1562279579,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "13.75.179.99",
+            "port": 9735
+        },
+        {
+            "nodeid": "0232fe448d6f8e9e8e54394f3dc5b35013b7a3a3cd227ffce1bb81cc8d285cf0a5",
+            "alias": "spookiestevie",
+            "color": "00bad0",
+            "last_timestamp": 1562279465,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "82.27.225.132",
+            "port": 9735
+        },
+        {
+            "nodeid": "034d2dfd138b4dff2e8f29fef8b70b91ae87b384eb8b8294a54ed2e58f11f2109d",
+            "alias": "RasPDX",
+            "color": "68f442",
+            "last_timestamp": 1562279462,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "185.156.174.115",
+            "port": 9735
+        },
+        {
+            "nodeid": "03344587d512b940bb96b4db40e4f915d1c402176b5c99913b0876413a81bf646e",
+            "alias": "LN Speed force \u26a1\ufe0f",
+            "color": "ebaeba",
+            "last_timestamp": 1562279168,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "95.174.125.24",
+            "port": 9735
+        },
+        {
+            "nodeid": "021607cfce19a4c5e7e6e738663dfafbbbac262e4ff76c2c9b30dbeefc35c00643",
+            "alias": "ln.BitSoapBox.com",
+            "color": "5f04c0",
+            "last_timestamp": 1562277672,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "138.201.60.38",
+            "port": 9735
+        },
+        {
+            "nodeid": "021e64cc0db3fc88a6c151576b1276fc3d9821f8674542f75b8317ffc8c9b394ad",
+            "alias": "pl-refreshments-node",
+            "color": "68f442",
+            "last_timestamp": 1562276901,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "181.43.0.103",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d34c207eecb9045228c9f835d7a2ed950f2ba03a4f173ed6fd3a895cf00de201",
+            "alias": "Room77",
+            "color": "68f442",
+            "last_timestamp": 1562276465,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "87.230.93.71",
+            "port": 9777
+        },
+        {
+            "nodeid": "032cc4541b25e86e39a7d450a979c1a9adbe2878df3a93fcb59c96c700bfe26aa3",
+            "alias": "glr.com.py",
+            "color": "5f04c0",
+            "last_timestamp": 1562276460,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "181.126.128.201",
+            "port": 9736
+        },
+        {
+            "nodeid": "031015a7839468a3c266d662d5bb21ea4cea24226936e2864a7ca4f2c3939836e0",
+            "alias": "Breez",
+            "color": "3399ff",
+            "last_timestamp": 1562276442,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "212.129.58.219",
+            "port": 9735
+        },
+        {
+            "nodeid": "027e74b73db73f0509c1682f66031685126c8c9b6f8999f463a7ed43dd986c6a9d",
+            "alias": "https:\/\/store.creamer.online",
+            "color": "3399ff",
+            "last_timestamp": 1562275882,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.178.147",
+            "port": 9735
+        },
+        {
+            "nodeid": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
+            "alias": "CoinGate",
+            "color": "4169e1",
+            "last_timestamp": 1562275881,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "18.184.237.59",
+            "port": 9735
+        },
+        {
+            "nodeid": "02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b",
+            "alias": "CodeEngine",
+            "color": "3399ff",
+            "last_timestamp": 1562275628,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "144.134.76.22",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fcf7df6900853b7b233f695efb2be5a45da9c9d3ea6cbfc6c2e74bfb6a8aed80",
+            "alias": "halogensupplier",
+            "color": "b60c40",
+            "last_timestamp": 1562275203,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "216.71.197.245",
+            "port": 9735
+        },
+        {
+            "nodeid": "0314da85ec42da046703ea16f8ffd3b69c181c09652138f517af87df92a64502e8",
+            "alias": "thepkbadger",
+            "color": "68f442",
+            "last_timestamp": 1562275093,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "77.38.100.235",
+            "port": 9735
+        },
+        {
+            "nodeid": "028d2c8539c509546d7f41e829c72bca75555c064432ebf02b930d9c55021f90cf",
+            "alias": "VU_Kauno_Fakultetas",
+            "color": "00ff00",
+            "last_timestamp": 1562275090,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "158.129.172.248",
+            "port": 9735
+        },
+        {
+            "nodeid": "0279c22ed7a068d10dc1a38ae66d2d6461e269226c60258c021b1ddcdfe4b00bc4",
+            "alias": "ln1.satoshilabs.com",
+            "color": "ff0000",
+            "last_timestamp": 1562275090,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "51.15.103.198",
+            "port": 9735
+        },
+        {
+            "nodeid": "022d9a4847963807a76cef12ea8653d489ba55f1d0674ec9fcbf3816b7248188aa",
+            "alias": "NescaNodeMY",
+            "color": "68f442",
+            "last_timestamp": 1562274892,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "202.184.99.196",
+            "port": 9735
+        },
+        {
+            "nodeid": "0217890e3aad8d35bc054f43acc00084b25229ecff0ab68debd82883ad65ee8266",
+            "alias": "1ML.com node ALPHA",
+            "color": "3399ff",
+            "last_timestamp": 1562274247,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "23.237.77.11",
+            "port": 9735
+        },
+        {
+            "nodeid": "02ad6fb8d693dc1e4569bcedefadf5f72a931ae027dc0f0c544b34c1c6f3b9a02b",
+            "alias": "rompert.com\ud83d\udd35",
+            "color": "0000ff",
+            "last_timestamp": 1562274027,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "167.99.50.31",
+            "port": 9735
+        },
+        {
+            "nodeid": "030c3f19d742ca294a55c00376b3b355c3c90d61c6b6b39554dbc7ac19b141c14f",
+            "alias": "Bitrefill.com",
+            "color": "3399ff",
+            "last_timestamp": 1562273989,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "52.50.244.44",
+            "port": 9735
+        },
+        {
+            "nodeid": "02bb24da3d0fb0793f4918c7599f973cc402f0912ec3fb530470f1fc08bdd6ecb5",
+            "alias": "LNBIG.com [lnd-10]",
+            "color": "3399ff",
+            "last_timestamp": 1562273986,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.147",
+            "port": 9735
+        },
+        {
+            "nodeid": "0232e20e7b68b9b673fb25f48322b151a93186bffe4550045040673797ceca43cf",
+            "alias": "zigzag.io",
+            "color": "3399ff",
+            "last_timestamp": 1562273986,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "178.128.202.182",
+            "port": 9735
+        },
+        {
+            "nodeid": "0356c02ffe265f8ff38471e901785528d3da0668cd0a590ed67ee809d929c9bfd4",
+            "alias": "NEURON",
+            "color": "3399ff",
+            "last_timestamp": 1562273575,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "18.195.199.190",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c",
+            "alias": "mainnet.demo.btcpayserver.org",
+            "color": "3399ff",
+            "last_timestamp": 1562273507,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "170.75.160.16",
+            "port": 9735
+        },
+        {
+            "nodeid": "023e18169f9b4253eff56bd7035660b28c95e61e12fabc03f4aef59d102d55bbb0",
+            "alias": "lightningfees.net",
+            "color": "3399ff",
+            "last_timestamp": 1562273502,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "81.207.149.246",
+            "port": 9736
+        },
+        {
+            "nodeid": "0331f80652fb840239df8dc99205792bba2e559a05469915804c08420230e23c7c",
+            "alias": "LightningPowerUsers.com",
+            "color": "000000",
+            "last_timestamp": 1562273499,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "74.108.13.152",
+            "port": 9735
+        },
+        {
+            "nodeid": "03024ff9b2cb3967a17fbc4d69a4ec9c1be5448d77bb58d7eb379faebe410c8db3",
+            "alias": "Fastbitcoins.com",
+            "color": "3399ff",
+            "last_timestamp": 1562273499,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "206.189.26.91",
+            "port": 9735
+        },
+        {
+            "nodeid": "022d11305ec473ade81b3491d317ce23faf28b855186468c24eb195e01651de09a",
+            "alias": "GRNQRTR",
+            "color": "68f442",
+            "last_timestamp": 1562271422,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "153.218.224.148",
+            "port": 9735
+        },
+        {
+            "nodeid": "0313aade7a644e0a06ddfed0aff876e52ff1cac8d2b2f3871ff41cb4d5f9afdddb",
+            "alias": "satoshifor.me",
+            "color": "000000",
+            "last_timestamp": 1562271415,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "139.162.12.50",
+            "port": 9735
+        },
+        {
+            "nodeid": "026be75781a35ca22732200f5bc82a1e8a21248154e950a1548bab0cdd44d2ec20",
+            "alias": "Bitshop Bologna",
+            "color": "ffaa00",
+            "last_timestamp": 1562271414,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "93.147.136.98",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fd105d7df6595d5a36f016b8ff9ca74e5474e29593c4bba85f4d7ad4663bc5ee",
+            "alias": "ln02.bixin.com",
+            "color": "3399ff",
+            "last_timestamp": 1562271414,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "39.106.143.235",
             "port": 9735
         },
         {
             "nodeid": "0237fefbe8626bf888de0cad8c73630e32746a22a2c4faa91c1d9877a3826e1174",
             "alias": "1.ln.aantonop.com",
             "color": "010000",
-            "last_timestamp": 1562151357,
+            "last_timestamp": 1562271063,
             "globalfeatures": "",
             "type": "ipv4",
             "address": "35.153.92.164",
+            "port": 9735
+        },
+        {
+            "nodeid": "03e3ae247eb613ca670d5b58dc6c5e224f79cb7de05940fbab70d9b40213deb31f",
+            "alias": "Stockholm",
+            "color": "3399ff",
+            "last_timestamp": 1562268971,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "176.10.229.121",
+            "port": 9700
+        },
+        {
+            "nodeid": "03e90fd715dd766a0ed532dc1ba45e5fb913b1dc29d5afd9b700548d98d53b598c",
+            "alias": "LNCOFFEE",
+            "color": "3399ff",
+            "last_timestamp": 1562268962,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "80.110.49.22",
+            "port": 9735
+        },
+        {
+            "nodeid": "03021c5f5f57322740e4ee6936452add19dc7ea7ccf90635f95119ab82a62ae268",
+            "alias": "03021c5f5f57322740e4",
+            "color": "3399ff",
+            "last_timestamp": 1562268590,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "207.180.244.165",
+            "port": 9735
+        },
+        {
+            "nodeid": "037e1439d8f1394d00868beeff636e42518a30b3ead303bb3ad4185b53e41d6d52",
+            "alias": "lnd.railnet.ru",
+            "color": "00ff00",
+            "last_timestamp": 1562268429,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "116.203.4.18",
+            "port": 9735
+        },
+        {
+            "nodeid": "02bfb576be997eac8afbf6fb22e8e69b58eaea2640f6aab6b7ba3f54ca5adf49f4",
+            "alias": "bitcoin.org.ua",
+            "color": "4b8f3f",
+            "last_timestamp": 1562268385,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "95.67.20.194",
+            "port": 9735
+        },
+        {
+            "nodeid": "03a08d40fc3676e62a0bcaa27de657ce5e05b9a2491fbbf011a506a774e9ea263a",
+            "alias": "hopeypi",
+            "color": "68f442",
+            "last_timestamp": 1562268374,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "91.159.56.56",
+            "port": 9735
+        },
+        {
+            "nodeid": "02db4f3d829aa70c256ef184769fb15b94022ee1ae242c443cbbedcc6d261f26af",
+            "alias": "PayWithMoon",
+            "color": "3399ff",
+            "last_timestamp": 1562268370,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "89.212.19.164",
+            "port": 9735
+        },
+        {
+            "nodeid": "026d1c7dbf1017f1e3e46e815cfb8bb7a8a0d653d795e62e595d55664af052b44a",
+            "alias": "thunderlabs",
+            "color": "68f442",
+            "last_timestamp": 1562268370,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "81.193.47.8",
+            "port": 9735
+        },
+        {
+            "nodeid": "02f882d605eaa45655658d8def825201fb4018f1c0f16d0968655fa544ab714ca5",
+            "alias": "SimBlitz",
+            "color": "68f442",
+            "last_timestamp": 1562268370,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "203.150.156.232",
+            "port": 9735
+        },
+        {
+            "nodeid": "0384cbcc619ed15a7b0d3ef1dabb7adf554ed58ce93ef3fb82bafd046e82f4fb97",
+            "alias": "wolfpaw",
+            "color": "68f442",
+            "last_timestamp": 1562268369,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "59.1.186.243",
+            "port": 9735
+        },
+        {
+            "nodeid": "027986b16bb9d8c541aff8e8df339548189f3077d0f42a517f7ce57135e8a9c19d",
+            "alias": "knudix-mini",
+            "color": "3399ff",
+            "last_timestamp": 1562268368,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "84.214.74.65",
+            "port": 9736
+        },
+        {
+            "nodeid": "03e6ef8c95dbed80bded4d5f36f1754bb401e92b5e6cf55f157f72f5c2b48aa084",
+            "alias": "md5hash",
+            "color": "3399ff",
+            "last_timestamp": 1562268368,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "187.65.238.176",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d23fa6794d8fd056c757f3c8f4877782138dafffedc831fc570cab572620dc61",
+            "alias": "Moon (Public - Mainnet)",
+            "color": "3399ff",
+            "last_timestamp": 1562268367,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "54.224.118.176",
+            "port": 9735
+        },
+        {
+            "nodeid": "0349e1165104b5606b94fa8e11499106f8e66526b497dcad6cc22d64987b0808e0",
+            "alias": "EUROPE#1",
+            "color": "68f442",
+            "last_timestamp": 1562268367,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.239.209.173",
+            "port": 9735
+        },
+        {
+            "nodeid": "027712e1a53292ecf2e73ea82e45adfe4618ce1439dfc8ad5a25c94ba58685d8a0",
+            "alias": "Twinkles",
+            "color": "3399ff",
+            "last_timestamp": 1562268367,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "121.78.247.246",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d212a039e89308ac2d4542fc7aaaff3ea9d6149b90badb68b48b7b64a7a370b7",
+            "alias": "LiteSec",
+            "color": "1e90ff",
+            "last_timestamp": 1562268367,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "83.99.142.174",
+            "port": 9735
+        },
+        {
+            "nodeid": "027ce055380348d7812d2ae7745701c9f93e70c1adeb2657f053f91df4f2843c71",
+            "alias": "ftp.halifax.rwth-aachen.de",
+            "color": "3399ff",
+            "last_timestamp": 1562267610,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "137.226.34.46",
+            "port": 9735
+        },
+        {
+            "nodeid": "03295d2e292565743a40bd44da227a820f8730877bc3dfadebade8785bcf355258",
+            "alias": "moneni.com",
+            "color": "3399ff",
+            "last_timestamp": 1562267591,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "159.203.122.47",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c0b38022846c6b6f45b30031859ac7c5fb0c67ec8ed5cce8409c4b438c267ffe",
+            "alias": "lndhub.ru",
+            "color": "3399ff",
+            "last_timestamp": 1562267550,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "92.53.89.123",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c9cb215be13811725c1398ed6f0995eaad5844fc3cd9695e630c81a744c8740d",
+            "alias": "lightninghood",
+            "color": "3399ff",
+            "last_timestamp": 1562267549,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "158.69.102.83",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b3a8dfea0259d93bbc799c25126c84e2950b60a3bc25248dc508f946c2878883",
+            "alias": "D76eauit",
+            "color": "0000ff",
+            "last_timestamp": 1562267408,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "27.33.150.9",
+            "port": 9735
+        },
+        {
+            "nodeid": "039edc94987c8f3adc28dab455efc00dea876089a120f573bd0b03c40d9d3fb1e1",
+            "alias": "LNBIG.com [lnd-32]",
+            "color": "3399ff",
+            "last_timestamp": 1562267406,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.76",
+            "port": 9735
+        },
+        {
+            "nodeid": "03b0318fecc7e8165c49053a944e5ceb9d4feb0d08a5db78794d9230c8c8193513",
+            "alias": "Wing-Kong Exchange",
+            "color": "d121ed",
+            "last_timestamp": 1562265641,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "72.74.160.36",
+            "port": 9735
+        },
+        {
+            "nodeid": "0330f0afe893e809d8790b26b40d9353f586ef0894d4ae704d06be24538c030457",
+            "alias": "CoinNinja.com",
+            "color": "33a9de",
+            "last_timestamp": 1562265639,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "54.85.61.208",
+            "port": 9735
+        },
+        {
+            "nodeid": "03bc9337c7a28bb784d67742ebedd30a93bacdf7e4ca16436ef3798000242b2251",
+            "alias": "LNBIG.com [lnd-06]",
+            "color": "3399ff",
+            "last_timestamp": 1562265639,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.141",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c91d6aa51aa940608b497b6beebcb1aec05be3c47704b682b3889424679ca490",
+            "alias": "LNBIG.com [lnd-21]",
+            "color": "3399ff",
+            "last_timestamp": 1562265639,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.65",
+            "port": 9735
+        },
+        {
+            "nodeid": "0250373555232cec757ea141273e75381c84cc3ab22f1e3a3ca5a2dc55b1904c24",
+            "alias": "HOPEFULPORTAL",
+            "color": "5f19ff",
+            "last_timestamp": 1562265249,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "92.110.144.95",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a0bc43557fae6af7be8e3a29fdebda819e439bea9c0f8eb8ed6a0201f3471ca9",
+            "alias": "LightningPeachHub",
+            "color": "3399ff",
+            "last_timestamp": 1562262820,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "68.183.213.176",
+            "port": 29735
+        },
+        {
+            "nodeid": "030bde3ee226b7cf456703811976e4241a929d11e5fc0549e9a1c6d10a8e23a738",
+            "alias": "hodl-lightning-mainnet",
+            "color": "3399ff",
+            "last_timestamp": 1562260687,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "178.63.16.7",
+            "port": 9735
+        },
+        {
+            "nodeid": "02ef01a0a61aa6bc2730ce6d129338ea951658c94113ad9c901752c00c05d9a072",
+            "alias": "StippyGcpLnd",
+            "color": "3399ff",
+            "last_timestamp": 1562260479,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "35.229.94.155",
+            "port": 9735
+        },
+        {
+            "nodeid": "032679fec1213e5b0a23e066c019d7b991b95c6e4d28806b9ebd1362f9e32775cf",
+            "alias": "LNBIG.com [lnd-03]",
+            "color": "3399ff",
+            "last_timestamp": 1562260446,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.139",
+            "port": 9735
+        },
+        {
+            "nodeid": "0390b5d4492dc2f5318e5233ab2cebf6d48914881a33ef6a9c6bcdbb433ad986d0",
+            "alias": "LNBIG.com [lnd-01]",
+            "color": "3399ff",
+            "last_timestamp": 1562260021,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.136",
+            "port": 9735
+        },
+        {
+            "nodeid": "03078255aa0c9712524d0a1e2aad4f84d18168664b39bb4e8af41539345482acb8",
+            "alias": "03078255aa0c9712524d",
+            "color": "3399ff",
+            "last_timestamp": 1562259757,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "3.120.210.179",
+            "port": 9735
+        },
+        {
+            "nodeid": "03a12be8d2903cfc9be29bf41e4779aa78a58fcc9a091cc291cbf274fc3130e4e8",
+            "alias": "lnGAL.com [03]",
+            "color": "40ffff",
+            "last_timestamp": 1562258627,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "84.77.52.0",
+            "port": 9735
+        },
+        {
+            "nodeid": "03094b63a5ece2c363ab859952017f95bec7bd9e6975f0c8152f9eff83d0b045c2",
+            "alias": "KIWILAMB",
+            "color": "ff4500",
+            "last_timestamp": 1562258624,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "203.118.161.101",
+            "port": 9735
+        },
+        {
+            "nodeid": "0324957a5ab4f045fc02a492eb7a3ff375a4bcec059a6a31cdb6360a5aab7c53e0",
+            "alias": "Cryptoleone",
+            "color": "3399ff",
+            "last_timestamp": 1562257941,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "145.53.159.48",
+            "port": 9735
+        },
+        {
+            "nodeid": "0332052748755d74b3395b91eaea78b53bd64b55eb031ccb6a7ae23ac445bb6af7",
+            "alias": "steropes",
+            "color": "336633",
+            "last_timestamp": 1562257909,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "47.205.100.115",
+            "port": 9736
+        },
+        {
+            "nodeid": "02f665f48119bcb606bf6f9519fa2a56ac078cfa31d7d9e34e784b1b326d9ff0ec",
+            "alias": "StillTesting",
+            "color": "3399ff",
+            "last_timestamp": 1562257749,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "89.238.166.235",
+            "port": 42080
+        },
+        {
+            "nodeid": "039401f72bc0d40efb58b01de15527a2a5ae1943d7c29067b725a1467a93c7e66f",
+            "alias": "SLL",
+            "color": "ff1c6f",
+            "last_timestamp": 1562256806,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "2.238.144.76",
+            "port": 9735
+        },
+        {
+            "nodeid": "0390f3326cf49735b614254ee2676ed0c23311009d974364d0580d3419440feba6",
+            "alias": "Wed's Node \ud83d\udcd8",
+            "color": "4169e1",
+            "last_timestamp": 1562255483,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "178.254.20.84",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d14dd2b2b1903265d6fd4d62018df798aedb6405accde37af53de7dae4590410",
+            "alias": "lightning.networkingfanatic.com",
+            "color": "3399ff",
+            "last_timestamp": 1562253870,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "104.218.150.185",
+            "port": 9735
+        },
+        {
+            "nodeid": "029ef8ee0ba895e2807ac1df1987a7888116c468e70f42e7b089e06811b0e45482",
+            "alias": "Marvin",
+            "color": "49daaa",
+            "last_timestamp": 1562252936,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "85.216.202.47",
+            "port": 9735
+        },
+        {
+            "nodeid": "027c3abc90a51617fb9cf5162c2fedfd9832c620ef82b54e413e9ce0f892dabb0d",
+            "alias": "Lightningang[LND]",
+            "color": "00cccb",
+            "last_timestamp": 1562248404,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "203.221.20.6",
+            "port": 9735
+        },
+        {
+            "nodeid": "0327049d8d63f0c40193cdf3afc61817c8647808a4e482de0716fcef74e6d92ebf",
+            "alias": "https:\/\/diddyinc.com\/",
+            "color": "42f45d",
+            "last_timestamp": 1562245526,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "130.211.193.179",
+            "port": 9735
+        },
+        {
+            "nodeid": "03688e738515c9b7413e0f035f62a28c2089afcbe01a2f9412b5e0fe48cceb5bb5",
+            "alias": "JohnBlaze",
+            "color": "3399ff",
+            "last_timestamp": 1562244183,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "71.173.93.197",
+            "port": 9735
+        },
+        {
+            "nodeid": "03dab87ff8635982815c4567eb58af48f9944d11c56beb12b91e1049aaea06e187",
+            "alias": "LNBIG.com [lnd-41]",
+            "color": "3399ff",
+            "last_timestamp": 1562243757,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.85",
+            "port": 9735
+        },
+        {
+            "nodeid": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed",
+            "alias": "LNBIG.com [lnd-07]",
+            "color": "3399ff",
+            "last_timestamp": 1562243757,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.142",
+            "port": 9735
+        },
+        {
+            "nodeid": "0303ad2d0f33b441ca0d5fb311fae319daa2654ebb5abc10f0c691a5deb4be4792",
+            "alias": "bereskaLND",
+            "color": "68f442",
+            "last_timestamp": 1562241309,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "108.252.28.206",
+            "port": 9735
+        },
+        {
+            "nodeid": "03de1af7718d337582329110abb710bc9c4782afa4507efa4633f168273e92fabf",
+            "alias": "My_Livin_Truth",
+            "color": "3399ff",
+            "last_timestamp": 1562241300,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.177.104",
+            "port": 9735
+        },
+        {
+            "nodeid": "03abf6f44c355dec0d5aa155bdbdd6e0c8fefe318eff402de65c6eb2e1be55dc3e",
+            "alias": "OpenNode",
+            "color": "3399ff",
+            "last_timestamp": 1562239271,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "18.221.23.28",
+            "port": 9735
+        },
+        {
+            "nodeid": "032c4b954f0f171b694b5e8e8323589e54196b48cf2efc27692513a360cb11d76f",
+            "alias": "nute.net",
+            "color": "56a580",
+            "last_timestamp": 1562239271,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "79.137.115.56",
+            "port": 9735
+        },
+        {
+            "nodeid": "033613d280de1eba995c7545e93caf76cfba41bef88c2d6732a67ce06c168b3acb",
+            "alias": "yybazaar.com",
+            "color": "033613",
+            "last_timestamp": 1562235884,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "124.18.158.163",
+            "port": 9735
+        },
+        {
+            "nodeid": "02e9046555a9665145b0dbd7f135744598418df7d61d3660659641886ef1274844",
+            "alias": "SilentBob",
+            "color": "0000ff",
+            "last_timestamp": 1562233149,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "31.17.70.80",
+            "port": 9735
+        },
+        {
+            "nodeid": "031567fdf33cb9b4ab081019199295ffce38218751842a403e9fcf48778e4c3022",
+            "alias": "LightningPartners",
+            "color": "24913d",
+            "last_timestamp": 1562231880,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "142.93.141.68",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d37fca0656558de4fd86bbe490a38d84a46228e7ec1361801f54f9437a18d618",
+            "alias": "LNBIG.com [lnd-02]",
+            "color": "3399ff",
+            "last_timestamp": 1562231880,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.138",
+            "port": 9735
+        },
+        {
+            "nodeid": "03bb88ccc444534da7b5b64b4f7b15e1eccb18e102db0e400d4b9cfe93763aa26d",
+            "alias": "LightningTo.Me",
+            "color": "3dffbe",
+            "last_timestamp": 1562231879,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "138.68.14.104",
+            "port": 9735
+        },
+        {
+            "nodeid": "035ee4232e84202c4c7a70f479beba74a424b7ee6235123400071844fa2efedd7e",
+            "alias": "ovidiug [LND]",
+            "color": "68f442",
+            "last_timestamp": 1562231840,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "82.79.210.155",
+            "port": 9735
+        },
+        {
+            "nodeid": "028a8e53d70bc0eb7b5660943582f10b7fd6c727a78ad819ba8d45d6a638432c49",
+            "alias": "LNBIG.com [lnd-33]",
+            "color": "3399ff",
+            "last_timestamp": 1562231307,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.77",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fce165537aea120bffe8505876b44d5119354f825b3eac329b761fc5636bf334",
+            "alias": "LNBIG.com [lnd-27\/old-lnd-19]",
+            "color": "3399ff",
+            "last_timestamp": 1562230757,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.71",
+            "port": 9735
+        },
+        {
+            "nodeid": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
+            "alias": "ACINQ",
+            "color": "49daaa",
+            "last_timestamp": 1562228901,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "34.239.230.56",
+            "port": 9735
+        },
+        {
+            "nodeid": "024794d1446e510c75f84bbd75cc151124522aed03ad75a20f1708f77e5f3e674a",
+            "alias": "LogansRun",
+            "color": "008000",
+            "last_timestamp": 1562225944,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "185.183.104.83",
+            "port": 9008
+        },
+        {
+            "nodeid": "02740c62f38896511eb98479036b06907fcac283f62d08b756a1e25fb55e3f6772",
+            "alias": "BeerselLightningNode",
+            "color": "3399ff",
+            "last_timestamp": 1562222977,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "173.212.235.121",
+            "port": 9735
+        },
+        {
+            "nodeid": "021c97a90a411ff2b10dc2a8e32de2f29d2fa49d41bfbb52bd416e460db0747d0d",
+            "alias": "021c97a90a411ff2b10d",
+            "color": "3399ff",
+            "last_timestamp": 1562222382,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "18.224.56.146",
+            "port": 9735
+        },
+        {
+            "nodeid": "0303a518845db99994783f606e6629e705cfaf072e5ce9a4d8bf9e249de4fbd019",
+            "alias": "LNBIG.com [lnd-25]",
+            "color": "3399ff",
+            "last_timestamp": 1562222382,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.69",
+            "port": 9735
+        },
+        {
+            "nodeid": "032e143016ef7acc6094c12b88655b555d68a974b1b49c8612a1bad46a20732c4b",
+            "alias": "mbaril010",
+            "color": "3399ff",
+            "last_timestamp": 1562221718,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "10.0.0.78",
+            "port": 9735
+        },
+        {
+            "nodeid": "034ea80f8b148c750463546bd999bf7321a0e6dfc60aaf84bd0400a2e8d376c0d5",
+            "alias": "LNBIG.com [lnd-12]",
+            "color": "3399ff",
+            "last_timestamp": 1562221714,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.151",
+            "port": 9735
+        },
+        {
+            "nodeid": "02c56694b5b1f9172227caa350c9cdefc93a760e03581b9be88d9c55afaad18757",
+            "alias": "BattleBlitz",
+            "color": "68f442",
+            "last_timestamp": 1562219700,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "5.230.26.224",
+            "port": 9735
+        },
+        {
+            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
+            "alias": "HODLcat.com",
+            "color": "3399ff",
+            "last_timestamp": 1562217076,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.181.48",
+            "port": 9735
+        },
+        {
+            "nodeid": "023e6cb005e98137ec507aa64eb7f7049ccf246b4fca4d169f7c8ac8d3f856193c",
+            "alias": "LightningSupport",
+            "color": "97c30a",
+            "last_timestamp": 1562213993,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "84.197.198.167",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fc20baf6ca4f8c8f4599f1aa9088236ee53f6884412b80677c03b6deeeb449f6",
+            "alias": "ln-vps.nolim1t.co Neutrino",
+            "color": "3399ff",
+            "last_timestamp": 1562213291,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "194.5.250.154",
+            "port": 9735
+        },
+        {
+            "nodeid": "03ab75012c0a552ddb0194f43d57d9af2a83a86cc2a96abf0134c6d9349819c8a8",
+            "alias": "Blockchaincaffe.org",
+            "color": "03ab75",
+            "last_timestamp": 1562213238,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "139.59.214.118",
+            "port": 9735
+        },
+        {
+            "nodeid": "0308bf247ac71823e1a9ef0c46c34ad9b4ba38a03f43fcf63566cc3548084d135d",
+            "alias": "BearsBeatsBattlestarGalactica",
+            "color": "ed1c24",
+            "last_timestamp": 1562210042,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "69.114.51.239",
+            "port": 9735
+        },
+        {
+            "nodeid": "03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5",
+            "alias": "Jubilee",
+            "color": "dc42f4",
+            "last_timestamp": 1562209382,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "81.182.182.150",
+            "port": 9735
+        },
+        {
+            "nodeid": "02731b798b39a09f9f14e90ee601afb6ebb796d6e5797de14582a978770b33700f",
+            "alias": "electrolyte.holydoctrine.com",
+            "color": "3399ff",
+            "last_timestamp": 1562205411,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "23.239.23.44",
+            "port": 9736
+        },
+        {
+            "nodeid": "03d04c7b705a312514ef78d19d87a3986c85b3f465338858b783a32c61754bc130",
+            "alias": "ChileBob",
+            "color": "3399ff",
+            "last_timestamp": 1562205411,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "201.215.192.162",
+            "port": 9735
+        },
+        {
+            "nodeid": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7",
+            "alias": "LNBIG.com [lnd-11]",
+            "color": "3399ff",
+            "last_timestamp": 1562205411,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.150",
+            "port": 9735
+        },
+        {
+            "nodeid": "0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877",
+            "alias": "southxchange.com",
+            "color": "00ff00",
+            "last_timestamp": 1562205077,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "54.245.57.153",
+            "port": 9735
+        },
+        {
+            "nodeid": "0267586e510d80fab314fbfa091f383b775646e7a87bc9ed8cd59bcded50405d6a",
+            "alias": "senza",
+            "color": "ffdc00",
+            "last_timestamp": 1562205069,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "3.220.219.249",
+            "port": 9735
+        },
+        {
+            "nodeid": "02270a301ee52bc3e730ad18b81d11537d9d8358f1f132f49f557182ad885e1712",
+            "alias": "INFOBITISM-[LN-nodl]",
+            "color": "0000ff",
+            "last_timestamp": 1562202597,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "67.4.204.25",
+            "port": 9735
+        },
+        {
+            "nodeid": "02809e936f0e82dfce13bcc47c77112db068f569e1db29e7bf98bcdd68b838ee84",
+            "alias": "powernode.io",
+            "color": "000000",
+            "last_timestamp": 1562202595,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "40.69.71.114",
+            "port": 9736
+        },
+        {
+            "nodeid": "036e8a8efeb26f3cffce99f462839ef6ea3b1691d569d59c402be0d3d6cef9b79c",
+            "alias": "Satoshis",
+            "color": "3399ff",
+            "last_timestamp": 1562202497,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.178.164",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a04446caa81636d60d63b066f2814cbd3a6b5c258e3172cbdded7a16e2cfff4c",
+            "alias": "ln.bitstamp.net [Bitstamp]",
+            "color": "159e49",
+            "last_timestamp": 1562202490,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "3.122.40.122",
+            "port": 9735
+        },
+        {
+            "nodeid": "026b742cea92cea6535f8688e5597bb874d8ddb6dab3500119a25cb25228d2a75e",
+            "alias": "go_forest_go",
+            "color": "17ff00",
+            "last_timestamp": 1562199303,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "81.169.142.251",
+            "port": 9735
+        },
+        {
+            "nodeid": "024a2e265cd66066b78a788ae615acdc84b5b0dec9efac36d7ac87513015eaf6ed",
+            "alias": "lit",
+            "color": "3399ff",
+            "last_timestamp": 1562199297,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "52.16.240.222",
+            "port": 9735
+        },
+        {
+            "nodeid": "02247d9db0dfafea745ef8c9e161eb322f73ac3f8858d8730b6fd97254747ce76b",
+            "alias": "LNBIG.com [lnd-26]",
+            "color": "3399ff",
+            "last_timestamp": 1562199296,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.70",
+            "port": 9735
+        },
+        {
+            "nodeid": "036a33e92cda2679ac91ac0467acb1ba33396c0df1119521653e0f269c275dd6bf",
+            "alias": "LightningPrintings.com \ud83d\udc11[LND]",
+            "color": "00e88a",
+            "last_timestamp": 1562198477,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "87.27.157.110",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d707df6a61a87ea8c6f3fe29a31b107ab257f262251302c2c31c269b215e8e6f",
+            "alias": "raspinode",
+            "color": "68f442",
+            "last_timestamp": 1562198474,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "173.75.131.221",
+            "port": 9735
+        },
+        {
+            "nodeid": "0344c2e9c84dd0fd843bae94f2f47e77f497192ff17a75d38b2bce5c9a59f4bbe5",
+            "alias": "Bitcoin.Ireland",
+            "color": "3399ff",
+            "last_timestamp": 1562198410,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "2.101.114.44",
+            "port": 9735
+        },
+        {
+            "nodeid": "02feb44008c8a4aae9c42fece6164b77f2531c00c5d474adb8582ca18c8f7432c3",
+            "alias": "GBBO2011",
+            "color": "3399ff",
+            "last_timestamp": 1562197442,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "149.255.168.3",
+            "port": 9735
+        },
+        {
+            "nodeid": "0317c7f9ce4bcca443437766476fb15eecdd2ace05079c9eb6a03d055be592cd45",
+            "alias": "PocketBank",
+            "color": "c9ab5b",
+            "last_timestamp": 1562196613,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "188.155.192.190",
+            "port": 9735
+        },
+        {
+            "nodeid": "0318070901e08df311cdc6cdb8a0b4a43a3690c5b32d1fb9d8e99d1a625a65e5f2",
+            "alias": "ion.radar.tech",
+            "color": "3399ff",
+            "last_timestamp": 1562196429,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "3.16.193.211",
+            "port": 9735
+        },
+        {
+            "nodeid": "02fff7d04272591730b0329bf72a095ceeaf3eef24b6a30da473b976e809d391fc",
+            "alias": "gamgeecove",
+            "color": "68f442",
+            "last_timestamp": 1562196390,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "83.251.162.140",
+            "port": 9735
+        },
+        {
+            "nodeid": "039f6f74de35652c3d804cd873f14cc858e26beb3fda9d14363bae40d94bc72fde",
+            "alias": "Crypto-RiS",
+            "color": "68f442",
+            "last_timestamp": 1562186005,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "188.194.113.27",
+            "port": 9735
+        },
+        {
+            "nodeid": "02da0713ab1b12eeb01f212944a435077f39f1b767ee5c24b01cdb4b0b9377b66b",
+            "alias": "lightcore.co",
+            "color": "ffa500",
+            "last_timestamp": 1562184656,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "204.12.207.91",
+            "port": 9735
+        },
+        {
+            "nodeid": "03e28223dc9b962d824c4a41dd6a2d178a72004594b87aa28cbfdf63e551fbef33",
+            "alias": "TheHub",
+            "color": "3399ff",
+            "last_timestamp": 1562183510,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "176.12.25.146",
+            "port": 9735
+        },
+        {
+            "nodeid": "0202b1f1a4a74876e6c03bc135541ab89ad555bff38cc8984e6ba8cab1a16db4ed",
+            "alias": "ln.interlogica.it",
+            "color": "3f98d1",
+            "last_timestamp": 1562182852,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "91.207.150.170",
+            "port": 9735
+        },
+        {
+            "nodeid": "020d6989eaaf107a020501607aae8f489dd207cc495fbdd6b80eee14336ed3217c",
+            "alias": "ln1.bitcoin1212.me",
+            "color": "3399ff",
+            "last_timestamp": 1562182297,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "45.76.165.162",
+            "port": 9735
+        },
+        {
+            "nodeid": "030995c0c0217d763c2274aa6ed69a0bb85fa2f7d118f93631550f3b6219a577f5",
+            "alias": "LNBIG.com [lnd-28\/old-lnd-22]",
+            "color": "3399ff",
+            "last_timestamp": 1562180759,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.174.156.72",
+            "port": 9735
+        },
+        {
+            "nodeid": "0274a542b693385f9e38d7acf4017ed31748d00693ff219c54e1b33749595a7419",
+            "alias": "\u26a1\ufe0f\ud83d\udd25 BC.GAME\ud83d\udd25\u26a1\ufe0f",
+            "color": "68f442",
+            "last_timestamp": 1562180303,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "18.179.20.192",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a5fa844d310f582d209fe649352b225440b8a54e77361f229bb92ee263c87e6f",
+            "alias": "BonsaiSoftware",
+            "color": "3399ff",
+            "last_timestamp": 1562179607,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "157.131.94.243",
+            "port": 9735
+        },
+        {
+            "nodeid": "0395033b252c6f40e3756984162d68174e2bd8060a129c0d3462a9370471c6d28f",
+            "alias": "BitMEXResearch",
+            "color": "3399ff",
+            "last_timestamp": 1562178701,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "138.68.157.208",
+            "port": 9735
+        },
+        {
+            "nodeid": "02725e5abcbf5550fc29e6b19706a1377f25d2b1502684f9be9965b6deac167520",
+            "alias": "LIGHTNING-CASINO.COM",
+            "color": "3399ff",
+            "last_timestamp": 1562178074,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "213.91.178.177",
+            "port": 9735
+        },
+        {
+            "nodeid": "03487fa0212243e20cb6504d5b93a144d0bc4d83d3d8a083691037a8892f9e5522",
+            "alias": "yurun.thunder \ud83d\udca1",
+            "color": "006600",
+            "last_timestamp": 1562176719,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "176.107.184.29",
+            "port": 9735
+        },
+        {
+            "nodeid": "021d3cba4b832f598ad52944376436f064c988bd16d64bd9b86cb4536b50b636b9",
+            "alias": "happynode139",
+            "color": "68f442",
+            "last_timestamp": 1562175312,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "86.127.253.171",
+            "port": 9735
+        },
+        {
+            "nodeid": "02065e25c272203440b66ea0ba66601d1248564554d0a68472b82511af54288120",
+            "alias": "Platform9and3quarters",
+            "color": "0000ff",
+            "last_timestamp": 1562174464,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "71.225.72.81",
+            "port": 9735
+        },
+        {
+            "nodeid": "025779d6d48e8943a5c0313c0006da5683910c1739de6a2a66831df2541ae705fb",
+            "alias": "Ifaistos",
+            "color": "3399ff",
+            "last_timestamp": 1562170619,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "91.140.6.180",
+            "port": 9735
+        },
+        {
+            "nodeid": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
+            "alias": "BCash_Is_Trash",
+            "color": "ffaa00",
+            "last_timestamp": 1562167456,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "73.68.158.219",
+            "port": 9735
+        },
+        {
+            "nodeid": "02888244029c5909593038ab19f269947c720de3423e491791b46c7c92f76279b6",
+            "alias": "Bitkoins.nl",
+            "color": "23354d",
+            "last_timestamp": 1562166533,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "82.217.214.215",
+            "port": 9735
+        },
+        {
+            "nodeid": "02a1d2856be336a58af08989aea0d8c41e072ccc392c46f8ce0e6e069f002035f3",
+            "alias": "02a1d2856be336a58af0",
+            "color": "3399ff",
+            "last_timestamp": 1562166158,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "165.227.7.29",
+            "port": 9735
+        },
+        {
+            "nodeid": "02335e48bfa54fe1544f60a60280c27aeb2e507add76b66d74d99076edbc480c34",
+            "alias": "LightningNode.kr",
+            "color": "68f442",
+            "last_timestamp": 1562164096,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "59.20.208.247",
+            "port": 9735
+        },
+        {
+            "nodeid": "026bce917a5854f3c5140cc69c977d19a6d656554120b6dedf045b246941b858c5",
+            "alias": "ThrobbingSausage",
+            "color": "ff00ff",
+            "last_timestamp": 1562163792,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "47.184.129.94",
+            "port": 9735
+        },
+        {
+            "nodeid": "02233a3b30d7c8b08542eefe66978e45d2962ed21e857ce33ea1452b5b90173d77",
+            "alias": "Coincards",
+            "color": "3399ff",
+            "last_timestamp": 1562160553,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "54.39.133.223",
+            "port": 9735
+        },
+        {
+            "nodeid": "02de11c748f5b25cfd2ce801176d3926bfde4de23b1ff43e692a5b76cf06805e4a",
+            "alias": "LNBIG.com [lnd-09]",
+            "color": "3399ff",
+            "last_timestamp": 1562160553,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.146",
+            "port": 9735
+        },
+        {
+            "nodeid": "035f5236d7e6c6d16107c1f86e4514e6ccdd6b2c13c2abc1d7a83cd26ecb4c1d0e",
+            "alias": "LNBIG.com [lnd-13]",
+            "color": "3399ff",
+            "last_timestamp": 1562160553,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.229.165.152",
+            "port": 9735
+        },
+        {
+            "nodeid": "0215045037aafb53a58322ce6923bd9346c1855dc4bb85b337f7444b9a1129bf12",
+            "alias": "Stippy",
+            "color": "be0029",
+            "last_timestamp": 1562159580,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "220.255.76.220",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fc5b91ce2d857f146fd9b986363374ffe04dc143d8bcd6d7664c8873c463cdfc",
+            "alias": "pinsert.pl",
+            "color": "ffff00",
+            "last_timestamp": 1562156619,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "185.228.141.6",
+            "port": 9735
+        },
+        {
+            "nodeid": "02cc7387483ce150555fdbfe1aafa32dc01536326015b3ad2c65f445edf9d76932",
+            "alias": "LND_SG [LND]",
+            "color": "68f442",
+            "last_timestamp": 1562156121,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "219.75.115.140",
             "port": 9735
         },
         {
@@ -1067,36 +3107,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02c91d6aa51aa940608b497b6beebcb1aec05be3c47704b682b3889424679ca490",
-            "alias": "LNBIG.com [lnd-21]",
-            "color": "3399ff",
-            "last_timestamp": 1562150004,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.65",
-            "port": 9735
-        },
-        {
-            "nodeid": "02335e48bfa54fe1544f60a60280c27aeb2e507add76b66d74d99076edbc480c34",
-            "alias": "LightningNode.kr",
-            "color": "68f442",
-            "last_timestamp": 1562147326,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "59.20.208.247",
-            "port": 9735
-        },
-        {
-            "nodeid": "03634bda49c9c42afd876d8288802942c49e58fbec3844ff54b46143bfcb6cdfaf",
-            "alias": "Zap Technologies",
-            "color": "242632",
-            "last_timestamp": 1562147316,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "157.230.144.234",
-            "port": 9735
-        },
-        {
             "nodeid": "023b4e566713e08adadbd918e165f65fb8e1b227b4d41f4bf07603b46fb3cc35fc",
             "alias": "christopartners.com",
             "color": "3399ff",
@@ -1107,23 +3117,13 @@
             "port": 9735
         },
         {
-            "nodeid": "02bfb576be997eac8afbf6fb22e8e69b58eaea2640f6aab6b7ba3f54ca5adf49f4",
-            "alias": "bitcoin.org.ua",
-            "color": "4b8f3f",
-            "last_timestamp": 1562146147,
+            "nodeid": "0276e09a267592e7451a939c932cf685f0754de382a3ca85d2fb3a864d4c365ad5",
+            "alias": "\"Cheese\"",
+            "color": "0276e0",
+            "last_timestamp": 1562145362,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "95.67.20.194",
-            "port": 9735
-        },
-        {
-            "nodeid": "021d3cba4b832f598ad52944376436f064c988bd16d64bd9b86cb4536b50b636b9",
-            "alias": "happynode139",
-            "color": "68f442",
-            "last_timestamp": 1562145677,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "86.127.253.171",
+            "address": "62.210.110.5",
             "port": 9735
         },
         {
@@ -1144,16 +3144,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "85.2.192.111",
-            "port": 9735
-        },
-        {
-            "nodeid": "03fc20baf6ca4f8c8f4599f1aa9088236ee53f6884412b80677c03b6deeeb449f6",
-            "alias": "ln-vps.nolim1t.co Neutrino",
-            "color": "3399ff",
-            "last_timestamp": 1562143758,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "194.5.250.154",
             "port": 9735
         },
         {
@@ -1187,46 +3177,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03abf6f44c355dec0d5aa155bdbdd6e0c8fefe318eff402de65c6eb2e1be55dc3e",
-            "alias": "OpenNode",
-            "color": "3399ff",
-            "last_timestamp": 1562140760,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "18.221.23.28",
-            "port": 9735
-        },
-        {
-            "nodeid": "020d6989eaaf107a020501607aae8f489dd207cc495fbdd6b80eee14336ed3217c",
-            "alias": "ln1.bitcoin1212.me",
-            "color": "3399ff",
-            "last_timestamp": 1562140760,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "45.76.165.162",
-            "port": 9735
-        },
-        {
-            "nodeid": "03bb88ccc444534da7b5b64b4f7b15e1eccb18e102db0e400d4b9cfe93763aa26d",
-            "alias": "LightningTo.Me",
-            "color": "3dffbe",
-            "last_timestamp": 1562140760,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "138.68.14.104",
-            "port": 9735
-        },
-        {
-            "nodeid": "03da1c27ca77872ac5b3e568af30673e599a47a5e4497f85c7b5da42048807b3ed",
-            "alias": "LNBIG.com [lnd-07]",
-            "color": "3399ff",
-            "last_timestamp": 1562140394,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.142",
-            "port": 9735
-        },
-        {
             "nodeid": "03ad156742a9a9d0e82e0022f264d6857addfd534955d5e97de4a695bf8dd12af0",
             "alias": "lightning-poker.com",
             "color": "11ff22",
@@ -1237,26 +3187,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02731b798b39a09f9f14e90ee601afb6ebb796d6e5797de14582a978770b33700f",
-            "alias": "electrolyte.holydoctrine.com",
-            "color": "3399ff",
-            "last_timestamp": 1562137392,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "23.239.23.44",
-            "port": 9736
-        },
-        {
-            "nodeid": "0332052748755d74b3395b91eaea78b53bd64b55eb031ccb6a7ae23ac445bb6af7",
-            "alias": "steropes",
-            "color": "336633",
-            "last_timestamp": 1562136820,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "47.205.100.115",
-            "port": 9736
-        },
-        {
             "nodeid": "02ede2c27062cc2b0a04aa49fb456fba071bb160b24e54d3e1252b8404db2a298a",
             "alias": "02ede2c27062cc2b0a04",
             "color": "3399ff",
@@ -1264,96 +3194,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "24.7.228.65",
-            "port": 9735
-        },
-        {
-            "nodeid": "0318070901e08df311cdc6cdb8a0b4a43a3690c5b32d1fb9d8e99d1a625a65e5f2",
-            "alias": "ion.radar.tech",
-            "color": "3399ff",
-            "last_timestamp": 1562136540,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "3.16.193.211",
-            "port": 9735
-        },
-        {
-            "nodeid": "03c2abfa93eacec04721c019644584424aab2ba4dff3ac9bdab4e9c97007491dda",
-            "alias": "tippin.me",
-            "color": "ff4681",
-            "last_timestamp": 1562136495,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "104.248.84.249",
-            "port": 9735
-        },
-        {
-            "nodeid": "02a5fa844d310f582d209fe649352b225440b8a54e77361f229bb92ee263c87e6f",
-            "alias": "BonsaiSoftware",
-            "color": "3399ff",
-            "last_timestamp": 1562136364,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "157.131.94.243",
-            "port": 9735
-        },
-        {
-            "nodeid": "030c3f19d742ca294a55c00376b3b355c3c90d61c6b6b39554dbc7ac19b141c14f",
-            "alias": "Bitrefill.com",
-            "color": "3399ff",
-            "last_timestamp": 1562136075,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "52.50.244.44",
-            "port": 9735
-        },
-        {
-            "nodeid": "02c56694b5b1f9172227caa350c9cdefc93a760e03581b9be88d9c55afaad18757",
-            "alias": "BattleBlitz",
-            "color": "68f442",
-            "last_timestamp": 1562136006,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "194.97.106.98",
-            "port": 9735
-        },
-        {
-            "nodeid": "02a0bc43557fae6af7be8e3a29fdebda819e439bea9c0f8eb8ed6a0201f3471ca9",
-            "alias": "LightningPeachHub",
-            "color": "3399ff",
-            "last_timestamp": 1562135232,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "68.183.213.176",
-            "port": 29735
-        },
-        {
-            "nodeid": "03dab87ff8635982815c4567eb58af48f9944d11c56beb12b91e1049aaea06e187",
-            "alias": "LNBIG.com [lnd-41]",
-            "color": "3399ff",
-            "last_timestamp": 1562134388,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.85",
-            "port": 9735
-        },
-        {
-            "nodeid": "0260fab633066ed7b1d9b9b8a0fac87e1579d1709e874d28a0d171a1f5c43bb877",
-            "alias": "southxchange.com",
-            "color": "00ff00",
-            "last_timestamp": 1562134250,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "54.245.57.153",
-            "port": 9735
-        },
-        {
-            "nodeid": "02725e5abcbf5550fc29e6b19706a1377f25d2b1502684f9be9965b6deac167520",
-            "alias": "LIGHTNING-CASINO.COM",
-            "color": "3399ff",
-            "last_timestamp": 1562133834,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.91.178.177",
             "port": 9735
         },
         {
@@ -1367,26 +3207,6 @@
             "port": 9748
         },
         {
-            "nodeid": "026bce917a5854f3c5140cc69c977d19a6d656554120b6dedf045b246941b858c5",
-            "alias": "ThrobbingSausage",
-            "color": "ff00ff",
-            "last_timestamp": 1562133808,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "47.184.129.94",
-            "port": 9735
-        },
-        {
-            "nodeid": "032cc4541b25e86e39a7d450a979c1a9adbe2878df3a93fcb59c96c700bfe26aa3",
-            "alias": "glr.com.py",
-            "color": "5f04c0",
-            "last_timestamp": 1562133677,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "181.126.128.201",
-            "port": 9736
-        },
-        {
             "nodeid": "03364030bc7366a3ea08c80eb5d6e54e75de4ce3313fb7e0b3c41c76492cdb6331",
             "alias": "brittsbolts",
             "color": "3399ff",
@@ -1394,26 +3214,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "157.131.170.102",
-            "port": 9735
-        },
-        {
-            "nodeid": "02247d9db0dfafea745ef8c9e161eb322f73ac3f8858d8730b6fd97254747ce76b",
-            "alias": "LNBIG.com [lnd-26]",
-            "color": "3399ff",
-            "last_timestamp": 1562133351,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.70",
-            "port": 9735
-        },
-        {
-            "nodeid": "039edc94987c8f3adc28dab455efc00dea876089a120f573bd0b03c40d9d3fb1e1",
-            "alias": "LNBIG.com [lnd-32]",
-            "color": "3399ff",
-            "last_timestamp": 1562133103,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.76",
             "port": 9735
         },
         {
@@ -1427,26 +3227,6 @@
             "port": 9735
         },
         {
-            "nodeid": "022d11305ec473ade81b3491d317ce23faf28b855186468c24eb195e01651de09a",
-            "alias": "GRNQRTR",
-            "color": "68f442",
-            "last_timestamp": 1562131380,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "153.218.224.148",
-            "port": 9735
-        },
-        {
-            "nodeid": "024d2387409269f3b79e2708bb39b895c9f4b6a8322153af54eba487d4993bf60f",
-            "alias": "LNBIG.com [lnd-38]",
-            "color": "3399ff",
-            "last_timestamp": 1562131373,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.82",
-            "port": 9735
-        },
-        {
             "nodeid": "03ee180e8ee07f1f9c9987d98b5d5decf6bad7d058bdd8be3ad97c8e0dd2cdc7ba",
             "alias": "Electrophorus [W_C_B]",
             "color": "ff0000",
@@ -1454,36 +3234,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "85.214.212.104",
-            "port": 9735
-        },
-        {
-            "nodeid": "027ce055380348d7812d2ae7745701c9f93e70c1adeb2657f053f91df4f2843c71",
-            "alias": "ftp.halifax.rwth-aachen.de",
-            "color": "3399ff",
-            "last_timestamp": 1562130116,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "137.226.34.46",
-            "port": 9735
-        },
-        {
-            "nodeid": "02a1d2856be336a58af08989aea0d8c41e072ccc392c46f8ce0e6e069f002035f3",
-            "alias": "02a1d2856be336a58af0",
-            "color": "3399ff",
-            "last_timestamp": 1562129643,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "165.227.7.29",
-            "port": 9735
-        },
-        {
-            "nodeid": "032679fec1213e5b0a23e066c019d7b991b95c6e4d28806b9ebd1362f9e32775cf",
-            "alias": "LNBIG.com [lnd-03]",
-            "color": "3399ff",
-            "last_timestamp": 1562129640,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.139",
             "port": 9735
         },
         {
@@ -1500,7 +3250,7 @@
             "nodeid": "022755c3ff4e5a1d71f573cda4b315887fc00a9e5c9ea9a847d939f3e517e69a70",
             "alias": "LNBIG.com [lnd-34]",
             "color": "3399ff",
-            "last_timestamp": 1562129639,
+            "last_timestamp": 1562129640,
             "globalfeatures": "",
             "type": "ipv4",
             "address": "213.174.156.78",
@@ -1517,16 +3267,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0324957a5ab4f045fc02a492eb7a3ff375a4bcec059a6a31cdb6360a5aab7c53e0",
-            "alias": "Cryptoleone",
-            "color": "3399ff",
-            "last_timestamp": 1562129276,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "145.53.159.48",
-            "port": 9735
-        },
-        {
             "nodeid": "024273c08f06194232b539fae7b7bbaeb690c516d9ed56bbbd3da20c5ad62ed2c5",
             "alias": "lnd.luckisdesign.com",
             "color": "3399ff",
@@ -1537,36 +3277,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0279c22ed7a068d10dc1a38ae66d2d6461e269226c60258c021b1ddcdfe4b00bc4",
-            "alias": "ln1.satoshilabs.com",
-            "color": "ff0000",
-            "last_timestamp": 1562127850,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "51.15.103.198",
-            "port": 9735
-        },
-        {
-            "nodeid": "0390b5d4492dc2f5318e5233ab2cebf6d48914881a33ef6a9c6bcdbb433ad986d0",
-            "alias": "LNBIG.com [lnd-01]",
-            "color": "3399ff",
-            "last_timestamp": 1562127846,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.136",
-            "port": 9735
-        },
-        {
-            "nodeid": "021607cfce19a4c5e7e6e738663dfafbbbac262e4ff76c2c9b30dbeefc35c00643",
-            "alias": "ln.BitSoapBox.com",
-            "color": "5f04c0",
-            "last_timestamp": 1562127845,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "138.201.60.38",
-            "port": 9735
-        },
-        {
             "nodeid": "03d3cc1f07917c5d5e5067c8a459eff979d53a2d0a4e27e30569bcbb3d8b752c24",
             "alias": "Tassadar",
             "color": "3399ff",
@@ -1574,16 +3284,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "172.81.177.51",
-            "port": 9735
-        },
-        {
-            "nodeid": "02d23fa6794d8fd056c757f3c8f4877782138dafffedc831fc570cab572620dc61",
-            "alias": "Moon (Public - Mainnet)",
-            "color": "3399ff",
-            "last_timestamp": 1562126747,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "54.224.118.176",
             "port": 9735
         },
         {
@@ -1607,56 +3307,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03ab75012c0a552ddb0194f43d57d9af2a83a86cc2a96abf0134c6d9349819c8a8",
-            "alias": "Blockchaincaffe.org",
-            "color": "03ab75",
-            "last_timestamp": 1562119045,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "139.59.214.118",
-            "port": 9735
-        },
-        {
-            "nodeid": "03295d2e292565743a40bd44da227a820f8730877bc3dfadebade8785bcf355258",
-            "alias": "moneni.com",
-            "color": "3399ff",
-            "last_timestamp": 1562119038,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "159.203.122.47",
-            "port": 9735
-        },
-        {
-            "nodeid": "03fbe1c1baedbc99b2642ae524d9c2a6f12b771a3ab91e0f56ca6efc6f7f7d53b6",
-            "alias": "\u26a1TheBebop\u26a1",
-            "color": "3399ff",
-            "last_timestamp": 1562118983,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "76.185.111.141",
-            "port": 9735
-        },
-        {
-            "nodeid": "02a04446caa81636d60d63b066f2814cbd3a6b5c258e3172cbdded7a16e2cfff4c",
-            "alias": "ln.bitstamp.net [Bitstamp]",
-            "color": "159e49",
-            "last_timestamp": 1562118980,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "3.122.40.122",
-            "port": 9735
-        },
-        {
-            "nodeid": "02d707df6a61a87ea8c6f3fe29a31b107ab257f262251302c2c31c269b215e8e6f",
-            "alias": "raspinode",
-            "color": "68f442",
-            "last_timestamp": 1562118415,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "173.75.131.221",
-            "port": 9735
-        },
-        {
             "nodeid": "039f01ad62e5208940faff11d0bbc997582eafad7642aaf53de6a5f6551ab73400",
             "alias": "lightningslotmachine.com",
             "color": "3399ff",
@@ -1674,16 +3324,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "74.108.25.169",
-            "port": 9735
-        },
-        {
-            "nodeid": "02065e25c272203440b66ea0ba66601d1248564554d0a68472b82511af54288120",
-            "alias": "Platform9and3quarters",
-            "color": "0000ff",
-            "last_timestamp": 1562117584,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "71.225.72.81",
             "port": 9735
         },
         {
@@ -1717,16 +3357,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0274a542b693385f9e38d7acf4017ed31748d00693ff219c54e1b33749595a7419",
-            "alias": "\u26a1\ufe0f\ud83d\udd25 BC.GAME\ud83d\udd25\u26a1\ufe0f",
-            "color": "68f442",
-            "last_timestamp": 1562116056,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "18.179.20.192",
-            "port": 9735
-        },
-        {
             "nodeid": "02b80cabdf82638aac86948e4c06e82064f547768dcef977677b9ea931ea75bab5",
             "alias": "02b80cabdf82638aac86",
             "color": "fffc00",
@@ -1734,16 +3364,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "138.68.244.82",
-            "port": 9735
-        },
-        {
-            "nodeid": "02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8",
-            "alias": "\ud83d\ude80\ud83c\udf11 BOLTENING.club",
-            "color": "4286f5",
-            "last_timestamp": 1562114728,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "62.210.167.199",
             "port": 9735
         },
         {
@@ -1757,16 +3377,6 @@
             "port": 9735
         },
         {
-            "nodeid": "026c7d28784791a4b31a64eb34d9ab01552055b795919165e6ae886de637632efb",
-            "alias": "WalletOfSatoshi.com",
-            "color": "3399ff",
-            "last_timestamp": 1562114107,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "13.75.179.99",
-            "port": 9735
-        },
-        {
             "nodeid": "02b3a79949fcb53da53050018837c8eff56ff571ef1e0552a80edeedbd7320ffb3",
             "alias": "LN-Zone.com",
             "color": "39ff14",
@@ -1774,16 +3384,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "46.25.129.225",
-            "port": 9735
-        },
-        {
-            "nodeid": "0331f80652fb840239df8dc99205792bba2e559a05469915804c08420230e23c7c",
-            "alias": "LightningPowerUsers.com",
-            "color": "000000",
-            "last_timestamp": 1562112449,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "74.108.13.152",
             "port": 9735
         },
         {
@@ -1797,26 +3397,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03021c5f5f57322740e4ee6936452add19dc7ea7ccf90635f95119ab82a62ae268",
-            "alias": "03021c5f5f57322740e4",
-            "color": "3399ff",
-            "last_timestamp": 1562111700,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "207.180.244.165",
-            "port": 9735
-        },
-        {
-            "nodeid": "0217890e3aad8d35bc054f43acc00084b25229ecff0ab68debd82883ad65ee8266",
-            "alias": "1ML.com node ALPHA",
-            "color": "3399ff",
-            "last_timestamp": 1562111696,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "23.237.77.11",
-            "port": 9735
-        },
-        {
             "nodeid": "03afff2ce5cb1aedb612ba311421d0ffc6f4ed6279af3e7e3f2575c635577c5d9f",
             "alias": "CryptoCloaksBlitz",
             "color": "68f442",
@@ -1827,26 +3407,6 @@
             "port": 9736
         },
         {
-            "nodeid": "03668e08fefdc45f91d21dada56f7fed9424dc1092390b88e34a4f119fa4a9e002",
-            "alias": "CryptoCloaks",
-            "color": "3399ff",
-            "last_timestamp": 1562111487,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "68.169.217.236",
-            "port": 9735
-        },
-        {
-            "nodeid": "03d37fca0656558de4fd86bbe490a38d84a46228e7ec1361801f54f9437a18d618",
-            "alias": "LNBIG.com [lnd-02]",
-            "color": "3399ff",
-            "last_timestamp": 1562111252,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.138",
-            "port": 9735
-        },
-        {
             "nodeid": "03ac97b948bd502ce1afd8f9e977553a76e5eb67ca63f7c4415d573421c381f660",
             "alias": "DCLightning",
             "color": "68f442",
@@ -1854,36 +3414,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "119.237.166.24",
-            "port": 9735
-        },
-        {
-            "nodeid": "03344587d512b940bb96b4db40e4f915d1c402176b5c99913b0876413a81bf646e",
-            "alias": "LN Speed force \u26a1\ufe0f",
-            "color": "ebaeba",
-            "last_timestamp": 1562111090,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "95.174.125.24",
-            "port": 9735
-        },
-        {
-            "nodeid": "02e9046555a9665145b0dbd7f135744598418df7d61d3660659641886ef1274844",
-            "alias": "SilentBob",
-            "color": "0000ff",
-            "last_timestamp": 1562110929,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "31.17.70.80",
-            "port": 9735
-        },
-        {
-            "nodeid": "0232e20e7b68b9b673fb25f48322b151a93186bffe4550045040673797ceca43cf",
-            "alias": "zigzag.io",
-            "color": "3399ff",
-            "last_timestamp": 1562109119,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "178.128.202.182",
             "port": 9735
         },
         {
@@ -1897,16 +3427,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6",
-            "alias": "FastForward",
-            "color": "3399ff",
-            "last_timestamp": 1562107696,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "45.76.39.125",
-            "port": 9735
-        },
-        {
             "nodeid": "03fab7f8655169ea77d9691d4bd359e97782cb6177a6f76383994ed9c262af97a5",
             "alias": "\ud83d\udc38webworker.sh\ud83d\udc38",
             "color": "83b166",
@@ -1917,13 +3437,13 @@
             "port": 9735
         },
         {
-            "nodeid": "039f6f74de35652c3d804cd873f14cc858e26beb3fda9d14363bae40d94bc72fde",
-            "alias": "Crypto-RiS",
-            "color": "68f442",
-            "last_timestamp": 1562105352,
+            "nodeid": "03cebf40a97959ae43c52a2a70e6a0160925d4b0e7bbdb845468250b6fb5b76239",
+            "alias": "peppertiger",
+            "color": "00ff00",
+            "last_timestamp": 1562105544,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "188.194.113.27",
+            "address": "173.208.150.210",
             "port": 9735
         },
         {
@@ -1947,6 +3467,16 @@
             "port": 9735
         },
         {
+            "nodeid": "03189e1951f97a57a6ed4dd4c40416e9a528a11f7c2961c2d60505f2e15b577bd2",
+            "alias": "Craig Wright is a fraud",
+            "color": "ff9900",
+            "last_timestamp": 1562100457,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "96.225.26.208",
+            "port": 9735
+        },
+        {
             "nodeid": "03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa",
             "alias": "Darosior",
             "color": "0116fb",
@@ -1957,13 +3487,13 @@
             "port": 9735
         },
         {
-            "nodeid": "03d14dd2b2b1903265d6fd4d62018df798aedb6405accde37af53de7dae4590410",
-            "alias": "lightning.networkingfanatic.com",
+            "nodeid": "036d293ee276b354e153da13c60b7df632119c380d163eda73fdba944d2f9cd847",
+            "alias": "CryptoTesla",
             "color": "3399ff",
-            "last_timestamp": 1562095974,
+            "last_timestamp": 1562095784,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "104.218.150.185",
+            "address": "84.80.183.50",
             "port": 9735
         },
         {
@@ -1977,13 +3507,23 @@
             "port": 9735
         },
         {
-            "nodeid": "0242a4ae0c5bef18048fbecf995094b74bfb0f7391418d71ed394784373f41e4f3",
-            "alias": "CoinGate",
-            "color": "4169e1",
-            "last_timestamp": 1562095761,
+            "nodeid": "0214b87e06039a44b5a23580f0e2f801b913fe9e3dc29169419f5eed15e449e9d3",
+            "alias": "readevalprint",
+            "color": "3399ff",
+            "last_timestamp": 1562095763,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "18.184.237.59",
+            "address": "35.243.77.241",
+            "port": 9735
+        },
+        {
+            "nodeid": "03e3f77e5e2e8f18f495b492cdb0e05708fb6017d5b148580a07d9cb0d41050c60",
+            "alias": "CoincideCapital",
+            "color": "3399ff",
+            "last_timestamp": 1562095480,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "88.99.185.139",
             "port": 9735
         },
         {
@@ -1997,6 +3537,16 @@
             "port": 9735
         },
         {
+            "nodeid": "020e56a13babec99abdc2c4afbe34e1e44230d79b234c059fd4ff1e367765fdb1b",
+            "alias": "MiltonPusser.lightningnode.eu",
+            "color": "381793",
+            "last_timestamp": 1562094626,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "82.197.218.97",
+            "port": 9735
+        },
+        {
             "nodeid": "03a503d8e30f2ff407096d235b5db63b4fcf3f89a653acb6f43d3fc492a7674019",
             "alias": "Sagittarius A",
             "color": "ffffff",
@@ -2004,16 +3554,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "37.59.50.48",
-            "port": 9735
-        },
-        {
-            "nodeid": "0308bf247ac71823e1a9ef0c46c34ad9b4ba38a03f43fcf63566cc3548084d135d",
-            "alias": "SUNNY-BTC",
-            "color": "68f442",
-            "last_timestamp": 1562093022,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "69.114.51.239",
             "port": 9735
         },
         {
@@ -2047,36 +3587,6 @@
             "port": 9735
         },
         {
-            "nodeid": "022d9a4847963807a76cef12ea8653d489ba55f1d0674ec9fcbf3816b7248188aa",
-            "alias": "NescaNodemy",
-            "color": "68f442",
-            "last_timestamp": 1562089584,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "202.184.99.196",
-            "port": 9735
-        },
-        {
-            "nodeid": "03fce165537aea120bffe8505876b44d5119354f825b3eac329b761fc5636bf334",
-            "alias": "LNBIG.com [lnd-27\/old-lnd-19]",
-            "color": "3399ff",
-            "last_timestamp": 1562089580,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.71",
-            "port": 9735
-        },
-        {
-            "nodeid": "033e9ce4e8f0e68f7db49ffb6b9eecc10605f3f3fcb3c630545887749ab515b9c7",
-            "alias": "LNBIG.com [lnd-11]",
-            "color": "3399ff",
-            "last_timestamp": 1562089579,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.150",
-            "port": 9735
-        },
-        {
             "nodeid": "0357d78ec7dac0bf049d494f2b1451c6a10608efd7432b4ef5f24ef17271d8ef9f",
             "alias": "DukeofDogecoin",
             "color": "3399ff",
@@ -2084,16 +3594,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "73.29.236.236",
-            "port": 9735
-        },
-        {
-            "nodeid": "028a8e53d70bc0eb7b5660943582f10b7fd6c727a78ad819ba8d45d6a638432c49",
-            "alias": "LNBIG.com [lnd-33]",
-            "color": "3399ff",
-            "last_timestamp": 1562084291,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.77",
             "port": 9735
         },
         {
@@ -2147,26 +3647,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0215045037aafb53a58322ce6923bd9346c1855dc4bb85b337f7444b9a1129bf12",
-            "alias": "Stippy",
-            "color": "3399ff",
-            "last_timestamp": 1562072572,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "220.255.76.220",
-            "port": 9735
-        },
-        {
-            "nodeid": "02ef01a0a61aa6bc2730ce6d129338ea951658c94113ad9c901752c00c05d9a072",
-            "alias": "StippyGcpLnd",
-            "color": "3399ff",
-            "last_timestamp": 1562072511,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "35.229.94.155",
-            "port": 9735
-        },
-        {
             "nodeid": "03b06475fa4be84f5407eff45041a0d3a54f19d7f88349a8c992352ba6dad72168",
             "alias": "bitcoinaudio",
             "color": "3399ff",
@@ -2204,36 +3684,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "213.174.156.75",
-            "port": 9735
-        },
-        {
-            "nodeid": "0303a518845db99994783f606e6629e705cfaf072e5ce9a4d8bf9e249de4fbd019",
-            "alias": "LNBIG.com [lnd-25]",
-            "color": "3399ff",
-            "last_timestamp": 1562067792,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.174.156.69",
-            "port": 9735
-        },
-        {
-            "nodeid": "03bc9337c7a28bb784d67742ebedd30a93bacdf7e4ca16436ef3798000242b2251",
-            "alias": "LNBIG.com [lnd-06]",
-            "color": "3399ff",
-            "last_timestamp": 1562067792,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.141",
-            "port": 9735
-        },
-        {
-            "nodeid": "034ea80f8b148c750463546bd999bf7321a0e6dfc60aaf84bd0400a2e8d376c0d5",
-            "alias": "LNBIG.com [lnd-12]",
-            "color": "3399ff",
-            "last_timestamp": 1562067791,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.151",
             "port": 9735
         },
         {
@@ -2277,26 +3727,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03fc5b91ce2d857f146fd9b986363374ffe04dc143d8bcd6d7664c8873c463cdfc",
-            "alias": "pinsert.pl",
-            "color": "ffff00",
-            "last_timestamp": 1562055820,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "185.228.141.6",
-            "port": 9735
-        },
-        {
-            "nodeid": "03d91ffaf5c8ca34c8f01dfaba24654965f41b650ce67c031dbb49b0be1e965bca",
-            "alias": "Bitcoin_Dashboards",
-            "color": "3399ff",
-            "last_timestamp": 1562054410,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "172.81.181.182",
-            "port": 9735
-        },
-        {
             "nodeid": "02ae229a5bd9049199f1462ce2fec0fffd79d5b5ff80ec3939bb2104e4cd1b4471",
             "alias": "wobnode2",
             "color": "3399ff",
@@ -2304,26 +3734,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "62.176.239.73",
-            "port": 9735
-        },
-        {
-            "nodeid": "0313aade7a644e0a06ddfed0aff876e52ff1cac8d2b2f3871ff41cb4d5f9afdddb",
-            "alias": "satoshifor.me",
-            "color": "000000",
-            "last_timestamp": 1562046957,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "139.162.12.50",
-            "port": 9735
-        },
-        {
-            "nodeid": "031015a7839468a3c266d662d5bb21ea4cea24226936e2864a7ca4f2c3939836e0",
-            "alias": "Breez",
-            "color": "3399ff",
-            "last_timestamp": 1562046159,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "212.129.58.219",
             "port": 9735
         },
         {
@@ -2347,16 +3757,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02f0c9ba2df10171326a77518f8f5f5708677efa0656f377e8256d71f8f8df433a",
-            "alias": "DigitalWampum",
-            "color": "3399ff",
-            "last_timestamp": 1562039444,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "170.75.163.42",
-            "port": 9735
-        },
-        {
             "nodeid": "0279f930a60afe43131fd3328ff4a9c55293254c328f45e76695c1ab9b3c5a68b2",
             "alias": "-\ud83c\udf29- BlitzNode.com -\ud83c\udf29-",
             "color": "32cd32",
@@ -2364,16 +3764,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "213.136.87.165",
-            "port": 9735
-        },
-        {
-            "nodeid": "0327049d8d63f0c40193cdf3afc61817c8647808a4e482de0716fcef74e6d92ebf",
-            "alias": "https:\/\/diddyinc.com\/",
-            "color": "42f45d",
-            "last_timestamp": 1562039438,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "130.211.193.179",
             "port": 9735
         },
         {
@@ -2397,6 +3787,16 @@
             "port": 9735
         },
         {
+            "nodeid": "02388d70afa6a8bceeee633386ad2bc67c1ac5eef0ae75b6d4f25fff5b425a417e",
+            "alias": "bitcoinboi nodl [LND]",
+            "color": "0000ff",
+            "last_timestamp": 1562035657,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "67.253.72.119",
+            "port": 9735
+        },
+        {
             "nodeid": "0338f87cb05016c9427de7872192615f9313d622db1a88f6c2594625ffd0b2d270",
             "alias": "LENINGRAD[LND]",
             "color": "006600",
@@ -2404,46 +3804,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "146.120.67.44",
-            "port": 9735
-        },
-        {
-            "nodeid": "03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c",
-            "alias": "mainnet.demo.btcpayserver.org",
-            "color": "3399ff",
-            "last_timestamp": 1562030277,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "170.75.160.16",
-            "port": 9735
-        },
-        {
-            "nodeid": "03fcf7df6900853b7b233f695efb2be5a45da9c9d3ea6cbfc6c2e74bfb6a8aed80",
-            "alias": "halogensupplier",
-            "color": "b60c40",
-            "last_timestamp": 1562030273,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "216.71.197.245",
-            "port": 9735
-        },
-        {
-            "nodeid": "035f5236d7e6c6d16107c1f86e4514e6ccdd6b2c13c2abc1d7a83cd26ecb4c1d0e",
-            "alias": "LNBIG.com [lnd-13]",
-            "color": "3399ff",
-            "last_timestamp": 1562030251,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.152",
-            "port": 9735
-        },
-        {
-            "nodeid": "0395033b252c6f40e3756984162d68174e2bd8060a129c0d3462a9370471c6d28f",
-            "alias": "BitMEXResearch",
-            "color": "3399ff",
-            "last_timestamp": 1562030248,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "138.68.157.208",
             "port": 9735
         },
         {
@@ -2457,33 +3817,13 @@
             "port": 9735
         },
         {
-            "nodeid": "030995c0c0217d763c2274aa6ed69a0bb85fa2f7d118f93631550f3b6219a577f5",
-            "alias": "LNBIG.com [lnd-28\/old-lnd-22]",
-            "color": "3399ff",
-            "last_timestamp": 1562026001,
+            "nodeid": "03c9f4e801f0a676656f5ea3823707f6d6fd1b30f87fac065189b1956775c51cb7",
+            "alias": "Sashko",
+            "color": "68f442",
+            "last_timestamp": 1562021256,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "213.174.156.72",
-            "port": 9735
-        },
-        {
-            "nodeid": "02ad6fb8d693dc1e4569bcedefadf5f72a931ae027dc0f0c544b34c1c6f3b9a02b",
-            "alias": "rompert.com\ud83d\udd35",
-            "color": "0000ff",
-            "last_timestamp": 1562019209,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "167.99.50.31",
-            "port": 9735
-        },
-        {
-            "nodeid": "037e1439d8f1394d00868beeff636e42518a30b3ead303bb3ad4185b53e41d6d52",
-            "alias": "lnd.railnet.ru",
-            "color": "00ff00",
-            "last_timestamp": 1562019196,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "116.203.4.18",
+            "address": "134.249.161.200",
             "port": 9735
         },
         {
@@ -2517,6 +3857,16 @@
             "port": 9735
         },
         {
+            "nodeid": "03f78684b49e125d73c1801b3529f7d663f08ae7e1dd5db416fe69d9cb47b1c50f",
+            "alias": "SWIFT.connect",
+            "color": "68f442",
+            "last_timestamp": 1562012243,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "203.59.73.222",
+            "port": 9735
+        },
+        {
             "nodeid": "0357f8170b3a41efcc053e3b1957580bf6c1ab4a0f3125bfafc31040c02228239a",
             "alias": "EnlightenThing\u2607",
             "color": "ffff00",
@@ -2525,26 +3875,6 @@
             "type": "ipv4",
             "address": "173.249.58.30",
             "port": 9735
-        },
-        {
-            "nodeid": "03d04c7b705a312514ef78d19d87a3986c85b3f465338858b783a32c61754bc130",
-            "alias": "ChileBob",
-            "color": "3399ff",
-            "last_timestamp": 1562008122,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "201.215.192.162",
-            "port": 9735
-        },
-        {
-            "nodeid": "02809e936f0e82dfce13bcc47c77112db068f569e1db29e7bf98bcdd68b838ee84",
-            "alias": "powernode.io",
-            "color": "000000",
-            "last_timestamp": 1561998780,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "40.69.71.114",
-            "port": 9736
         },
         {
             "nodeid": "02816caed43171d3c9854e3b0ab2cf0c42be086ff1bd4005acc2a5f7db70d83774",
@@ -2557,16 +3887,6 @@
             "port": 9735
         },
         {
-            "nodeid": "036a33e92cda2679ac91ac0467acb1ba33396c0df1119521653e0f269c275dd6bf",
-            "alias": "LightningPrintings.com \ud83d\udc11[LND]",
-            "color": "00e88a",
-            "last_timestamp": 1561995409,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "87.27.157.110",
-            "port": 9735
-        },
-        {
             "nodeid": "0316baa4dbda59fa6d392ba0804d616d0fc36db0cf72851973f31117974470c8be",
             "alias": "scaredibis-ln [LND]",
             "color": "2aabbf",
@@ -2574,6 +3894,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "60.242.10.86",
+            "port": 9735
+        },
+        {
+            "nodeid": "028b3ba3aa14be49e5096758c2b062114251eafd9a3dec502c64f3f079322672cb",
+            "alias": "shop.nodl.it",
+            "color": "ff0000",
+            "last_timestamp": 1561991600,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "195.95.225.243",
             "port": 9735
         },
         {
@@ -2594,16 +3924,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "217.91.155.235",
-            "port": 9735
-        },
-        {
-            "nodeid": "0349e1165104b5606b94fa8e11499106f8e66526b497dcad6cc22d64987b0808e0",
-            "alias": "EUROPE#1",
-            "color": "68f442",
-            "last_timestamp": 1561987635,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "213.239.209.173",
             "port": 9735
         },
         {
@@ -2667,16 +3987,6 @@
             "port": 8333
         },
         {
-            "nodeid": "03e3ae247eb613ca670d5b58dc6c5e224f79cb7de05940fbab70d9b40213deb31f",
-            "alias": "Stockholm",
-            "color": "3399ff",
-            "last_timestamp": 1561982046,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "176.10.229.121",
-            "port": 9700
-        },
-        {
             "nodeid": "02d98ee97760aba8124606c177d0e4c246fc6cd7bd8f8bd3857f20805a62ecbc26",
             "alias": "lightning.burleson.tx",
             "color": "3399ff",
@@ -2684,56 +3994,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "108.226.252.255",
-            "port": 9735
-        },
-        {
-            "nodeid": "03688e738515c9b7413e0f035f62a28c2089afcbe01a2f9412b5e0fe48cceb5bb5",
-            "alias": "JohnBlaze",
-            "color": "3399ff",
-            "last_timestamp": 1561982041,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "71.181.30.123",
-            "port": 9735
-        },
-        {
-            "nodeid": "027c3abc90a51617fb9cf5162c2fedfd9832c620ef82b54e413e9ce0f892dabb0d",
-            "alias": "Lightningang[LND]",
-            "color": "00cccb",
-            "last_timestamp": 1561982026,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "193.115.75.35",
-            "port": 9735
-        },
-        {
-            "nodeid": "0202b1f1a4a74876e6c03bc135541ab89ad555bff38cc8984e6ba8cab1a16db4ed",
-            "alias": "ln.interlogica.it",
-            "color": "3f98d1",
-            "last_timestamp": 1561982021,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "91.207.150.170",
-            "port": 9735
-        },
-        {
-            "nodeid": "02f665f48119bcb606bf6f9519fa2a56ac078cfa31d7d9e34e784b1b326d9ff0ec",
-            "alias": "StillTesting",
-            "color": "3399ff",
-            "last_timestamp": 1561981995,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "89.238.166.235",
-            "port": 42080
-        },
-        {
-            "nodeid": "02de11c748f5b25cfd2ce801176d3926bfde4de23b1ff43e692a5b76cf06805e4a",
-            "alias": "LNBIG.com [lnd-09]",
-            "color": "3399ff",
-            "last_timestamp": 1561981989,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.146",
             "port": 9735
         },
         {
@@ -2747,26 +4007,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03e90fd715dd766a0ed532dc1ba45e5fb913b1dc29d5afd9b700548d98d53b598c",
-            "alias": "LNCOFFEE",
-            "color": "3399ff",
-            "last_timestamp": 1561980764,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "80.110.49.22",
-            "port": 9735
-        },
-        {
-            "nodeid": "02bb24da3d0fb0793f4918c7599f973cc402f0912ec3fb530470f1fc08bdd6ecb5",
-            "alias": "LNBIG.com [lnd-10]",
-            "color": "3399ff",
-            "last_timestamp": 1561980747,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "46.229.165.147",
-            "port": 9735
-        },
-        {
             "nodeid": "039277536aad6190bbe4a4070f78dd3e8e27c6c863f828a463d843eaf07d1ce535",
             "alias": "nodik",
             "color": "3399ff",
@@ -2774,36 +4014,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "84.16.38.218",
-            "port": 9735
-        },
-        {
-            "nodeid": "03715c3b675c5ea2eccb810d6e84a4369a0f673ef769daf9e2a47b1ecd2edb93a2",
-            "alias": "1.ln.glass",
-            "color": "fa7268",
-            "last_timestamp": 1561980710,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "13.56.187.46",
-            "port": 9735
-        },
-        {
-            "nodeid": "021c97a90a411ff2b10dc2a8e32de2f29d2fa49d41bfbb52bd416e460db0747d0d",
-            "alias": "021c97a90a411ff2b10d",
-            "color": "3399ff",
-            "last_timestamp": 1561980710,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "18.224.56.146",
-            "port": 9735
-        },
-        {
-            "nodeid": "02233a3b30d7c8b08542eefe66978e45d2962ed21e857ce33ea1452b5b90173d77",
-            "alias": "Coincards",
-            "color": "3399ff",
-            "last_timestamp": 1561980710,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "54.39.133.223",
             "port": 9735
         },
         {
@@ -2817,13 +4027,13 @@
             "port": 9735
         },
         {
-            "nodeid": "039401f72bc0d40efb58b01de15527a2a5ae1943d7c29067b725a1467a93c7e66f",
-            "alias": "SLL",
-            "color": "ff1c6f",
-            "last_timestamp": 1561980281,
+            "nodeid": "03715c3b675c5ea2eccb810d6e84a4369a0f673ef769daf9e2a47b1ecd2edb93a2",
+            "alias": "1.ln.glass",
+            "color": "fa7268",
+            "last_timestamp": 1561980710,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "2.238.144.76",
+            "address": "13.56.187.46",
             "port": 9735
         },
         {
@@ -2857,6 +4067,36 @@
             "port": 9735
         },
         {
+            "nodeid": "02a2c53bc475cb92e4ab2f38a5bca56df695034ce90ad78c2f47c05911e3f79e41",
+            "alias": "schmoock.net",
+            "color": "00ddff",
+            "last_timestamp": 1561965241,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "46.4.92.21",
+            "port": 9735
+        },
+        {
+            "nodeid": "030738312df2deb10b253faa6e9470062399a2b383cab50b9cfcd10c4f2316303c",
+            "alias": "dcdcdcdcdcdc",
+            "color": "0080c6",
+            "last_timestamp": 1561960496,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "99.164.139.172",
+            "port": 9735
+        },
+        {
+            "nodeid": "021802799027508e8a8bf9a0ab96ea78a6a995926a0b1310561a74375a06e14de9",
+            "alias": "freedom_node",
+            "color": "3399ff",
+            "last_timestamp": 1561947081,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "114.23.122.174",
+            "port": 9735
+        },
+        {
             "nodeid": "036b343eb46c5db996d3d1e2c6cc9742cbfa7e3b4146d4b4b0aef694b6d12960c8",
             "alias": "\u26a1Mt Olympus\u26a1",
             "color": "2a9ecc",
@@ -2874,6 +4114,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "175.34.127.92",
+            "port": 9735
+        },
+        {
+            "nodeid": "024a853d9cdedafc164e49c2cef301966e5a78091322a84175b52d059d71b4d672",
+            "alias": "ac.com.au",
+            "color": "3399ff",
+            "last_timestamp": 1561941793,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "175.33.130.235",
             "port": 9735
         },
         {
@@ -2917,6 +4167,26 @@
             "port": 9735
         },
         {
+            "nodeid": "03adad48289059265eeba2c5fa7140730fae0fb422b1c5a6f857d874bccf74b437",
+            "alias": "Ridethelight",
+            "color": "68f442",
+            "last_timestamp": 1561925632,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "108.63.233.74",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b53a074f89cf69a839bc67435a010ef58f5c025bcb43064019837efac2883632",
+            "alias": "Jenny",
+            "color": "3399ff",
+            "last_timestamp": 1561925625,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "184.58.164.106",
+            "port": 9735
+        },
+        {
             "nodeid": "027d7f94667974b10d3e8330de403111229669273dc9024745d195ba035d746e57",
             "alias": "dilboy",
             "color": "3399ff",
@@ -2927,13 +4197,53 @@
             "port": 9735
         },
         {
-            "nodeid": "02f882d605eaa45655658d8def825201fb4018f1c0f16d0968655fa544ab714ca5",
-            "alias": "SimBlitz",
-            "color": "68f442",
-            "last_timestamp": 1561915278,
+            "nodeid": "024300c307415b88acd0c027c5dcf405e5a59f8b19867ee253ff10093932559849",
+            "alias": "@otaviobonder",
+            "color": "ff0000",
+            "last_timestamp": 1561915041,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "203.150.156.232",
+            "address": "201.21.80.142",
+            "port": 9735
+        },
+        {
+            "nodeid": "03944919f1b2bf1f14a1c94a36c88476d916899e6e3632403b929ca11f37bbc7d7",
+            "alias": "Twicebit",
+            "color": "3399ff",
+            "last_timestamp": 1561910603,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "67.180.211.227",
+            "port": 9735
+        },
+        {
+            "nodeid": "020327bbd6b7ebf577a041e24cbdc0b3ddb6ec4a2ec89e271260fc9d6fbaccc80a",
+            "alias": "NOLIMITZNODE [LND]",
+            "color": "68f442",
+            "last_timestamp": 1561909369,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "65.186.82.182",
+            "port": 9735
+        },
+        {
+            "nodeid": "02309f3556d51e9d855594762dcf68cb283fbfd7e48618b6cecb8cd90e2e34d8ad",
+            "alias": "zerobps",
+            "color": "ff8819",
+            "last_timestamp": 1561894962,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "79.62.233.36",
+            "port": 9735
+        },
+        {
+            "nodeid": "0309caf5db1a7a1e25a814e662304efa2e60e88e0d70e2c60122c583d6dfb5744d",
+            "alias": "\ud83d\ude80 Adam Soltys \ud83d\udc41",
+            "color": "ff3200",
+            "last_timestamp": 1561894960,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "216.232.197.198",
             "port": 9735
         },
         {
@@ -2975,26 +4285,6 @@
             "type": "ipv4",
             "address": "104.248.136.82",
             "port": 9734
-        },
-        {
-            "nodeid": "027e74b73db73f0509c1682f66031685126c8c9b6f8999f463a7ed43dd986c6a9d",
-            "alias": "https:\/\/store.creamer.online",
-            "color": "3399ff",
-            "last_timestamp": 1561888811,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "172.81.178.147",
-            "port": 9735
-        },
-        {
-            "nodeid": "02059220fa2153fb6d7768d7d67c6b86f441f83b7046aea492f2018f7b800edfa9",
-            "alias": "Swiss.Soleur[lnd]",
-            "color": "3399ff",
-            "last_timestamp": 1561881343,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "80.208.138.4",
-            "port": 9735
         },
         {
             "nodeid": "0263c2292e17d9cf6ed7bbcb0029f9147e27aacc0f5157bb013b7b70dcc705b19f",
@@ -3057,16 +4347,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0314da85ec42da046703ea16f8ffd3b69c181c09652138f517af87df92a64502e8",
-            "alias": "thepkbadger",
-            "color": "68f442",
-            "last_timestamp": 1561853354,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "77.38.100.235",
-            "port": 9735
-        },
-        {
             "nodeid": "02cb99408e3b55fbfb335a47b8a2089f8882bf625750819b751fcf3fcf5b79fe98",
             "alias": "Bender",
             "color": "545454",
@@ -3074,16 +4354,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "82.119.233.36",
-            "port": 9735
-        },
-        {
-            "nodeid": "0232fe448d6f8e9e8e54394f3dc5b35013b7a3a3cd227ffce1bb81cc8d285cf0a5",
-            "alias": "spookiestevie",
-            "color": "00bad0",
-            "last_timestamp": 1561851967,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "82.27.225.132",
             "port": 9735
         },
         {
@@ -3107,26 +4377,6 @@
             "port": 9735
         },
         {
-            "nodeid": "023e18169f9b4253eff56bd7035660b28c95e61e12fabc03f4aef59d102d55bbb0",
-            "alias": "lightningfees.net",
-            "color": "3399ff",
-            "last_timestamp": 1561847543,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "81.207.149.246",
-            "port": 9736
-        },
-        {
-            "nodeid": "0231eccc6510eb2e1c97c8a190d6ea096784aa7c358355442055aac8b20654f932",
-            "alias": "BitKassa LN34961 [LND]",
-            "color": "7423cd",
-            "last_timestamp": 1561847542,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "83.162.211.100",
-            "port": 9735
-        },
-        {
             "nodeid": "03620f31cf2bb95bb70c8c7bcdaa0698cd9bc7f17987290338af301eaa28c351be",
             "alias": "mandelduck",
             "color": "3399ff",
@@ -3134,16 +4384,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "13.58.198.168",
-            "port": 9735
-        },
-        {
-            "nodeid": "026e186f6cf00009595c9083980304f0be65c8c3736b63c1c9135ef9aa952f644e",
-            "alias": "Britvr",
-            "color": "3399ff",
-            "last_timestamp": 1561846701,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "98.206.133.174",
             "port": 9735
         },
         {
@@ -3167,26 +4407,6 @@
             "port": 9735
         },
         {
-            "nodeid": "021e64cc0db3fc88a6c151576b1276fc3d9821f8674542f75b8317ffc8c9b394ad",
-            "alias": "pl-refreshments-node",
-            "color": "68f442",
-            "last_timestamp": 1561844879,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "181.43.0.103",
-            "port": 9735
-        },
-        {
-            "nodeid": "02db4f3d829aa70c256ef184769fb15b94022ee1ae242c443cbbedcc6d261f26af",
-            "alias": "PayWithMoon",
-            "color": "3399ff",
-            "last_timestamp": 1561827760,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "89.212.19.164",
-            "port": 9735
-        },
-        {
             "nodeid": "02cbc036f85c74f26edf19f5a8513a96d162282ab68aa62cee47439a553519ddd5",
             "alias": "HD-Crypto",
             "color": "106e98",
@@ -3204,16 +4424,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "1.159.29.146",
-            "port": 9735
-        },
-        {
-            "nodeid": "0344c2e9c84dd0fd843bae94f2f47e77f497192ff17a75d38b2bce5c9a59f4bbe5",
-            "alias": "Bitcoin.Ireland",
-            "color": "3399ff",
-            "last_timestamp": 1561826444,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "2.101.114.44",
             "port": 9735
         },
         {
@@ -3247,16 +4457,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03b0318fecc7e8165c49053a944e5ceb9d4feb0d08a5db78794d9230c8c8193513",
-            "alias": "Wing-Kong Exchange",
-            "color": "d121ed",
-            "last_timestamp": 1561822910,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "72.74.160.36",
-            "port": 9735
-        },
-        {
             "nodeid": "0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9",
             "alias": "0391489a933ab83094d1",
             "color": "3399ff",
@@ -3264,26 +4464,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "18.235.20.108",
-            "port": 9735
-        },
-        {
-            "nodeid": "02b3a8dfea0259d93bbc799c25126c84e2950b60a3bc25248dc508f946c2878883",
-            "alias": "D76eauit",
-            "color": "0000ff",
-            "last_timestamp": 1561806367,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "27.33.150.9",
-            "port": 9735
-        },
-        {
-            "nodeid": "02c79489d45cb0875515000d44bde452d2f9a0b3f718928248a254d413ae5bbbd2",
-            "alias": "MrYamiOko",
-            "color": "3399ff",
-            "last_timestamp": 1561796305,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "1.156.4.131",
             "port": 9735
         },
         {
@@ -3307,16 +4487,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
-            "alias": "HODLcat.com",
-            "color": "3399ff",
-            "last_timestamp": 1561794278,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "172.81.181.48",
-            "port": 9735
-        },
-        {
             "nodeid": "02b289f93133eea9b2268ea62f2f0acdc8465aa0fdaa59f4120a961440dfec6d2f",
             "alias": "Nana&PapasNode",
             "color": "3399ff",
@@ -3327,16 +4497,6 @@
             "port": 9735
         },
         {
-            "nodeid": "037f3d5b948f9c048aa53f2818255d4e137aabf03255e6adf3bc347b82bd3d20f8",
-            "alias": "uBITquity",
-            "color": "f6fc31",
-            "last_timestamp": 1561788813,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "160.3.210.84",
-            "port": 9735
-        },
-        {
             "nodeid": "0235e252a7ba8fd602a22eec1168f7647b611dd7b4ee5c329aa333be0a8a0d792e",
             "alias": "coincenter.lnd.lightning.land",
             "color": "3399ff",
@@ -3344,16 +4504,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "109.202.192.11",
-            "port": 9735
-        },
-        {
-            "nodeid": "02c0b38022846c6b6f45b30031859ac7c5fb0c67ec8ed5cce8409c4b438c267ffe",
-            "alias": "lndhub.ru",
-            "color": "3399ff",
-            "last_timestamp": 1561782111,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "92.53.89.123",
             "port": 9735
         },
         {
@@ -3374,16 +4524,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "107.184.40.224",
-            "port": 9735
-        },
-        {
-            "nodeid": "026be75781a35ca22732200f5bc82a1e8a21248154e950a1548bab0cdd44d2ec20",
-            "alias": "Bitshop Bologna",
-            "color": "ffaa00",
-            "last_timestamp": 1561767057,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "93.147.136.98",
             "port": 9735
         },
         {
@@ -3447,16 +4587,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03a12be8d2903cfc9be29bf41e4779aa78a58fcc9a091cc291cbf274fc3130e4e8",
-            "alias": "lnGAL.com [03]",
-            "color": "40ffff",
-            "last_timestamp": 1561746680,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "84.77.52.0",
-            "port": 9735
-        },
-        {
             "nodeid": "03deedbfee762a68a44d2587560507e513ac185908728aaf053ad4a3c096d8acb0",
             "alias": "03deedbfee762a68a44d",
             "color": "3399ff",
@@ -3467,13 +4597,13 @@
             "port": 9735
         },
         {
-            "nodeid": "03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f",
-            "alias": "ACINQ",
-            "color": "49daaa",
-            "last_timestamp": 1561667619,
+            "nodeid": "0265fae305778b7cb157365f70cf3a2047d2cad5c1ccc5f550c6d8a033084a8ea5",
+            "alias": "ln.taborsky.cz",
+            "color": "3399ff",
+            "last_timestamp": 1561728245,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "34.239.230.56",
+            "address": "37.205.8.78",
             "port": 9735
         },
         {
@@ -3497,6 +4627,16 @@
             "port": 9735
         },
         {
+            "nodeid": "020502ca3deb04e0b3bc6ec1803a39ae5c3ece2a279066919c3c3bda6df4c5e738",
+            "alias": "Utrecht",
+            "color": "ff0000",
+            "last_timestamp": 1561541664,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "84.85.190.218",
+            "port": 9735
+        },
+        {
             "nodeid": "02c06fd756ce1f846acb18f94706d4117fb2e8e0790f3d81176dec3ace2ef91e53",
             "alias": "\ud83d\udd25 east3r \ud83d\udd25",
             "color": "2c3e50",
@@ -3514,6 +4654,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "148.251.40.218",
+            "port": 9735
+        },
+        {
+            "nodeid": "020c92d71dfe47d49d322eed910064787973dff96c05a39d75a75d7e8f33aead4c",
+            "alias": "LN-Fukaya Japan 020c92d71dfe47d4",
+            "color": "f0fff0",
+            "last_timestamp": 1561489137,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "106.163.158.127",
             "port": 9735
         },
         {
@@ -3547,16 +4697,6 @@
             "port": 9735
         },
         {
-            "nodeid": "024794d1446e510c75f84bbd75cc151124522aed03ad75a20f1708f77e5f3e674a",
-            "alias": "LogansRun",
-            "color": "008000",
-            "last_timestamp": 1561330573,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "185.183.104.83",
-            "port": 9008
-        },
-        {
             "nodeid": "03012a23c769decc4fb40a92d5300692b576cb8dc887072580638b97911742554c",
             "alias": "There be dragons here",
             "color": "000000",
@@ -3577,16 +4717,6 @@
             "port": 10009
         },
         {
-            "nodeid": "02da0713ab1b12eeb01f212944a435077f39f1b767ee5c24b01cdb4b0b9377b66b",
-            "alias": "lightcore.co",
-            "color": "ffa500",
-            "last_timestamp": 1561184028,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "204.12.207.91",
-            "port": 9735
-        },
-        {
             "nodeid": "026f9c01e266863c0539ef98bfe4ecd585e6a7ee13ec42b4e09736a5a6f7152ee7",
             "alias": "AGLD-Bullion-Desk",
             "color": "026f9c",
@@ -3594,6 +4724,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "13.72.106.206",
+            "port": 9735
+        },
+        {
+            "nodeid": "035ef1c0ef3c3273820abeb6136a3c79736d7af4e1cb8783410eb022b5a46390a3",
+            "alias": "\u201cquitebeyond\u201d",
+            "color": "3399ff",
+            "last_timestamp": 1561110480,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.181.236",
             "port": 9735
         },
         {
@@ -3624,6 +4764,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "104.223.94.251",
+            "port": 9735
+        },
+        {
+            "nodeid": "03b1ba0b913b793b4de77c9fbb5ed3bfc3897e247113b3c2d7d34fed0895ad4e1e",
+            "alias": "SLIMYMONKEY",
+            "color": "03b1ba",
+            "last_timestamp": 1560848548,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "170.75.162.83",
             "port": 9735
         },
         {
@@ -3677,16 +4827,6 @@
             "port": 9735
         },
         {
-            "nodeid": "023e6cb005e98137ec507aa64eb7f7049ccf246b4fca4d169f7c8ac8d3f856193c",
-            "alias": "LightningSupport",
-            "color": "97c30a",
-            "last_timestamp": 1560453116,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "84.197.198.167",
-            "port": 9735
-        },
-        {
             "nodeid": "0388a2cd707ac944a2b0c8adbf67c4a313d24b6dc2ab2baba842f9a9eecf925131",
             "alias": "Estonia",
             "color": "3dc7f2",
@@ -3707,16 +4847,6 @@
             "port": 9739
         },
         {
-            "nodeid": "033613d280de1eba995c7545e93caf76cfba41bef88c2d6732a67ce06c168b3acb",
-            "alias": "yybazaar.com",
-            "color": "033613",
-            "last_timestamp": 1560174848,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "124.18.45.201",
-            "port": 9735
-        },
-        {
             "nodeid": "03c6d5394ef296da7fb7ca1b9d975287cb7cd6b7e69cf8ec41ba74ea689fd1560e",
             "alias": "lnpay.in.ua [LND-orion]",
             "color": "68f442",
@@ -3724,6 +4854,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "77.120.38.20",
+            "port": 9735
+        },
+        {
+            "nodeid": "0202ca96e5240a938e53de235a7ac4855a3c028d8fd08b98a3e59fd845a0238201",
+            "alias": "BTCLightning396",
+            "color": "68f442",
+            "last_timestamp": 1560058582,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "97.89.21.22",
             "port": 9735
         },
         {
@@ -3747,6 +4887,16 @@
             "port": 9735
         },
         {
+            "nodeid": "02b91314c53d6421dd05138298cb2b357e4ed789660dc2e136ed4abc6c0b1c28bd",
+            "alias": "FuckVitalik",
+            "color": "3399ff",
+            "last_timestamp": 1559738356,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "98.193.25.179",
+            "port": 9735
+        },
+        {
             "nodeid": "0234c548106512a0b93b2555d2638bc2fed3e6b091f75298383356258996230d92",
             "alias": "PuzzleITC",
             "color": "3974b2",
@@ -3764,16 +4914,6 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "104.62.47.181",
-            "port": 9735
-        },
-        {
-            "nodeid": "0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f",
-            "alias": "BCash_Is_Trash",
-            "color": "ffaa00",
-            "last_timestamp": 1559171393,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "73.68.158.219",
             "port": 9735
         },
         {
@@ -3797,6 +4937,16 @@
             "port": 9735
         },
         {
+            "nodeid": "03649c72a4816f0cd546f84aafbd657e92a30ab474de7ab795e8b5650a427611f7",
+            "alias": "Bitcoin emBassy TLV",
+            "color": "03649c",
+            "last_timestamp": 1558532308,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "142.93.124.241",
+            "port": 9735
+        },
+        {
             "nodeid": "032ebdae3314f072acd70e66e18572e6ba27f96918009369585e7cdcf36af3cf9e",
             "alias": "Joltfun.com Game Shop (CLN2)",
             "color": "032ebd",
@@ -3807,6 +4957,26 @@
             "port": 9889
         },
         {
+            "nodeid": "03301e633b25d769377bf75ce6b6ed2ec570270bc06c8c02bf33c5bd2aa47da098",
+            "alias": "mocacinno",
+            "color": "03301e",
+            "last_timestamp": 1557837394,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "193.70.78.148",
+            "port": 9735
+        },
+        {
+            "nodeid": "0278630413d5af0d3981e1788d9ff27e47bc5640ac2ecb6d123309a0992a67bb08",
+            "alias": "cranium-lnd",
+            "color": "3399ff",
+            "last_timestamp": 1557133890,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "69.61.24.235",
+            "port": 9735
+        },
+        {
             "nodeid": "026721ad53b0d40986686c173b88f47bea94a97e64ddf34dd45926f17a821505fd",
             "alias": "MAPLE",
             "color": "026721",
@@ -3814,6 +4984,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "63.228.117.100",
+            "port": 9735
+        },
+        {
+            "nodeid": "028030ac23016a493a4db588864d4a9590effd4f72ccdaf5f31b2f0d27ddd04d25",
+            "alias": "WORLD-STAR-PAYMENTS",
+            "color": "f4eb42",
+            "last_timestamp": 1555032410,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "47.6.7.87",
             "port": 9735
         },
         {
@@ -3827,6 +5007,16 @@
             "port": 9735
         },
         {
+            "nodeid": "03de7f5fa97bc87f048e977533fdc0484bf4e0a5b5ca6e55f7baf32b533cbac3f7",
+            "alias": "FasterThanLight",
+            "color": "3333ff",
+            "last_timestamp": 1554238006,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "157.230.78.74",
+            "port": 9735
+        },
+        {
             "nodeid": "0223390bea8aa598442d056ace37c07e7364da1341b3681c371f6619b2879c0af2",
             "alias": "ln.whittington.capital",
             "color": "0185bc",
@@ -3834,6 +5024,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "50.192.119.81",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d925132e2c79d65cd13bba919a9223f43a44305591c60a01519826ac2ac6e69e",
+            "alias": "Dotbit.me",
+            "color": "02d925",
+            "last_timestamp": 1553798505,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "144.76.12.6",
             "port": 9735
         },
         {
@@ -3867,6 +5067,36 @@
             "port": 9735
         },
         {
+            "nodeid": "032060a40a94dc7b848d02314e4ccebe20f451dc87f28c1ed685caa58bfcc3989a",
+            "alias": "knifefight",
+            "color": "3399ff",
+            "last_timestamp": 1551957998,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "67.188.9.100",
+            "port": 9735
+        },
+        {
+            "nodeid": "025614f51120a7d6d8ea78484880312a664e3f428150234ff0f6892151f5eff859",
+            "alias": "SatoshiLite",
+            "color": "68f442",
+            "last_timestamp": 1551141965,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "73.162.11.153",
+            "port": 9735
+        },
+        {
+            "nodeid": "0214382bdce7750dfcb8126df8e2b12de38536902dc36abcebdaeefdeca1df8284",
+            "alias": "Billfodl",
+            "color": "021438",
+            "last_timestamp": 1549995721,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "52.168.166.221",
+            "port": 9735
+        },
+        {
             "nodeid": "032e04b67641c00444af1d83145c0b63bac8316a6afb8fec0f87938295ed8bb129",
             "alias": "TheLND.com",
             "color": "223f9a",
@@ -3874,6 +5104,26 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "173.249.1.108",
+            "port": 9735
+        },
+        {
+            "nodeid": "03780bc0d405f8e9695a4474a03ed3314d761cfa3baf3ea8351c025d66399f969d",
+            "alias": "DontTrustVERify",
+            "color": "800080",
+            "last_timestamp": 1547234738,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "67.244.76.227",
+            "port": 9735
+        },
+        {
+            "nodeid": "03f18da23535adee245903c81750745197e3079d3b88b3898981c90a5f2411008c",
+            "alias": "ln.zone receiveing pay solution",
+            "color": "03f18d",
+            "last_timestamp": 1545138519,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "80.211.252.216",
             "port": 9735
         },
         {
@@ -3887,6 +5137,26 @@
             "port": 9735
         },
         {
+            "nodeid": "028c1f8d907879ee8691ddab3547e93c5ec2098cc0f38cc39c4ee989cb3a10ae71",
+            "alias": "lnroute.com (closed)",
+            "color": "3399ff",
+            "last_timestamp": 1543699645,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.104.248.207",
+            "port": 9735
+        },
+        {
+            "nodeid": "03fd397019d66ddf1e54dd6b71a7ab0767faf9628a904333e8450f4fc0875d7a7e",
+            "alias": "raspiBlitz",
+            "color": "68f442",
+            "last_timestamp": 1540977670,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "88.153.56.43",
+            "port": 9735
+        },
+        {
             "nodeid": "02272bd12e59324d0f2b231fb88f134b57eb26dd100d2cc007df50f18aa12455a2",
             "alias": "SMOZER",
             "color": "ffff00",
@@ -3897,6 +5167,16 @@
             "port": 9735
         },
         {
+            "nodeid": "0380c3caf3dda497f2156cc01db5614260ba29852f3e3499c517c954233dad9674",
+            "alias": "0380c3caf3dda497f215",
+            "color": "3399ff",
+            "last_timestamp": 1536507497,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "54.39.94.183",
+            "port": 9735
+        },
+        {
             "nodeid": "0274ce2cee1266882c266940abd10d1a8c5285c68fd984e468e325884b9b5e526c",
             "alias": "BitMEX",
             "color": "ff0000",
@@ -3904,6 +5184,56 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "35.196.41.61",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d92405c242fa6f7fa112cd701612a8bcf160e66859c7dea976dad40518f0bd13",
+            "alias": "London-LN-Hub",
+            "color": "1500ff",
+            "last_timestamp": 1536337772,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "86.163.35.79",
+            "port": 9735
+        },
+        {
+            "nodeid": "025a65cb44fdfc83254dca89e73b8bf4edbca8d93e10826361765a4941fdddcda4",
+            "alias": "Senpai",
+            "color": "ff0000",
+            "last_timestamp": 1536246777,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "194.99.104.19",
+            "port": 9735
+        },
+        {
+            "nodeid": "02ab16f790c7727eac2048771cbe95cbcc1aa93931558c0fd87c06d5c389475a7b",
+            "alias": "lightning-pay.eu",
+            "color": "ffbf00",
+            "last_timestamp": 1536195861,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "159.89.97.171",
+            "port": 9735
+        },
+        {
+            "nodeid": "02e9fa6b495d07ce19796b06b5c0f51a401dbb48935c3aafe54067c89299add0ed",
+            "alias": "#RECKSPLORER",
+            "color": "891aff",
+            "last_timestamp": 1536005188,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "78.63.23.25",
+            "port": 9735
+        },
+        {
+            "nodeid": "02d02433667ab632a30d547e392ade513bed6988d061694fb8ba0fa4d714dbd7b7",
+            "alias": "SPAIN [LND]",
+            "color": "68f442",
+            "last_timestamp": 1535937553,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "83.36.197.232",
             "port": 9735
         },
         {
@@ -3944,6 +5274,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "35.230.20.234",
+            "port": 9735
+        },
+        {
+            "nodeid": "022f0cabe6fa6d4fd909a454792eb9262f83a88754199ed2bde3cb64d87ffbec61",
+            "alias": "Lightning Playground",
+            "color": "45ddac",
+            "last_timestamp": 1535322083,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "94.23.33.124",
             "port": 9735
         },
         {
