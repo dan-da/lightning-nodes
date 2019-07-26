@@ -81,16 +81,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0262c92b6b545ab9fe11f8f9efc43816c0ca8dbf3f4aff163b28a979a9596bad37",
-            "alias": "0262c92b6b545ab9fe11",
-            "color": "3399ff",
-            "last_timestamp": 1563986822,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "7gp3x2sqrjye33p32uqvyaru7y2flbcyubqk6dvxy45umvrmvlkiuyid.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "028b6dc171f603467690f799b6a0d52b1f5a5b8977b1453440016ea7917f53925f",
             "alias": "host4crypto.com",
             "color": "028b6d",
@@ -461,16 +451,6 @@
             "port": 9735
         },
         {
-            "nodeid": "020aaa5790fd3aea7d00ca3fff13da2d7b69cbfb2ba0aed904b761e23b0b15a0d7",
-            "alias": "Foglesq",
-            "color": "f4e542",
-            "last_timestamp": 1563893814,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "zeapbtxn7xzraelojo3xsdksxeznvisvqez4acxx3l2vynjvnxmkdyyd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "038b36a43c38f75cd15bb25394f1cd162f717df005585229182e62620db9d3f3ea",
             "alias": "strident-lightning",
             "color": "3399ff",
@@ -478,6 +458,16 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "g4tr4wlahlau6k2wt62ivjigigr7kqgxbqtzhfosoie6rcepss2qv2ad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "020aaa5790fd3aea7d00ca3fff13da2d7b69cbfb2ba0aed904b761e23b0b15a0d7",
+            "alias": "Foglesq",
+            "color": "f4e542",
+            "last_timestamp": 1563893814,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "zeapbtxn7xzraelojo3xsdksxeznvisvqez4acxx3l2vynjvnxmkdyyd.onion",
             "port": 9735
         },
         {
@@ -791,16 +781,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
-            "alias": "HODLcat.com",
-            "color": "3399ff",
-            "last_timestamp": 1563732828,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "eu4crm2co2o273naqvtiacjpibdzq6v5xsz6zfm2gtmh2g7xoggtyayd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "03c72d7928d87a860d28ebb7a0e6ba2097c09a2dfc1d0e688d7a7a370442692285",
             "alias": "SPEY HARD [LND]",
             "color": "68f442",
@@ -808,6 +788,16 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "bcufp25zxud6d2zxvour42bltkl67om3kit3wrjezcfcgolrvcyh4eqd.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "02e5067afb7be9470214acc10d7b3ebc39e84cd7de57d86cc3598514fa6d821229",
+            "alias": "HODLcat.com",
+            "color": "3399ff",
+            "last_timestamp": 1563732828,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "eu4crm2co2o273naqvtiacjpibdzq6v5xsz6zfm2gtmh2g7xoggtyayd.onion",
             "port": 9735
         },
         {
@@ -1001,16 +991,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03a8355790b89f4d96963019eb9413b9a2c884691837ac976bacfe25a5212892d7",
-            "alias": "GoWithTheFlow",
-            "color": "5ae0fd",
-            "last_timestamp": 1563682198,
-            "globalfeatures": "",
-            "type": "torv3",
-            "address": "eeyyz3xtzhb4mvnwztykw3gqjrbvtkturddbxfkbs6lstpcn5imgxtyd.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "03cedf4dcc61635cc49c4ce955076c2a8cf17337720418f313104a12d6fdc5c014",
             "alias": "cryptonoia",
             "color": "3399ff",
@@ -1018,6 +998,16 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "lvpdgxs5oskz4tolxbugbxgopcb6aqtzytzvpj4c435tyqkhasxa6aid.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "03a8355790b89f4d96963019eb9413b9a2c884691837ac976bacfe25a5212892d7",
+            "alias": "GoWithTheFlow",
+            "color": "5ae0fd",
+            "last_timestamp": 1563682198,
+            "globalfeatures": "",
+            "type": "torv3",
+            "address": "eeyyz3xtzhb4mvnwztykw3gqjrbvtkturddbxfkbs6lstpcn5imgxtyd.onion",
             "port": 9735
         },
         {
