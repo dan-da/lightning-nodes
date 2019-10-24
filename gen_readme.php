@@ -37,6 +37,7 @@ $data = json_decode($buf, true);
 $rows = [];
 $totals = [
     'nodes' => 0,
+    'nodes_with_address' => 0,
     'addresses' => 0,
     'torv3' => 0,
     'torv2' => 0,
@@ -47,15 +48,18 @@ $totals = [
 $bytype = [ 'torv3' => [], 'torv2' => [], 'ipv6' => [], 'ipv4' => [] ];
  
 foreach($data['nodes'] as $node ) {
+    $totals['nodes'] ++;
     if( !@$node['addresses'] ) {
         continue;
     }
-    $totals['nodes'] ++;
+
+    $found_addr = false;
 
     foreach($node['addresses'] as $addr) {
        if(!@$addr['type'] ) {  // some are empty.  bug in lightningd?
            continue;
        }
+       $found_addr = true;
        $row = $node;
        unset($row['addresses']);
        $rows[] = array_merge($row, $addr);
@@ -63,6 +67,10 @@ foreach($data['nodes'] as $node ) {
        $totals['addresses'] ++;
        $totals[ $addr['type'] ] ++;
     }
+    if( $found_addr ) {
+        $totals['nodes_with_address'] ++;
+    }
+
 }
 usort( $rows, 'tscmp' );
 function tscmp($a, $b) {
@@ -78,15 +86,15 @@ file_put_contents(__DIR__ . '/nodes-by-addr-type.json', json_encode($bytype, JSO
 function print_node_table($rows, $addrtype) {
 
     $buf = <<< END
-|alias|last seen|address|id|
-|-----|---------|-------|--|
+|alias|last seen|address|port|id|
+|-----|---------|-------|----|--|
 
 END;
 
     foreach($rows as $row) {
 
         if($row['type'] == $addrtype) {
-            $buf .= sprintf('|%s|%s|%s|%s|' . "\n", e($row['alias']), nbr(gmdate('Y.m.d H:i', $row['last_timestamp'])), e($row['address']), e($row['nodeid']));
+            $buf .= sprintf('|%s|%s|%s|%s|%s|' . "\n", e($row['alias']), nbr(gmdate('Y.m.d H:i', $row['last_timestamp'])), e($row['address']), e($row['port']), e($row['nodeid']));
         }
     }
     echo $buf;
