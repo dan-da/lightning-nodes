@@ -4,24 +4,46 @@ A historical list of lightning nodes, including .onion, updated daily.
 
 Data obtained from [c-lightning](https://github.com/ElementsProject/lightning) listnodes API.  [json](https://raw.githubusercontent.com/dan-da/lightning-nodes/master/nodes-by-addr-type.json) also available.
 
-Last updated: 2019-10-31 00:00:06 UTC
+Last updated: 2019-11-02 00:00:03 UTC
 
 ## Stats
 
 |Desc|count|
 |----|----|
 |Nodes|3358|
-|Nodes_with_address|1683|
-|Addresses|1896|
-|Torv3|595|
+|Nodes_with_address|1691|
+|Addresses|1905|
+|Torv3|601|
 |Torv2|81|
 |Ipv6|44|
-|Ipv4|1176|
+|Ipv4|1179|
 
 ## Lightning Tor v3 onion:
 
 |alias|last seen|address|port|id|
 |-----|---------|-------|----|--|
+|stackingsats [TFTC] [NODL] [TOR]|2019.11.01&nbsp;23:28|4k65ti7tyv6ejntpvtxwtzc2ala25fx4bxms2dekax3lb5n2c3rexhid.onion|9735|02d419c9af624d0e7a7c90a60b9ffa35f4934973a9d7d3b4175cc3cc28b7ffcde1|
+|Patsak|2019.11.01&nbsp;21:27|4yrqspvlpubz5v6y5ibaihmc6rdsb6hhdsi3luledklyvt7fdv2bodad.onion|9735|031005b90058edcdb6a85e8071a5e9dd5bcd4eb0239355485b495e00e652a6b03a|
+|Ninefingers|2019.11.01&nbsp;19:11|tmrdimfrxtq3mnwzk65k7jbstqzxiqf7qcnxupthexkt3bzqm3k2ezyd.onion|9735|034dc83faf4041f8217969784b3d42841b9306341d2c033b0ec4ee3a2436385119|
+|CodeEngine|2019.11.01&nbsp;18:53|pcfh5i56kjdmivy2dxil2nlxg5eftxg223n3yx2amqqwz6vzfxdbbkyd.onion|9735|02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b|
+|wavylabs|2019.11.01&nbsp;17:31|vwdwftzfm6dyra4dhozss4ybkrzereui4xve7ttqqhwfzxvkckmlgrqd.onion|9735|033181a72d4d61c6f3138240d98994e9553726bc65c892e9fe7a7b728a54005a36|
+|Boltz|2019.11.01&nbsp;17:21|d7kak4gpnbamm3b4ufq54aatgm3alhx3jwmu6kyy2bgjaauinkipz3id.onion|9735|026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2|
+|Simbolist|2019.11.01&nbsp;16:26|xz3w5nywcfgdsa4fooy4n5xceztckg4il22fdc2ygdg64vqcdlnq5zad.onion|9735|03afa802b7aa08f97d5b34522da620eab528f7e952330618a68270da9cc313a45c|
+|foodforcoins.org|2019.11.01&nbsp;14:04|xhjfuaa7rkxow5gix73ucpmqy33zaelsxzwm56kirdkzfmm4s6ccr7id.onion|9735|02efe4469330e3c5addb11418182a3b9ae15803604f72121ad0cbe1884bba6db3e|
+|Casa Store|2019.11.01&nbsp;14:03|ewyd2oi6zzkqtedpqpmeidjpt7vc637mun54hgykayh42py5stpybgad.onion|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
+|SIGHASH_NOINPUT[C-lightning]|2019.11.01&nbsp;11:35|3zoxufkkfzoc6ajyw4qlzkpukjvz4bctygpkx47n54o6gpdycbkadmad.onion|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
+|@ruigomeseu|2019.11.01&nbsp;08:15|g4lixcwpygxdiv7ur6oh5cr35vsivp76n7icn7p243iyz6u4bluc4tyd.onion|9735|02480676e5bda7b6c902e316c5c57b14cb7a855c287dc927f8c42abba503d64bff|
+|NODL 00013|2019.11.01&nbsp;07:56|rdclqksjzuh2zjfzwqnpsozfo6xmcx6fuvvt74m4l6bwqth3he53d4id.onion|9735|02c503c29f396152c1fbf3fbc5aba7c7e268f676e6e3ccf1520651d3f9a2561c09|
+|Sparrow|2019.11.01&nbsp;04:59|j7b77bniotaxfa4vxlkhqgs2bpdcwuzc6svcbjziai4kwrwj5xwtkxad.onion|9735|03248115007084fa39f54ad2e649735c8bc94722fd0039a8569a194a62e3ed5a71|
+|drader|2019.11.01&nbsp;00:14|z2mtbdw4qm7luemw25h3ohivhyjaimjtrapb3mgprpz4osvhh6dpkayd.onion|9735|02c1321de5a127023115b90f33ae1244349269f5d18d3ea4014be697e700c07ccc|
+|Speeed|2019.10.31&nbsp;20:02|cim6tlgoxwm7fkraixkukoaqcdqzp5ia2fegogfxqzaqfbzhckuzf7qd.onion|9735|03b6a0e7cb7b2829384fc3ac95eeb3f19c71334d9ab32381572bf03b9313c66db7|
+|AGLD-Bullion-Desk|2019.10.31&nbsp;16:53|kywrcvjuoge2edwfunnfl5ddkh7gx3frj2pgjyb3qycx3nvq3e5mtsid.onion|9735|026f9c01e266863c0539ef98bfe4ecd585e6a7ee13ec42b4e09736a5a6f7152ee7|
+|badgerbolt|2019.10.31&nbsp;16:25|wpenz3vra7ty53l3gkklqchejyejthrquwhj5i67jcbawa5xo7bwmcqd.onion|9735|022a096fc8b8fd2b87ba89ae8688651528d24a631a7a05e8c187992abc6f720529|
+|Mina's LN|2019.10.31&nbsp;14:46|uhip5nfwvguctplnohwfn4hi2i5y2wnqekbpshozrwtzlo4an2ernkyd.onion|9735|039f66421275c78cf09993ab26069f00323874433271a6939b25aa49e54ad0875c|
+|dreamix-lnd2|2019.10.31&nbsp;13:40|jjqi3vrd7hpzv2oitr3i7rknbubxmeagpn7ihmydmoc33u6lphrrwjid.onion|9735|02651fa5f3f6676c6f13d88b3ffd3101421cd3bd1773d4af92242c46f0f902ef39|
+|~V~0x1xAmsterdamxNL|2019.10.31&nbsp;13:08|donko23z4e53appcdw57xuhpspeu5cguvfointjlxk3ko7l7jtby2fad.onion|9735|022c10817fd76e01c63198967a77e3a2ac1d051267d80983790889481ff7ce15e1|
+|ACINQ|2019.10.31&nbsp;12:00|of7husrflx7sforh3fw6yqlpwstee3wg5imvvmkp4bz6rbjxtg5nljad.onion|9735|03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f|
+|santacruzwaves|2019.10.31&nbsp;02:10|w24athgedvlhbvhqcbh5xnzmmt4w4t4thnjujgkhbdbloqh6umhx7byd.onion|9735|026ef5665cdb4f226b34d3b61866695b769099fb5675bd0cd6c1050a1b851fd45b|
 |TravelByBit.com|2019.10.28&nbsp;02:29|wbeckwd3qkqat2ffkn4no5xkf3pzmnicj4s32k5jjpflvv36ngn7c5id.onion|9735|029707c0881747e9a359eddc62a50c71e7640f89aa8aa3992b8c809dc32ae675f9|
 |Bitcoin is Hard Money|2019.10.28&nbsp;02:24|hicjlwptg7qly2wnoqpmbg7k6mpy3wbq2zluxh6yf3npzrvns675rlid.onion|9735|024a4aad26583790132c0b5a45885e9441f8a5ebcc3aa73ecf365c037154d9980c|
 |morousim|2019.10.28&nbsp;01:15|hcsmksfh5553cneerddipqe5pducmlavc55cn4kyv7jic3j6lfwik5qd.onion|9735|0306161db625273a15d8d2bf823c4fc1afbd6b960672e13f68f94a94cf687b2af2|
@@ -40,7 +62,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |mainnet.demo.btcpayserver.org|2019.10.26&nbsp;23:26|dppqg535s5shy5sjnsmzzrk3cdyshwau5vierujpybybboxxxglfx7id.onion|9735|03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c|
 |LightningBTC|2019.10.26&nbsp;23:13|3tmrbil5675fmvm5wbp4a3dnz7dshstdhqw2ubidhgqc4yfmtbkkauqd.onion|9735|03a8d85cfaac5fc6e5e338940e7f35825dfbf96d4ebdd345837050e5224db1b73e|
 |boxxy.network|2019.10.26&nbsp;21:22|qe5lvu5g72s7edly4xu4gon3qbx7xca2fnfutifvfptr5lv2xrt4doid.onion|9735|0269b91661812bae52280a68eec2b89d38bf26b33966441ad70aa365e120a125ff|
-|Casa Store|2019.10.26&nbsp;20:58|ewyd2oi6zzkqtedpqpmeidjpt7vc637mun54hgykayh42py5stpybgad.onion|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
 |octonion|2019.10.26&nbsp;20:31|wp3fffisr4m4tz3fe22pkmfp5ympozwikpcatetbmmk3p7s6rzautcqd.onion|9735|02110544e20886a1f43c61490300fef4acaf18126633da94558a1f36735db45539|
 |,,,&lt;o.o&gt;,,,~|2019.10.26&nbsp;18:12|czrelvlw3jv3ke3nbxjw4lrk7uhdf2p5f7ad4kqcpjqbs6vqzqkckrad.onion|9735|02f0539ba450968171aa051aad09a2de757a7ff4cd6cc9dfacd47d603b54a6a8e4|
 |axiomofcausality|2019.10.26&nbsp;13:31|gs5nzdtk4dkxzsfjwbotzuawqnut5xmqondchvfudlrliy75azbchrad.onion|9735|0241c4cdf9b4f38b7e87fb2d5c243aee340b43e478970b5957066d14dde82214a4|
@@ -84,8 +105,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |03ba20d536c8c99f6ca6|2019.10.25&nbsp;13:00|6z5nbivc3zjuvktsng3rpfotebe7fqdan7efkgus7zriowv6ezatxrqd.onion|9735|03ba20d536c8c99f6ca68e87b29f0198bca5ee1e144bf7afa74784a18bc46f9993|
 |ZoZo|2019.10.25&nbsp;12:19|6cyzdjpllbx2wxwnl4urgqetaaxkijtjssplppk6ut77tnprql4ppcid.onion|9735|03c16b9bdbed5e7688d82d2b7c7a778e6b0d1cd63f481c44ee03d0f346b0405c80|
 |Breshnak bros|2019.10.25&nbsp;12:06|qteh7zam672ayaxjxn3mfar4qyxug3l3twlg7aodpxraq4irqazro2yd.onion|9735|02d7259b3aaaff79fb8e0d4836b6701bcc2bc1891d0656162c546807132093ca6a|
-|siftsoft.com|2019.10.25&nbsp;11:50|wrf76pj4s3lqdvxkg5irxocxgwzi6bjfr4dlewes6erzm2423wu6qhyd.onion|9735|02875ac2c27835990ef62e5755c34264b2c39f51a41525adc5e52a7f94b3a19f8b|
 |blackgold|2019.10.25&nbsp;11:50|blackwort4i27cvp4l4l45nq7iebyjyib5lfwqzdpgiznqtlzu3c7jid.onion|9735|02f40890af885da4673f0ee9725ee74bb2c66d6491cc4334056a2701057993e61d|
+|siftsoft.com|2019.10.25&nbsp;11:50|wrf76pj4s3lqdvxkg5irxocxgwzi6bjfr4dlewes6erzm2423wu6qhyd.onion|9735|02875ac2c27835990ef62e5755c34264b2c39f51a41525adc5e52a7f94b3a19f8b|
 |pirated 🏴&zwj;☠️nodl ConTa|2019.10.25&nbsp;10:55|nfy7yenhptl4cw623osbruuy4yxnqfivhosrw2ndjd2hnanqjiac5yad.onion|9735|02963d1d5feacc58531c4e80927728321626eaf2c68e50e5687b3ea77866c160ee|
 |blocktrainer.de|2019.10.25&nbsp;10:24|blcktrxdlbuolh4shmboamtch7rhrt64pzbsgor2trj5ggziabcarrid.onion|9735|0229bf5bfd4f29c6cda971a4979605be9a9553e456b5ef3feb795e8dba232e7005|
 |02f5329d499c9a4a02db|2019.10.25&nbsp;10:11|thk4lg3zhrepycp2qmutznjwq3bwj3xw2xsbzmiagoxfjq7rjoh5nead.onion|9735|02f5329d499c9a4a02dbad0dc81e1b6a8d77213381d3004962558ec8a284946c95|
@@ -97,7 +118,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |21 nodl [LND] LNFAN|2019.10.25&nbsp;05:38|io3cynjl2xoi7afqrh43nevshecg33pkl35b65wbuf2r344rxdhsalqd.onion|9735|02a81c886f7cc867205c4fd4e6e9d4049a60db183599ab006d45e0c7170547a7ec|
 |Bitcoin Rising|2019.10.24&nbsp;22:30|6i7zjddogaihukzjrnxpktueii4l7sy65fjcsukyldeebkx5vexigwid.onion|9735|03cfb64a81ad9b94e6f3fa2e34218c9242606890bbfb65a0bb57d603158e6c590c|
 |Sagittarius A|2019.10.24&nbsp;21:21|cvxr5tvyslhf3wf6rovoe3occhbiiykrimwptcflbrm67bh5zo4jtwyd.onion|9735|03a503d8e30f2ff407096d235b5db63b4fcf3f89a653acb6f43d3fc492a7674019|
-|Ninefingers|2019.10.24&nbsp;20:18|tmrdimfrxtq3mnwzk65k7jbstqzxiqf7qcnxupthexkt3bzqm3k2ezyd.onion|9735|034dc83faf4041f8217969784b3d42841b9306341d2c033b0ec4ee3a2436385119|
 |davidleeroth|2019.10.24&nbsp;17:41|jgg4bx3pxnicnu2anpzgd3tsngwtajwuzgudn72wi7zbrufqd54adwid.onion|9735|0226b3096fed6affd03e745d8340bfd54029f602a902372d4545fb76598735211d|
 |Roverevolution|2019.10.24&nbsp;17:31|migobbxw5xjmbfqfptftqdtrjecyc34g7stewaopd2g5t3cw6aigumid.onion|9735|0304a7b6d0f9bce7b0db22307e1e46d5cdc50fee6ed6409b23aea2137eae9796e1|
 |standwithhongkong|2019.10.24&nbsp;13:51|nrswwsap7x7n5m3uvjzttdr4cvu37vahikbyxupykeqzxwpy2gna26yd.onion|9735|0382019f91e0d8a5e497849052b5bedad4329bc88ca24b5dbf499c0bea1af5b6c5|
@@ -105,7 +125,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |It's showtime, Synergy!|2019.10.24&nbsp;13:23|ueo7nndq5jnsc3gg3fpnrj3v6ceedvrej5qr5lt6ppvrtd7xxk64qiid.onion|9735|02e6b17c5a7a2461df38d0a571d92660f38ed5bbc847166ee655a1d0f83c1aa5ac|
 |coredump|2019.10.24&nbsp;12:00|yp5houocm2nmnvljy5euzy5sv5ouwx4rnaaxqvbtsuy27iss6zhjcpad.onion|9735|022654dd53abe24239d5841f65d4afd21db16e6576fde7ff29bdd6e2b7d642a265|
 |LN-KMIA-01|2019.10.24&nbsp;11:58|hhohglmrf5kqvkedgylcgcdmkguy6r6fq2g5apbhjj7xaaji3u6yg4ad.onion|9735|038754eb66bfecd0984d71d20af600c189987b0f11541af954383c8608a548c86f|
-|drader|2019.10.24&nbsp;11:58|z2mtbdw4qm7luemw25h3ohivhyjaimjtrapb3mgprpz4osvhh6dpkayd.onion|9735|02c1321de5a127023115b90f33ae1244349269f5d18d3ea4014be697e700c07ccc|
 |Cryptotaub|2019.10.24&nbsp;11:32|u2jvmmd6ndjjsg56qqlq24toh4wd4yfns7jqjjzr3nrnm57kacfeqsyd.onion|9735|029bd34009848ba89606ea5d488b966bab4e23da8582265ececbb38c28ecd6d591|
 |bugbytes|2019.10.24&nbsp;11:13|3jk6kqg4nenocde2p67uhlq7tc5sj2uqv3xsvvccckwx7mqinfvydyad.onion|9735|03359fae3ac68e23137d0ae935cc8f4d6ea91443f96fe9fe5dc62ef907b6804c9d|
 |Cypherpunk|2019.10.24&nbsp;10:41|jozkuunwagzpffv3zhdzxtqgedc67hmpf45p4kkgmarxhwlfubfplfyd.onion|9735|03987e4cb01b6286cfed7fa03fa767841afc178717d4250fbf8bde275c19044af1|
@@ -180,18 +199,17 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Jedd|2019.10.22&nbsp;16:45|qpysvc7rxkmw6smsjumpi3nazk5a5ugrwcoyzdj53ksy4lhd7eqag2ad.onion|9735|03f7e29340c307ee37db5734834d34e3f286e2f70c6bb92b0b12e599860cea6691|
 |03ad1b3bbc8322138840|2019.10.22&nbsp;16:45|jlcq7xuvrcyvgy2bfty3l6m5cghdoasjp42thknovq5vuimmyowfykqd.onion|9735|03ad1b3bbc8322138840d490cde5bf8a8d65de3193670235563d1b0453820887d7|
 |03b5f4b432ce0356d16f|2019.10.22&nbsp;16:45|ahthztcgjvvdqgnpjnmknue4xwisqr4zitlx67vxm3wqfffpbtvuniid.onion|9735|03b5f4b432ce0356d16f41ad4b5ec3127329188659914c9810696812687773afe5|
-|SnowMiningLN|2019.10.22&nbsp;16:45|4e724pcvflst5xqz246r5d3l3nt5ws45u2mbaf5vpdzo7uzphcevcead.onion|9735|03d69c8a0e020a10940aa54a5330b4b74600d32732aba38ac6a86611997f038a6a|
 |LNCOFFEE|2019.10.22&nbsp;16:45|23fkik3gfhmjrfczxwxgyhxew77k2zfou65idqebljzyax75z3g7xbqd.onion|9735|03e90fd715dd766a0ed532dc1ba45e5fb913b1dc29d5afd9b700548d98d53b598c|
-|IthurtswhenIP|2019.10.22&nbsp;16:45|u42zuft3rlhjkts4ubstchserkdgyycinb2qh4jykbpt2het3rr2awqd.onion|9735|02c287d1be9c9fa13d4ded0b0432b7e2367b1b20d822ab76546c4bb67cac1bc6e1|
+|SnowMiningLN|2019.10.22&nbsp;16:45|4e724pcvflst5xqz246r5d3l3nt5ws45u2mbaf5vpdzo7uzphcevcead.onion|9735|03d69c8a0e020a10940aa54a5330b4b74600d32732aba38ac6a86611997f038a6a|
 |BTC_&amp;_Beyond|2019.10.22&nbsp;16:45|n6424f22xfk7xotusaomrhb3jyavjjlsx2bbl2hla3kfhnv43e6s24id.onion|9735|032c9bab7bf5c3b17ad231c617315890861227a802b422c62422cf03bf4f089a0c|
+|IthurtswhenIP|2019.10.22&nbsp;16:45|u42zuft3rlhjkts4ubstchserkdgyycinb2qh4jykbpt2het3rr2awqd.onion|9735|02c287d1be9c9fa13d4ded0b0432b7e2367b1b20d822ab76546c4bb67cac1bc6e1|
 |jiggytom-LN|2019.10.22&nbsp;16:45|rg5wy4vkz6yufbjwj6war6xptvxj72n7uj5e3g3rsirhdd5htruekcqd.onion|9735|030d609a79a8a0226b9ec3d76fad79ddcc7abcef9f65a64b46d8bbe2fc6be14705|
-|ln.Bacon|2019.10.22&nbsp;16:45|gqfnaesqlc4isq5bbnzxydcnfbr7euqam4qxjgsjy5s4ra7l5lov7oyd.onion|9735|031b0f156ec8ff59e5d3219f4a2293251a8e0094c1181889cbf04c233178dcbf95|
-|thehybridwrestler|2019.10.22&nbsp;16:45|dsirqkdhjuehhenzzl6qj56krn2si4ff5jhiqzsbv7kopjg7spknaaqd.onion|9735|03dc37a0afe78d34ffb05759f0b5ddd739e556baff01aae7d78638238b3f734ad5|
 |UB_Jimmy|2019.10.22&nbsp;16:45|ihh7k36tb2by72stwcqgvd524jrz42bssaskkpetel5t3jwgn73d4fqd.onion|9735|0259156aceaa943d8831fcc5252e3fbc80022256c56d39d430a27d7b59aa56c6b7|
+|thehybridwrestler|2019.10.22&nbsp;16:45|dsirqkdhjuehhenzzl6qj56krn2si4ff5jhiqzsbv7kopjg7spknaaqd.onion|9735|03dc37a0afe78d34ffb05759f0b5ddd739e556baff01aae7d78638238b3f734ad5|
 |shibirenode|2019.10.22&nbsp;16:45|5u2jlefswp2piq4kwwb446mjr5un5olfjjpaigyvkn6ac5jkoxp3m6ad.onion|9735|025b827ba1f3c64b047aa246c20748e287bb8f7e5ffaff8911e32664c9a41db2aa|
-|Nana&amp;PapasNode|2019.10.22&nbsp;16:45|2exb3bvdfpxwidgabk2bmnrlhu3qoiby7xwm3rjoyhz5gb52v2tn6aad.onion|9735|02b289f93133eea9b2268ea62f2f0acdc8465aa0fdaa59f4120a961440dfec6d2f|
+|ln.Bacon|2019.10.22&nbsp;16:45|gqfnaesqlc4isq5bbnzxydcnfbr7euqam4qxjgsjy5s4ra7l5lov7oyd.onion|9735|031b0f156ec8ff59e5d3219f4a2293251a8e0094c1181889cbf04c233178dcbf95|
 |redwood|2019.10.22&nbsp;16:45|tx2shyaw4tu74zpc3v7th3mdnoukinimqxygpmzwpo5lvl4jbdfr7byd.onion|9735|0394481d4c01df82ae1311154c235db3ed35a14d12fdc3c872f0e45a3ca5d06135|
-|wavylabs|2019.10.22&nbsp;16:45|vwdwftzfm6dyra4dhozss4ybkrzereui4xve7ttqqhwfzxvkckmlgrqd.onion|9735|033181a72d4d61c6f3138240d98994e9553726bc65c892e9fe7a7b728a54005a36|
+|Nana&amp;PapasNode|2019.10.22&nbsp;16:45|2exb3bvdfpxwidgabk2bmnrlhu3qoiby7xwm3rjoyhz5gb52v2tn6aad.onion|9735|02b289f93133eea9b2268ea62f2f0acdc8465aa0fdaa59f4120a961440dfec6d2f|
 |Singularity|2019.10.22&nbsp;16:31|qz4xdzu3phzgj7f35i7j6xf7x4cxgizlc5cyok4q5up2duovg4yfi7yd.onion|9735|033155023f4248cc522d488bccabf265a1365760de7420d03c02ffb6d8931328ce|
 |DTMF.io|2019.10.22&nbsp;16:09|dtmfnet2idoz244geivb5untnvkj2gnbmzcsdx5fa67dljphsrulowyd.onion|9735|03fcd5306e6591551522aa52d37bd740fbaf6a7c93d016f38c1f071e55758971b7|
 |dead.cash|2019.10.22&nbsp;16:04|jzplfi7om3loiymsmw733at323tovoxnijjsqktcv43ka27hdjmitbqd.onion|9735|0217f595c689d9628574d1d5ffaecaecf85e3b4b21d98872eeada228a13b644700|
@@ -203,7 +221,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |NoirNode1 [LND]|2019.10.22&nbsp;10:50|423al5ckvqt4ya2eqtqh6s27f554yh34xdby7c5mvnt3aioquj3qqmad.onion|9735|02526888c1a10b816373af444d3b553ef2cb408a0ea09d52fd713e428859eb9ffd|
 |LibraReserve|2019.10.22&nbsp;10:32|brg6nv3srq2mi7uueeyy7pm2guwgxnp3hv5lbhswlyui6bnr6j22a2ad.onion|9735|02b71e22854281fbd83a7a52932c97fa2e94458813c2e36ea723ac2f8c43a08d35|
 |ln.taborsky.cz|2019.10.22&nbsp;09:45|wg7ei2yjuw3nuewcq4kc3fwuybp3gniaqug2opwmengvl65ynnjv2eid.onion|9735|0265fae305778b7cb157365f70cf3a2047d2cad5c1ccc5f550c6d8a033084a8ea5|
-|foodforcoins.org|2019.10.22&nbsp;09:07|xhjfuaa7rkxow5gix73ucpmqy33zaelsxzwm56kirdkzfmm4s6ccr7id.onion|9735|02efe4469330e3c5addb11418182a3b9ae15803604f72121ad0cbe1884bba6db3e|
 |Noderunner [NODL]|2019.10.22&nbsp;08:46|5lgk5vy26h72tchtznunn5zofsowqne6ax5adhamwbvw4nzbpen2hgyd.onion|9735|03255e78098f6bf266fbd9a72a6c2777e8d006f5cd3767212f34182d285e47faac|
 |skuru_nacka|2019.10.22&nbsp;07:03|wcmal2iv5gpw35cqni2dgl3lpmjxyzmwklagzmeozojuzpb6pcn5coid.onion|9735|03acb859817cd3e355dd8115fea811dcca3d977822a2e311d3e7732eb7a6588d8f|
 |Astrochicken🐔|2019.10.22&nbsp;06:19|fu2hdq3zedmrmeemq4nd5cu3bzfu4vexkiesmsoumstnxn6cfaizlvad.onion|9735|03038c30c32821a3f61eb37d64347575bda0c609fa0b4238d45a138947e1f4edce|
@@ -214,7 +231,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Madhyamaka☸️|2019.10.22&nbsp;04:58|rw55txhh6bjtmudqn7psf73ybdwppakqtbyfiav5uogru6e3onle67qd.onion|9735|0206722d0f786ae2bf4779675b5b7d91ae334fc59992f98528f30a83b91e3c8b8f|
 |Panthera|2019.10.22&nbsp;00:27|gnnoydrsq5xkeyrruixishubkdczi4767e3bnt6sg3cfqfrhb7vcfmid.onion|9735|0256c133d4bc7c0ad9f104855a568718ebf200a0cb35576cf670ab8dcd3999292a|
 |BitcoinZAR.co.za|2019.10.22&nbsp;00:27|5vhw6aa22minplt7igh2z5gnewtmr4jmqdeqisncyqwa76ncb46f7aad.onion|9735|0204a2b95b4c208383d7f02e741a8bfd5b5b7e8bea8d1543b1255da8342d9f2c6b|
-|stackingsats [NODL] [TFTC] [RHR]|2019.10.22&nbsp;00:21|4k65ti7tyv6ejntpvtxwtzc2ala25fx4bxms2dekax3lb5n2c3rexhid.onion|9735|02d419c9af624d0e7a7c90a60b9ffa35f4934973a9d7d3b4175cc3cc28b7ffcde1|
 |ENIGMA|2019.10.21&nbsp;23:23|kchmkmokeumcvuswjfvsgptcjrcsluzznnymujdakhpxo4wr6qczpfad.onion|9735|030747e32c0428d6bdfe468ab91ade9cc11daf4aab2b7033d7e7fbe39449167982|
 |Bitkoins.nl|2019.10.21&nbsp;22:06|2bh7psr4dinasuz3d6jm5o56ebkmlnotqqptoesikzvsyqxwmaneyiad.onion|9735|02888244029c5909593038ab19f269947c720de3423e491791b46c7c92f76279b6|
 |03fd2fe0770c567df68f|2019.10.21&nbsp;20:56|xah5kuevv7dq63jznoo4gafyiq2ehy37l32zrush2xwhokwxxvp2gnyd.onion|9735|03fd2fe0770c567df68f2634b31ae9166a97e6db6a856f7b18b743dd0a897a7f1f|
@@ -238,7 +254,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Petra|2019.10.20&nbsp;04:06|qrisg7v4auhzl73mfamwbx7swnovk3fnk2pai5opipceqiqz7uu7pvid.onion|9735|023777eaf23b76c7712000b2a77bb6e43fe72d3af360d2d60cf490ce8bcae1b4ae|
 |cosmo|2019.10.19&nbsp;20:24|zycuz47vj3p3kkqpg7sssg554bxl74q3klauvsj47usitrso4c5dmiid.onion|9735|02a4ff88f99ec4491b108f5d19d1bf2ea855342f1e646115187218c4e9b83bcefa|
 |$@brian|2019.10.19&nbsp;19:46|s3q4laqp42bumslmi4mlobeam65qk7luz5rwizgoer74w67dmcrwnkqd.onion|9735|02894f48a1d5454700cdf879b0ea69285aa5ca2e4e387d8c68d92fddadfb7bbfa7|
-|Speeed|2019.10.19&nbsp;17:43|cim6tlgoxwm7fkraixkukoaqcdqzp5ia2fegogfxqzaqfbzhckuzf7qd.onion|9735|03b6a0e7cb7b2829384fc3ac95eeb3f19c71334d9ab32381572bf03b9313c66db7|
 |Bendrit|2019.10.19&nbsp;11:53|efpzpzrdoyc2imlovwq2q4ktw75i7bbvfkwxvhhlccmzucfumhmfvnqd.onion|9735|021abd04ff7ad5c13115985fc34bf504c14a2602db89c3e0827ac5f3355566abac|
 |FreewayLlama|2019.10.19&nbsp;11:53|vi76rqba5kl4zqomdsgsrldjqht45ruqqdmpm2736pfmfa5vu64genad.onion|9735|02eac5a6c5df6ce547d39ace2f71c17457ca15432497c5ed52e89e02d5592b8bd1|
 |just_happy_to_be_here|2019.10.18&nbsp;23:10|pte2funmfkgcgfhjk4ezoixcokgh2r3cy66ersc2eqxj4vuobcf6svyd.onion|9735|031b8d80403bdf6486e2995811528419c59a5bcbf98325f8e9b22888c3be5a863c|
@@ -246,7 +261,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |lnd-01.mainnet|2019.10.18&nbsp;21:04|mgfcxz6bjzq6uggm7qovlaz3ygiwp5lntnee4ksf52qvnqwx236fkgid.onion|9735|02bb280ab6933e93a85697e45da05a514ff17615943f75bf747b0e68adc957cf36|
 |TuvokVoyager|2019.10.18&nbsp;20:55|otppivsuudikrk3zmb3nmhhj6dxvxjed5jvtx5fp4wt4rnwls4uyckid.onion|9735|0312a09c628b45bb01cdc19fecc899e9130b5eb42906cda145c4933d4b1b1fd066|
 |Bitcoin Association of Hong Kong|2019.10.18&nbsp;20:36|6p5bw3wvy22tneyhsc4dmnyxr5yq4qt5erhnobzeb2megakj7f4twyad.onion|9735|038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1|
-|Boltz|2019.10.18&nbsp;20:36|d7kak4gpnbamm3b4ufq54aatgm3alhx3jwmu6kyy2bgjaauinkipz3id.onion|9735|026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2|
 |nibnib|2019.10.18&nbsp;15:21|g5fitaqw6iwkyujoyth335v6porymntoni272seybfw3umo2limj3wyd.onion|9735|02e80c2d39a31d13207b8262d814d739d00669665769c24d42b91c5377919a9302|
 |030b3244ddc7c5ad2863|2019.10.18&nbsp;06:43|za43mkp2g3n3u45teekalv3vbgoc7dsaowumgojq3adt47axaspp4tad.onion|9735|030b3244ddc7c5ad28631e29a23fb5da233ee17561796c276398f4ef140a6ee171|
 |zen|2019.10.18&nbsp;04:55|m4cqylyzaefrkxg5ommyvvma6v3unevupdcokd5znh6ex6h4rnivhsad.onion|9735|02d34f45e69789e449837c5d59a1f17a01877726fe689bee7e455604d89cb9ba50|
@@ -268,14 +282,12 @@ Last updated: 2019-10-31 00:00:06 UTC
 |SneakyLightning|2019.10.16&nbsp;23:12|l2xoqx53ly3k3ovspm3zgwyisbamzk3lvquwdeymgx24n4v46orsrayd.onion|9735|03a3f44ca18b4bfbf786fe7efc3956ea2142b049d1aa108907f2382dcb51eb05b0|
 |FastForward|2019.10.16&nbsp;21:51|tucutu2cpsnuglsqqaffu725ctsrwvqfgfm6thhecljcwghjwwjyxfqd.onion|9735|0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6|
 |tomjodh.nl|2019.10.16&nbsp;21:51|tqbr5fcvfm5hijyxvo454uhochafelf6uhqiddnmvvtsv3b5ifcdwlid.onion|9735|02600e4f3b1c93c930314ddf236129cb15d81d211bd80a3c74b02b0241e31db63e|
-|SIGHASH_NOINPUT[C-lightning]|2019.10.16&nbsp;20:41|3zoxufkkfzoc6ajyw4qlzkpukjvz4bctygpkx47n54o6gpdycbkadmad.onion|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
 |NO-DE|2019.10.16&nbsp;19:13|eslzhfuhzgsjq65s6p6eglkrxpeay2cv5rgtdrjhhaoh2aon7udzczqd.onion|9735|03621032fa1e60c256d48df2daf144c21e90813ca2bc746a02bdf864753895cb9c|
 |Alpine Nodl|2019.10.16&nbsp;16:51|e6rewwent2ijq7e24z6dce3ke4plb2q6mq7gqami7tlybhu653s45wqd.onion|9735|03cc1619ec785b9ca1f0d61f8846d2b294e8446697ff65160937e2374d4897311f|
 |KayBeSee|2019.10.15&nbsp;19:41|ueggcvnwtlhzo26apokmghtdycv246jhd5bbyzddcoq6dwgxvci4d7id.onion|9735|033a79ee73d58c4476e8ed95b65746e63e806540497bdaebd6bd21a633c41db70b|
 |Grega's|2019.10.15&nbsp;19:40|viv472zwqk2efcg7dc5y3vshmbsntj44x3mm74ob5sj6nrbvquslkaid.onion|9735|0241e0f3e97edb6b3e80b5f1e779eba7808247af1a8c9324e592ef066e168ff833|
 |CTG|2019.10.15&nbsp;14:45|dcrmkwcyvhh27pizitzja56xhh62yywbr7bmesohspxp4u5u3mbv57qd.onion|9735|02401b922b55702e6b825a7be28c3787f514301dd7b1d6b07770e8db791d117412|
 |imjmiles|2019.10.15&nbsp;12:36|f6sntuaqopnhx3xidrcrt3iav3q7ktdgl3zvr75dtyyaljwgklrtogid.onion|9735|024d7e8f31c3d30e3a1a53a6dda892dea6631cd7a65c191361e95f02c50d4561dc|
-|ACINQ|2019.10.15&nbsp;08:33|of7husrflx7sforh3fw6yqlpwstee3wg5imvvmkp4bz6rbjxtg5nljad.onion|9735|03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f|
 |#BitcoinRevolution!|2019.10.15&nbsp;01:08|xlglkt6v7iaeps3yow45gxhoxzymvurofrrl5wmc67d6hjn254snzbqd.onion|9735|0289b50c94f7d49c66a3a35f6d22038058493ba5c00435a98d2c2c27a50bc10a3a|
 |greglem-ln|2019.10.15&nbsp;00:31|bmjprb7sqpefgu53lyjteteoyj3xv4xokyayeyyigfjwsbakvp2r6iqd.onion|9735|03ec5fffc431569d10236093f1e7c99fc7240d48944d92ba967e1192b2913db299|
 |anodenymous|2019.10.14&nbsp;14:42|t3y7ouab4n3jago4fi56jlkv6hvmscjputdwvrnjs3f75ad6ll6lmoyd.onion|9735|0371513dee8725b7c4eae15c7a350e6559c5aa9c007d7d27ea436571acf6927e75|
@@ -285,9 +297,7 @@ Last updated: 2019-10-31 00:00:06 UTC
 |GoWithTheFlow|2019.10.13&nbsp;15:22|eeyyz3xtzhb4mvnwztykw3gqjrbvtkturddbxfkbs6lstpcn5imgxtyd.onion|9735|03a8355790b89f4d96963019eb9413b9a2c884691837ac976bacfe25a5212892d7|
 |GermanyFullNode|2019.10.13&nbsp;12:49|5tm6oocqqs2noltp2n4viwn4laeyvznpeibk4br7s6uwszha7cam6tyd.onion|9735|027da8146885417ce0303e96543657b570e771c11b42ea0b3e52159372fc5bf88b|
 |Wellsfargo|2019.10.13&nbsp;12:49|vj7xy5gubxywyyhdeu4s6xi3nx2472dcwbxch7wtmegnfnjxyb4uihqd.onion|9735|03e08816a37db285b7f65ad0fd50f1d3e9fff79f661de10c64843376d8566dde05|
-|dreamix-lnd2|2019.10.13&nbsp;10:55|jjqi3vrd7hpzv2oitr3i7rknbubxmeagpn7ihmydmoc33u6lphrrwjid.onion|9735|02651fa5f3f6676c6f13d88b3ffd3101421cd3bd1773d4af92242c46f0f902ef39|
 |onTheBlockchain|2019.10.13&nbsp;02:21|bklpcs672poaqwpppjov5hzfbsz2ntmk3qbs7s5kjqj6lseve5a6jiyd.onion|9735|02b6119cdbc0044140c489fa936b94ef63c502daba9383b625e8c8cce9046296a9|
-|Patsak|2019.10.12&nbsp;21:05|4yrqspvlpubz5v6y5ibaihmc6rdsb6hhdsi3luledklyvt7fdv2bodad.onion|9735|031005b90058edcdb6a85e8071a5e9dd5bcd4eb0239355485b495e00e652a6b03a|
 |LuxNode|2019.10.12&nbsp;18:30|4jxexrguejn7hhexix36xw7ot7svnqagppfx6epxo75oie7an46wp5id.onion|9735|0365f2751764081280c3572d1d5af1caee9ed1d49872b687280eefdb48740ff22a|
 |Aristotle|2019.10.12&nbsp;09:03|3ja56dpn3ngkpqhqvyi62r4hzvvn62fankhey55nmgethoid7gz5lgqd.onion|9735|03e8fb5c08d42b34490d412c81350bee40bbe15f81d16f281cfee6e4e65f793391|
 |GoFightingSioux!|2019.10.11&nbsp;21:57|eragnzavvzteqm3edrf5x2ukm5r6gbnu4djeawqzxzfwojysbf22lryd.onion|9735|02f3d142710b9e3cde809be5205e060d9bd500062d813242d2d0d6f8c54c43d7a4|
@@ -310,7 +320,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |CharleeGraceful|2019.09.04&nbsp;11:14|f2krqmfxeks7ayov3gtdxnc64krgf24cfu7diqzzgkzlkzvqlv6tzqad.onion|9735|02203d17d56d95d657ce7e5cc0867b415042767f051c78010c127899a0a45da15d|
 |nakamoto-institute|2019.09.04&nbsp;09:45|2g72ucbt22kgz7h3nuo37mqefoif4aq27tvprodidzk7hfwiyxydfkqd.onion|9735|02ec581fb1ed1af6d976d68ed823b9e4b11942d9c254e60e67297ccfeb53b27aa3|
 |AnriBTC|2019.09.04&nbsp;06:09|2gnk2xfymuqxszs3howxfxvchboy4ktenh24jlo2fdppyeuy7apcmjyd.onion|9735|03aaa4b0410d6b7ca72f71fc3b9334e7389778a7b98a7e52600979f249c2d387f6|
-|Sparrow|2019.09.04&nbsp;05:31|j7b77bniotaxfa4vxlkhqgs2bpdcwuzc6svcbjziai4kwrwj5xwtkxad.onion|9735|03248115007084fa39f54ad2e649735c8bc94722fd0039a8569a194a62e3ed5a71|
 |Brew1000|2019.09.04&nbsp;02:46|mbgdamg6pospl4cu7wmqmboc63eqwrgq7ujl47m6ltqfnty35ymp7byd.onion|9735|0318f18b0e6b22539bd0e076b6710f8055609b6e98cc5f71c76d171d8c2493c9f3|
 |lightningnob|2019.09.04&nbsp;02:22|3hth4fc5y7etnrwarxl5pkzfi7252gwa4klrx4srzef7xt3eq66zg2qd.onion|9735|03bfe4008a3dcf2f8f6d892d00e61086abdc23b4bdeae59319e9ad884b2038166d|
 |ninja2019|2019.09.04&nbsp;01:59|peix2lva55ns4ic6titrwp273dsxccs2hxstbxrqk3qrwgn6nwga4zad.onion|9735|033b9999f7bd5219cb1018a1e2366f32c024340f9d5b633da1effac688072546ca|
@@ -321,7 +330,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |⚡️Zilla|2019.09.03&nbsp;19:22|liseq4mnzs2sjru4kyqqufpcqcxwjafkddnnn3qf2qe36znytynexfad.onion|9735|02f5e319622a31a6d6e123dc81f03eaedf9fe429c18fb370e892199ae94ae94511|
 |BickyBurger|2019.09.03&nbsp;19:06|2myu6sg5osstlz2insoe43e653art73o6u2etejxz26ph3w3ouq4avqd.onion|9735|03f6771fe5b378990ea4795fe4d32ff1073a1ce380215e58d227c59e595321c35a|
 |Stippy-EU|2019.09.03&nbsp;18:33|u2vdgm7fnctxgpt5i2ez6q4t2u5g356j5ze3us2ildogh3zfp4y2f3qd.onion|9735|02dcdc22ef5a68018c749918ee51b6b339f1383040515a16b36cbfa48cfa02ca12|
-|~V~0x1xAmsterdamxNL|2019.09.03&nbsp;12:53|donko23z4e53appcdw57xuhpspeu5cguvfointjlxk3ko7l7jtby2fad.onion|9735|022c10817fd76e01c63198967a77e3a2ac1d051267d80983790889481ff7ce15e1|
 |lnd-01.mainnet.muun.stg|2019.09.03&nbsp;12:52|f4tdgg7atrpl5drut7fex7x7htbwordbuda3zy6z4rag7raikbmqv5ad.onion|9735|0249b0e7f93ced7877234fcbda889c18da768ac7c5cf2fe15384bd49e30010f5e1|
 |Ernestotheone|2019.09.03&nbsp;11:59|k5qdtoeli7xwwgnmsce4vlzkyl4sqqqzuxd7mmdvwg6zd2dbksb4ehyd.onion|9735|03b43ad99642edd3f44f8331d3b7adfa68d6dfa2fa8301e56aa59c1e34f39fcfef|
 |prod.ln.donnerlab.com|2019.09.03&nbsp;09:52|dfabopn7dgvsmspomynimmmhfnhyid6ezybcghsp33rwyx6dc6o4haqd.onion|9735|0380e02956c9d09d2cf349bc7f5eb4610fda0775974352fa52f7d981783e45fe03|
@@ -382,8 +390,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |clairvoyant80|2019.08.29&nbsp;07:25|4mdgjakszhu2wuklq65o3kznjfctsx5pvznzhi3rfyugqbqh2inkbaid.onion|9735|03c17024de107cb3d4e4fcabd027a5a8c8ab58348028e51c14d7c886036999c367|
 |nybemotion|2019.08.29&nbsp;05:08|hxpoui3e2mf3tzlbueoxdhd6az23rmw7yqujrdgyjqvfujvcjkqsr3id.onion|9735|025ec98aec0297b115008e29628762a6f9a6b14fae97aeb53d63a86e193374852f|
 |FDOT-Gatsby|2019.08.29&nbsp;02:47|sr25pvqphw34ix7xte7hzdxipxm32mdciglatch5uohxo7ioyvl7xnad.onion|9735|03130090b399b3dd924969cc36bd9c4472acdd048cf55755cb916cf8fd1d7a7991|
-|SwissCasa|2019.08.29&nbsp;00:45|5hcp2pndlzpeq3asbloeka4dvtzr33o7lvmq24dj6ln3glmndrrrsgad.onion|9735|02b70966a741bcde6e0ceed9966d9c572e5fb0de5148a7c54e2242f1f1e42acb06|
 |Spica|2019.08.29&nbsp;00:45|zkhdvt6qn3jd4y76kvd4krdvhkivt4tfbweqeoouv2zypkpjbxvpktyd.onion|9735|0384990961f33adaeca700ee67b1242597c32ab61181ed7a0d516c4f67affa093b|
+|SwissCasa|2019.08.29&nbsp;00:45|5hcp2pndlzpeq3asbloeka4dvtzr33o7lvmq24dj6ln3glmndrrrsgad.onion|9735|02b70966a741bcde6e0ceed9966d9c572e5fb0de5148a7c54e2242f1f1e42acb06|
 |Sandman|2019.08.28&nbsp;19:06|rkc7mljgc7dz76rkb6vfmgi6s4mmqh4gcsk4eumclinyzsgnxd4x2eid.onion|9735|02b4c2cfbe314508d3310f7b6d309d075ea06a16c97ba878ff57e9513308b2c356|
 |tim222tim|2019.08.28&nbsp;13:58|wxbkbqfbfjlv4aif7tvmhwdbnw4amu6t45t5bp4ioiny7iin4l3xx7ad.onion|9735|0294ba182705c9db9a3704b9d3b4a30362e77048a9c0ce8e8fed60cfcfabd4e1cf|
 |NastyNode|2019.08.28&nbsp;10:42|tx6xlbac2mhr4bk4rfp7wnm6wgqqyjsrosdwexi36bhq7drn4jn3xjqd.onion|9735|025db7fedfe8a0f9c0975e6cbf0bd9090645dad1367cb62c09950733eb7619d650|
@@ -410,7 +418,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |YOLO|2019.08.26&nbsp;01:13|5nzhguqyegv4mpb5sfek7e5gpoxewqtacji3fxies4lfwc4imkewzqqd.onion|9735|03398603de59d47f16bed1232bcc3da6715745e6609e84b33548755322af391f23|
 |SKI-U-MAH|2019.08.26&nbsp;00:23|qmlcfvlgdln2v5detcru2qie7en7325ipdwtrsm6aumh64xdtacx53id.onion|9735|03b17a5af08c266a4dd645a399c65d9aaeb059b2729a8aa5e0cc0c76597953d57f|
 |CoinDesk|2019.08.25&nbsp;21:47|joed5ffjzo6uss3svd545kug3266f6v4b77auoiwhae5pvbiy4wvlkid.onion|9735|02964477148982b57c355424412976532629b3ca726c8e6b49347d1c7065d95e53|
-|CodeEngine|2019.08.25&nbsp;18:54|pcfh5i56kjdmivy2dxil2nlxg5eftxg223n3yx2amqqwz6vzfxdbbkyd.onion|9735|02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b|
 |Mjollnir|2019.08.25&nbsp;18:01|bgwfe2u4yjiehpc3fdsutyfw3nh627rgr47luajvp7esggseahytpcqd.onion|9735|03cb5b5803ce88360a8cbb9b9cd92de4fb9d54022c2636b4c5e1d7be49162b2005|
 |NoobNode|2019.08.25&nbsp;16:50|et2mse4q42p3njwtwid42c2fdl5cycviibu6cbyb4sfvjmrvqerra2id.onion|9735|0216da697c497d9b77753d80bf7a40fb19f71b37373fd0ab7701538b1975665d90|
 |cryptonoia|2019.08.25&nbsp;14:56|lvpdgxs5oskz4tolxbugbxgopcb6aqtzytzvpj4c435tyqkhasxa6aid.onion|9735|03cedf4dcc61635cc49c4ce955076c2a8cf17337720418f313104a12d6fdc5c014|
@@ -552,7 +559,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Billfodl 3|2019.08.03&nbsp;15:12|xmszqo6dxo56gs74alv6c7wif4jwsc2ldqcswxnm3iabkhewgzy3jpad.onion|9735|0214382bdce7750dfcb8126df8e2b12de38536902dc36abcebdaeefdeca1df8284|
 |MinorNode|2019.08.02&nbsp;06:03|zberdw64f36m2i2uz6znkj6fiavwjxjmmgvte6x76brark26u6fd24yd.onion|9735|036be92279e96d7662ccad65e77a24f3c4f4c5cbbead557c9227cc9180e27eda1c|
 |its-a-me-a-mario|2019.08.01&nbsp;23:20|o73dsirxi7wjuh3ueudluzvhppixeb2cvexbxcwd5ijuaorw5s6achid.onion|9735|032c6b30d84a7fe254537ec1c00f18775fc6dd1d1de1e305b5a980a4c0d6a8e35d|
-|AGLD-Bullion-Desk|2019.08.01&nbsp;21:47|kywrcvjuoge2edwfunnfl5ddkh7gx3frj2pgjyb3qycx3nvq3e5mtsid.onion|9735|026f9c01e266863c0539ef98bfe4ecd585e6a7ee13ec42b4e09736a5a6f7152ee7|
 |F.T.E.|2019.08.01&nbsp;21:05|b2d4ge25hvyid54cpziqmuocfasnda3v3om2ikk5fwp3ufqza7ahbqqd.onion|9735|029a392517f897679efb3eb5ec42c1f549ec7c4515e0d84788b6ea9db1b8a36465|
 |Thunderstruck|2019.08.01&nbsp;19:39|cqunpro25na4iu6ogajncv72kvj3ambtbnmecgw3gz65r3lwhrxehfyd.onion|9735|036a1df81a31f76ba9a702dd7d29d606b2c08fac536d0c17dd48214c0245ca6353|
 |RabbitNode [LND]|2019.08.01&nbsp;10:22|kn46j7vrtrf3r6suqgw7z2eljqinoom76bovs4vfcvdbwzs47kghwhid.onion|9735|02deb264bf87fa523d7f36bdbc05fa7274a890b8467fdf6557c3a589a58d757d45|
@@ -622,6 +628,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 
 |alias|last seen|address|port|id|
 |-----|---------|-------|----|--|
+|SIGHASH_NOINPUT[C-lightning]|2019.11.01&nbsp;11:35|yphg7yiipjz4oux7.onion|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
+|dilboy|2019.10.31&nbsp;04:06|by6dkg4urxusddrg.onion|9735|027d7f94667974b10d3e8330de403111229669273dc9024745d195ba035d746e57|
 |AntonRaspiBlitz|2019.10.27&nbsp;18:20|l5ra7pcedd5cw2hn.onion|9735|03a9bee7638c96a67333f9cefece0e80c9e16a90b7c2fa3b041616e5d59f7bc64b|
 |RaspiBlitzDevHC2|2019.10.27&nbsp;16:57|ddrw66yjyrcc5ryk.onion|9735|028a2cb8d51e44d7d7e108c2e80a98cc069145e05a6d2025cf554bd8866fe32993|
 |RasPDX|2019.10.27&nbsp;02:14|ftddta7zlbe3kwmj.onion|9735|034d2dfd138b4dff2e8f29fef8b70b91ae87b384eb8b8294a54ed2e58f11f2109d|
@@ -643,7 +651,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |TomTheGodOfThunder|2019.10.24&nbsp;12:03|y4codtp4gu63oanp.onion|9735|03d31b81148d68e818d6a34d385b587cfcd8beff6a40f5b39df2630fd5bc837958|
 |S0lidM3rcury|2019.10.24&nbsp;03:47|nuwchrpffkqayzk2.onion|9735|02f882d605eaa45655658d8def825201fb4018f1c0f16d0968655fa544ab714ca5|
 |Flash2|2019.10.24&nbsp;03:22|lpuryim2q6chf2ti.onion|9735|03312834d07fa3698d7fe45d06651a6c02d5f02298b65afe00efbf6696f497412c|
-|dilboy|2019.10.23&nbsp;19:21|by6dkg4urxusddrg.onion|9735|027d7f94667974b10d3e8330de403111229669273dc9024745d195ba035d746e57|
 |GeldBoerse|2019.10.23&nbsp;18:08|4l5wukirovayswso.onion|9735|032f46d1e9a0c0db99cf788ddfd86d815be6e9d752af37f4cef5a13a5276af7004|
 |🚀🌑 BOLTENING.club|2019.10.23&nbsp;06:16|qk2ealuaxlfvwd3j.onion|9735|02529db69fd2ebd3126fb66fafa234fc3544477a23d509fe93ed229bb0e92e4fb8|
 |Texas|2019.10.22&nbsp;23:50|qwwlnywcyt2gzqdx.onion|9735|021207b8e05bf9d1e9fdd63c6699a509398473aa92c7d78ae1ebd2f8519d366824|
@@ -656,7 +663,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Jubilee|2019.10.20&nbsp;05:17|yqygrtvwihl3exb2.onion|9735|03d67f36c4f81789e2fe425028bacc96b199813eae426c517f589a45f1136c1fe5|
 |lnZ.hk|2019.10.20&nbsp;04:09|i4bz6ohkzuo7shsw.onion|9735|03a7fb52da76a723f7e3cd5d777c0372f1ae1217c82a60e15d12b74089b3d82724|
 |TupacToshi|2019.10.18&nbsp;17:09|74q5nr4ngx2yrx3i.onion|9735|03e57ac1fa7db291239e5ed9f0000d66678af10127309b03efafd8d99f732a6994|
-|SIGHASH_NOINPUT[C-lightning]|2019.10.16&nbsp;20:41|yphg7yiipjz4oux7.onion|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
 |RaspiBlitzHohenlohe|2019.10.15&nbsp;21:23|e4ig3qtljc4riudy.onion|9735|020afcadf33ef613e47a6b94d461e50db1740a6dff9ff5d38617210d523c545dbd|
 |gi-blitz|2019.10.15&nbsp;12:20|3pii27iivnrqgzjp.onion|9735|02044b0f26d8b44cdb0238a7de8530478a084ea97f16fe1d02fb9b6f446fb45a2b|
 |bilbo|2019.10.13&nbsp;16:47|bebhw6b2v6mjibjr.onion|9735|033046b3094b66c838c715d2d6bdabbb1d9cbaac86fc88248bd6e6badfa05f16f2|
@@ -733,8 +739,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |ScripterRon|2019.09.01&nbsp;13:27|`2600:1f18:64d9:1603:4436:871e:2bfe:7403`|9735|02fe9469e1d7da69539e365c9b2a64d277ed5589622cb314dc8b3060f3c55f79e6|
 |YELLOWMONTANA|2019.08.24&nbsp;01:27|`2001:b030:2422::208d`|9735|03a9b9b4d5bff67fb90d7deaf7db842e3aa5e3abea58fa488a8af3d163679107d7|
 |BLUEIRON-v0.7.2-13-g8b85380|2019.08.20&nbsp;01:38|`2400:6180:0:d0::5cd2:a001`|9735|024b9a1fa8e006f1e3937f65f66c408e6da8e1ca728ea43222a7381df1cc449605|
-|ln-btc.yedino.org|2019.08.19&nbsp;12:05|`fc92:97a3:e057:b290:abd8:9bd6:135d:7e7`|9735|02b9bf30f81243d07eb2b7d4be8b2a6172b335cb4848b638cc6b60123d68ed7361|
 |ln-btc.yedino.org|2019.08.19&nbsp;12:05|`2001:470:71:153:5054:ff:fee6:3cd`|9735|02b9bf30f81243d07eb2b7d4be8b2a6172b335cb4848b638cc6b60123d68ed7361|
+|ln-btc.yedino.org|2019.08.19&nbsp;12:05|`fc92:97a3:e057:b290:abd8:9bd6:135d:7e7`|9735|02b9bf30f81243d07eb2b7d4be8b2a6172b335cb4848b638cc6b60123d68ed7361|
 |Bitcoin emBassy TLV|2019.07.24&nbsp;13:48|`2604:a880:400:d1::8bd:1001`|9735|03649c72a4816f0cd546f84aafbd657e92a30ab474de7ab795e8b5650a427611f7|
 |Ono|2019.07.24&nbsp;05:27|`2a02:810d:13c0:3dec:b39f:7027:babc:f27e`|9735|029c77f50289c32a36c6d6e3d56334ab5a052f7be74ba881d4e494a3299c10515a|
 |base58.casa|2019.07.19&nbsp;15:42|`2a02:1205:505d:2b30:1331:1fa:b925:779e`|9375|02a092e6dd299fd9df7dcd0744856d78d00f7f6ef12a07cebfa3d5cfda2320bda4|
@@ -757,11 +763,61 @@ Last updated: 2019-10-31 00:00:06 UTC
 
 |alias|last seen|address|port|id|
 |-----|---------|-------|----|--|
-|ArturiaPendragon|2019.10.28&nbsp;03:22|89.244.172.15|9735|0265272c8a3ab772a1f6b22358ca98ce97bf0d65deeb7d97ecd499715b1868506b|
-|MAG Ettlingen [LND]|2019.10.28&nbsp;02:31|84.178.71.140|9735|02f1f00bc83b33d33f9201c79a14aa131dc8fbda14f50e371ff3e1f2f4d6099163|
+|t0mix|2019.11.01&nbsp;22:42|78.141.123.99|9735|0214ec84c84827dd4911de56d2ecb77d367c6f24c658b8acfe4826b01968e45594|
+|raspiblitz|2019.11.01&nbsp;21:02|62.83.18.204|9736|03ca94b753c01471b88bb16ca26bfb17c5ac13bd8ff177cb4865101ac11e7b510a|
+|somaha.node|2019.11.01&nbsp;20:10|85.195.206.208|9735|02b77853653ff464339740c06e927ddcc5540487847256d342b98909532853b13d|
+|nakamoto.sk|2019.11.01&nbsp;19:27|88.212.44.33|9735|03ce2ff3fd05e8da3b07ec0058f21e53de9d21de04b7908ba5b0e4764413b4ac84|
+|Grand-Guignol|2019.11.01&nbsp;19:11|86.30.249.21|9735|026087e0cec86201f617c6b93528091fd522112cf499eec18f778576e5f883c150|
+|CodeEngine|2019.11.01&nbsp;18:53|144.134.157.106|9735|02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b|
+|ninjalnd|2019.11.01&nbsp;17:32|87.197.191.30|9735|0282665335781f51f496b99aae65f11a2172c6d16642626ca1d39536ef663daf27|
+|wavylabs|2019.11.01&nbsp;17:31|137.74.107.152|9735|033181a72d4d61c6f3138240d98994e9553726bc65c892e9fe7a7b728a54005a36|
+|YellowSubmarine|2019.11.01&nbsp;17:23|95.108.54.242|9735|020cfe991127e010836cf16429af817a6af3d1441c30726293a77adcbcd2081148|
+|Boltz|2019.11.01&nbsp;17:21|104.196.200.39|9735|026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2|
+|PayOnline.Tech|2019.11.01&nbsp;17:16|185.153.197.25|9735|0394e00d56a9e54a3d29036d218a607eb87257c10a4109fbb964b5c5c03c405329|
+|knudix-mini|2019.11.01&nbsp;17:08|84.214.74.65|9736|027986b16bb9d8c541aff8e8df339548189f3077d0f42a517f7ce57135e8a9c19d|
+|foodforcoins.org|2019.11.01&nbsp;14:04|84.200.229.30|9735|02efe4469330e3c5addb11418182a3b9ae15803604f72121ad0cbe1884bba6db3e|
+|Casa Store|2019.11.01&nbsp;14:03|34.225.127.225|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
+|Casa Store|2019.11.01&nbsp;14:03|18.235.20.108|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
+|LOOPING[LND]|2019.11.01&nbsp;12:06|90.92.179.215|9735|02f302189b8c0028aa919e5441a5d7e80c82ebdff421219e34408acea58274a823|
+|SIGHASH_NOINPUT[C-lightning]|2019.11.01&nbsp;11:35|82.255.152.32|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
+|ac.com.au|2019.11.01&nbsp;08:44|175.32.48.251|9735|024a853d9cdedafc164e49c2cef301966e5a78091322a84175b52d059d71b4d672|
+|@ruigomeseu|2019.11.01&nbsp;08:15|148.71.147.1|9735|02480676e5bda7b6c902e316c5c57b14cb7a855c287dc927f8c42abba503d64bff|
+|Montreal|2019.11.01&nbsp;07:22|96.23.239.29|9735|031118c94f180709cb566f86396e345f7ad800a0be2d477b0c930a9677da91e46b|
+|Dexpa [LND]|2019.11.01&nbsp;07:07|104.197.5.242|9735|02a54deb8d0f11d47c6f55cec5e673063c9fad2619559e8d87ae3eb4c381668449|
+|MOBY_Blitz|2019.11.01&nbsp;06:27|185.169.97.66|9735|02929175ac215cb282cd965d21b8bde87cf18828a4824f6a6e12b0098631b9f535|
+|lnpay.in.ua [LND-corvus]|2019.11.01&nbsp;06:25|194.44.177.216|9735|0332242fc347ffb0f96c4975aa9671295ef35bb7fb795720bd15f3d006f3f9ba65|
+|makana|2019.11.01&nbsp;04:45|37.201.193.57|9735|02a225ef7077353b74179d8a74f1632d3ed45bbafbeb1ccb5470d02a6de79016de|
+|Rot-Trip|2019.11.01&nbsp;03:42|80.128.144.138|9735|023aa80d7bcb99d6d5c98ac59f8b7d25fb825a2b26b6e9de2c8f4b2614832c9185|
+|Rot-Trip|2019.11.01&nbsp;03:42|80.128.155.241|9735|023aa80d7bcb99d6d5c98ac59f8b7d25fb825a2b26b6e9de2c8f4b2614832c9185|
+|ArturiaPendragon|2019.11.01&nbsp;03:22|89.244.175.1|9735|0265272c8a3ab772a1f6b22358ca98ce97bf0d65deeb7d97ecd499715b1868506b|
+|D76eauit|2019.11.01&nbsp;02:34|220.245.131.128|9735|02b3a8dfea0259d93bbc799c25126c84e2950b60a3bc25248dc508f946c2878883|
+|MAG Ettlingen [LND]|2019.11.01&nbsp;02:31|84.178.75.241|9735|02f1f00bc83b33d33f9201c79a14aa131dc8fbda14f50e371ff3e1f2f4d6099163|
+|jbsdx-LND|2019.11.01&nbsp;01:40|94.217.188.61|9735|028ff480bc963f220c325a4d6ee8c2c9652d99aaa4cb8fc2fcff0355f2407cb9a0|
+|lnd.firebo.lt|2019.11.01&nbsp;00:17|81.187.58.219|9735|036dfa466e991c038a98175697aa284b414d40e03ccf45a1a64932b3948907f7be|
+|Night Jester ⚡️ [nodl]|2019.10.31&nbsp;22:28|5.67.246.149|9735|02a606d47e7ad9c1b05034abd3b0b805b05bc2bd8259cf0ac281cf0c7133fd6946|
+|Syndicate ~ ᱍorever|2019.10.31&nbsp;19:37|89.238.166.235|42080|02f665f48119bcb606bf6f9519fa2a56ac078cfa31d7d9e34e784b1b326d9ff0ec|
+|zerobps|2019.10.31&nbsp;19:18|79.62.233.36|9735|02309f3556d51e9d855594762dcf68cb283fbfd7e48618b6cecb8cd90e2e34d8ad|
+|one.lnpay.io|2019.10.31&nbsp;19:14|104.248.170.25|9735|03a45be5b499702903042ab8388151c59c0c5a624d73fe40b0d87780ca75c2f720|
+|Sparkswap|2019.10.31&nbsp;18:15|54.215.242.60|10211|032c17323caa51269b5124cf07a0c03772587ad8199e692cc3aae8397454367d34|
+|Payment21.com_LIVE_LNP21|2019.10.31&nbsp;17:14|217.173.236.66|9735|03a21671b1958b4afe298f0fc6caf1330a0bc5345cb30c486f4cd14d4a6c3f4c34|
+|AGLD-Bullion-Desk|2019.10.31&nbsp;16:53|13.72.106.206|9735|026f9c01e266863c0539ef98bfe4ecd585e6a7ee13ec42b4e09736a5a6f7152ee7|
+|DSlightning|2019.10.31&nbsp;16:34|118.175.206.36|9735|036955ac40079f26249d19a086d1cdc193d7f232ffbf64f4e6453e056709ded387|
+|TriglavLN|2019.10.31&nbsp;16:26|193.77.117.97|9735|03a4d23196b17e1f338c7143edd58c0a49c555bee17b0da159cfc4c62b8c7b4822|
+|0384f9af9ddbbcdecd3f|2019.10.31&nbsp;16:25|24.240.96.140|9735|0384f9af9ddbbcdecd3f0d99a003bdbc472793845d26fb5b1bc7ec9c44c23d7367|
+|Fold|2019.10.31&nbsp;13:49|35.238.153.25|9735|02816caed43171d3c9854e3b0ab2cf0c42be086ff1bd4005acc2a5f7db70d83774|
+|Lantech1|2019.10.31&nbsp;13:21|194.223.5.98|9735|02593284840cebd321241d7a5bac0fc41f0dfe83ab6ee0847dbdb41419f830936b|
+|ACINQ|2019.10.31&nbsp;12:00|34.239.230.56|9735|03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f|
+|schorsch|2019.10.31&nbsp;11:55|178.7.245.73|9735|03d860c48ffecb94dd15b53646943ae1a3eee4a53374fa88b5b385e07a2c03e4da|
+|McVarden|2019.10.31&nbsp;10:11|67.168.101.76|9735|022ec48186f2366b429d2fca1af2f4fc33dd97a8f42c55ab4c4ab4947f8a3cf768|
+|go_forest_go|2019.10.31&nbsp;09:07|173.249.27.198|9735|026b742cea92cea6535f8688e5597bb874d8ddb6dab3500119a25cb25228d2a75e|
+|bitcoin.punk|2019.10.31&nbsp;08:52|185.228.137.238|9735|029d50d59c78b81a39f4ca40b6bc9b89710542a31429b69aa075b91b587979205d|
+|Reckless|2019.10.31&nbsp;07:50|109.129.160.175|9735|02bd352b93c81d2d9e95f4d9556d334b037ba65d4680426a6a37343e8cfc694912|
+|craig|2019.10.31&nbsp;07:36|86.135.43.57|9735|039e41d2a2248db0709edb3bce857e8b821c85a55cd0c18890e420cc18ae91cdf5|
+|Pipsqueak|2019.10.31&nbsp;07:06|136.33.238.17|9735|0307df05fe55a2700153976b8e643915ff01d14d4d0f8d3cce6145e29933a528ee|
+|waffi [LND]|2019.10.31&nbsp;04:21|81.221.69.115|9735|02ec4882d8a0b54f20b46c37f4a166f22a52e19da52e2ec1e1d792c4106804bdcd|
+|dilboy|2019.10.31&nbsp;04:06|209.6.210.179|9735|027d7f94667974b10d3e8330de403111229669273dc9024745d195ba035d746e57|
 |TravelByBit.com|2019.10.28&nbsp;02:29|172.81.182.247|9735|029707c0881747e9a359eddc62a50c71e7640f89aa8aa3992b8c809dc32ae675f9|
 |Bottle.li [Frodo]|2019.10.28&nbsp;02:29|108.128.227.130|9735|026910ea11228e8dd090e3b6348ecb64dfe4387a624528b99782d202d493fd6bae|
-|jbsdx-LND|2019.10.28&nbsp;01:40|92.75.215.102|9735|028ff480bc963f220c325a4d6ee8c2c9652d99aaa4cb8fc2fcff0355f2407cb9a0|
 |HimbeerBlitz01|2019.10.28&nbsp;01:38|87.151.26.127|9735|03d94ea16e8d37e6702157cad71c63dfd9196c8b82d6984d7a1904f88f5c003458|
 |dctrlvan|2019.10.27&nbsp;23:32|174.6.108.132|9735|0212a4a649fa3b57cfda9a679b7030c46538cda3e0e96874ec4044131184395e5d|
 |Flashlight[hub]|2019.10.27&nbsp;23:17|66.25.54.32|9735|02bc81ab359d333992b9fceb840a958b992c4e49d21b54612555b8fa0e77590314|
@@ -789,9 +845,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |snowcrash|2019.10.27&nbsp;07:03|168.194.160.178|9735|02e87d5088a855d43a034a7818b9f55e3e6e59d7e872beab2b2e71b474face3e38|
 |☇ Kind84 ☇|2019.10.27&nbsp;06:26|79.43.39.195|9735|03c2d52cdcb5ddd40d62ba3c7197260b0f7b4dcc29ad64724c68426045919922f0|
 |timsisland|2019.10.27&nbsp;04:49|104.62.47.181|9735|03321fab5e3db6c378e23e9cceb522325dc4f6b0c68819944569128d34cba9cca3|
-|makana|2019.10.27&nbsp;03:44|37.201.193.44|9735|02a225ef7077353b74179d8a74f1632d3ed45bbafbeb1ccb5470d02a6de79016de|
-|Rot-Trip|2019.10.27&nbsp;03:42|79.207.31.6|9735|023aa80d7bcb99d6d5c98ac59f8b7d25fb825a2b26b6e9de2c8f4b2614832c9185|
-|Rot-Trip|2019.10.27&nbsp;03:42|80.128.144.138|9735|023aa80d7bcb99d6d5c98ac59f8b7d25fb825a2b26b6e9de2c8f4b2614832c9185|
 |FRN|2019.10.27&nbsp;02:41|77.1.175.59|9735|0257e4021c5ff7ef69bc023e86f16320dc47269f96ee7858362be1d626e59e7642|
 |Hedonismbot|2019.10.26&nbsp;23:46|46.229.238.187|9735|02df6d3454bc4c0cdd9b6e5f04451f53c48d22300d3066cf4a8fb49effd025c0af|
 |mainnet.demo.btcpayserver.org|2019.10.26&nbsp;23:26|170.75.160.16|9735|03d2a44997a0fb6deee0a31c389d9d6bcb6f929f1dd0ba67201d195f2b3c76087c|
@@ -799,8 +852,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |burger|2019.10.26&nbsp;22:07|89.151.210.25|9735|020c27b1e99dce7b952757be0b0d7c42ab825270c4f8f7571a349624da408b2dc8|
 |1.ln.aantonop.com|2019.10.26&nbsp;21:35|13.48.89.186|9735|0237fefbe8626bf888de0cad8c73630e32746a22a2c4faa91c1d9877a3826e1174|
 |boxxy.network|2019.10.26&nbsp;21:22|82.36.141.97|9735|0269b91661812bae52280a68eec2b89d38bf26b33966441ad70aa365e120a125ff|
-|Casa Store|2019.10.26&nbsp;20:58|34.230.139.157|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
-|Casa Store|2019.10.26&nbsp;20:58|18.235.20.108|9735|0391489a933ab83094d1af43b3df3e8c8d467474649361912f05211d0e68a28fc9|
 |VersionNegativeOne|2019.10.26&nbsp;20:58|205.178.116.32|9735|0327e003e3c742db9a77f436e672bd42bd4a302ec0f92f0486c4fe09143bcfb0b9|
 |crymel.icu [lnd]|2019.10.26&nbsp;20:40|91.194.84.78|9735|02628d8e2f33869db7417c8da48947d441dcd839e0a3ce5e91f9c790d1131cf9f7|
 |1ML.com node ALPHA|2019.10.26&nbsp;20:31|23.237.77.11|9735|0217890e3aad8d35bc054f43acc00084b25229ecff0ab68debd82883ad65ee8266|
@@ -844,7 +895,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |LNTurkiye|2019.10.26&nbsp;01:38|172.81.182.240|9735|03e5a594f574f845409d474c105c5d233291f94d1fba4ee6a4de595c576bd2f4e1|
 |booz|2019.10.26&nbsp;01:36|216.189.153.64|9735|02db9c5c2d0e40d6ce8747255983be8b309fa7caa7f67a72bc30e94bdddb326edf|
 |TYLERDURDEN|2019.10.26&nbsp;00:46|62.210.131.148|9735|02779c5e4fb6a87d8d18e8b9fa2846d847af6da0501cb39993478203248e922642|
-|D76eauit|2019.10.26&nbsp;00:02|59.102.103.179|9735|02b3a8dfea0259d93bbc799c25126c84e2950b60a3bc25248dc508f946c2878883|
 |ln1.satoshilabs.com|2019.10.26&nbsp;00:00|51.15.103.198|9735|0279c22ed7a068d10dc1a38ae66d2d6461e269226c60258c021b1ddcdfe4b00bc4|
 |LND01.KEMPKEN.org|2019.10.25&nbsp;23:57|85.233.38.5|9735|0258867235a07c074955885a6923149a9082c4a1ca5e587328988d75fd8f3fac7d|
 |zapread.com|2019.10.25&nbsp;23:49|13.82.198.161|9735|02cda8c01b2303e91bec74c43093d5f1c4fd42a95671ae27bf853d7dfea9b78c06|
@@ -897,7 +947,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |LNBIG.com [lnd-03]|2019.10.25&nbsp;15:02|46.229.165.139|9735|032679fec1213e5b0a23e066c019d7b991b95c6e4d28806b9ebd1362f9e32775cf|
 |lnd.ignios.net|2019.10.25&nbsp;15:00|190.85.201.37|9735|0326f1d06748f019ecd98484eb23ba7367b1361e0ee6e38234d73afcc976dfdb3d|
 |⚡TheBebop⚡|2019.10.25&nbsp;14:58|76.185.111.141|9735|03fbe1c1baedbc99b2642ae524d9c2a6f12b771a3ab91e0f56ca6efc6f7f7d53b6|
-|ac.com.au|2019.10.25&nbsp;14:49|175.32.152.161|9735|024a853d9cdedafc164e49c2cef301966e5a78091322a84175b52d059d71b4d672|
 |03c80be3937717b502e6|2019.10.25&nbsp;14:19|188.254.172.147|9735|03c80be3937717b502e66dc6cf8ba2881c9e68a8398bfa08c2866babfc88a729f3|
 |Coincept.com|2019.10.25&nbsp;14:17|178.238.227.220|9735|036403186a467144ea6aaf4d6e42f7544e91a78e0f8ebd8e38bd2054b953d82e3f|
 |bitcoin-lightning.de|2019.10.25&nbsp;14:17|85.25.255.147|9735|03f02d965aea25de84613ad2be36573d2bd8c6d6dd47d9a516d233098c281d3ae7|
@@ -926,18 +975,16 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Bottle.li [Sam]|2019.10.25&nbsp;11:51|108.128.89.237|9735|033025e6701f5266d5c7d83859d032213708e50430c82602b8d02d152c91853811|
 |aranguren.org|2019.10.25&nbsp;11:50|203.132.95.10|9736|02450500fa04c03e76ce1f01d5338006111bf5347fabfc14bc2344d4193dfd8abb|
 |aranguren.org|2019.10.25&nbsp;11:50|203.132.95.10|9736|02450500fa04c03e76ce1f01d5338006111bf5347fabfc14bc2344d4193dfd8abb|
-|blackgold|2019.10.25&nbsp;11:50|88.198.91.250|9735|02f40890af885da4673f0ee9725ee74bb2c66d6491cc4334056a2701057993e61d|
 |fixedfloat.com|2019.10.25&nbsp;11:50|185.5.53.91|9735|037f990e61acee8a7697966afd29dd88f3b1f8a7b14d625c4f8742bd952003a590|
+|blackgold|2019.10.25&nbsp;11:50|88.198.91.250|9735|02f40890af885da4673f0ee9725ee74bb2c66d6491cc4334056a2701057993e61d|
 |siftsoft.com|2019.10.25&nbsp;11:50|185.29.9.147|9735|02875ac2c27835990ef62e5755c34264b2c39f51a41525adc5e52a7f94b3a19f8b|
 |BonsaiSoftware|2019.10.25&nbsp;11:41|157.131.253.69|9735|02a5fa844d310f582d209fe649352b225440b8a54e77361f229bb92ee263c87e6f|
 |xmrk|2019.10.25&nbsp;11:34|92.245.194.234|9735|033878501f9a4ce97dba9a6bba4e540eca46cb129a322eb98ea1749ed18ab67735|
 |LiteStrikeBTC2|2019.10.25&nbsp;11:32|188.192.56.178|9735|025bbebdfae7bc00b86433db8256b74283eed0e61304a5f56a7e11cd7f92073b8c|
 |Zap Technologies|2019.10.25&nbsp;11:30|157.230.144.234|9735|03634bda49c9c42afd876d8288802942c49e58fbec3844ff54b46143bfcb6cdfaf|
-|waffi [LND]|2019.10.25&nbsp;11:21|81.221.67.58|9735|02ec4882d8a0b54f20b46c37f4a166f22a52e19da52e2ec1e1d792c4106804bdcd|
 |LNBIG.com [lnd-31]|2019.10.25&nbsp;11:19|213.174.156.75|9735|03e5ea100e6b1ef3959f79627cb575606b19071235c48b3e7f9808ebcd6d12e87d|
 |LNBIG.com [lnd-02]|2019.10.25&nbsp;11:09|46.229.165.138|9735|03d37fca0656558de4fd86bbe490a38d84a46228e7ec1361801f54f9437a18d618|
 |MaxBolt.club|2019.10.25&nbsp;10:47|159.65.130.238|9735|0283183481c1421d43d591b0e330221e741ba41f0f846a5b482a37cff46b6998ec|
-|Fold|2019.10.25&nbsp;10:44|35.238.153.25|9735|02816caed43171d3c9854e3b0ab2cf0c42be086ff1bd4005acc2a5f7db70d83774|
 |Jimmythepad|2019.10.25&nbsp;10:42|121.7.239.224|9735|02cec4dee95aae60c3b4e1008be92324f349c5d2b6d311af5f2f44fa41b9587b1f|
 |02398fd3bd9b43a86c49|2019.10.25&nbsp;10:41|128.199.189.38|9735|02398fd3bd9b43a86c49683865da7789e15744e92849bc7cee85c7b7b1729436e0|
 |LNBIG.com [lnd-17]|2019.10.25&nbsp;10:40|46.229.165.133|9735|03fb822818be083e0a954db85257a2911a3d55458b8c1ea4124b157e865a836d12|
@@ -981,12 +1028,11 @@ Last updated: 2019-10-31 00:00:06 UTC
 |LNBIG.com [lnd-13]|2019.10.25&nbsp;02:30|46.229.165.152|9735|035f5236d7e6c6d16107c1f86e4514e6ccdd6b2c13c2abc1d7a83cd26ecb4c1d0e|
 |Bitcoin Rising|2019.10.24&nbsp;22:30|172.81.181.253|9735|03cfb64a81ad9b94e6f3fa2e34218c9242606890bbfb65a0bb57d603158e6c590c|
 |jfbnode|2019.10.24&nbsp;21:26|84.227.14.62|9735|03c73e43e92fab12af3461f723901f0bcdabdfdcf9b74973ad876bf0bff96a8676|
-|BootstrapBandit [Paywall.Link]|2019.10.24&nbsp;21:21|52.87.176.11|9735|033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500|
 |Sagittarius A|2019.10.24&nbsp;21:21|5.196.73.52|9735|03a503d8e30f2ff407096d235b5db63b4fcf3f89a653acb6f43d3fc492a7674019|
+|BootstrapBandit [Paywall.Link]|2019.10.24&nbsp;21:21|52.87.176.11|9735|033868c219bdb51a33560d854d500fe7d3898a1ad9e05dd89d0007e11313588500|
 |03ccd47e986079bb84fe|2019.10.24&nbsp;20:23|54.163.12.170|9735|03ccd47e986079bb84fef92ad1a49626398908a842797fd4db64ce41d1bc2bc252|
 |scumm-lnd|2019.10.24&nbsp;19:56|77.53.53.196|9735|03a2b9adc3086b0ba7844bcda0159f11967e5558e430f168ee7ee797cb9830d742|
 |Platform9and3quarters|2019.10.24&nbsp;19:13|71.225.72.81|9735|02065e25c272203440b66ea0ba66601d1248564554d0a68472b82511af54288120|
-|Sparkswap|2019.10.24&nbsp;18:58|54.215.242.60|10211|032c17323caa51269b5124cf07a0c03772587ad8199e692cc3aae8397454367d34|
 |halogensupplier|2019.10.24&nbsp;16:50|162.246.11.189|9735|03fcf7df6900853b7b233f695efb2be5a45da9c9d3ea6cbfc6c2e74bfb6a8aed80|
 |&quot;Cheese&quot;|2019.10.24&nbsp;16:36|94.177.171.73|9735|0276e09a267592e7451a939c932cf685f0754de382a3ca85d2fb3a864d4c365ad5|
 |standwithhongkong|2019.10.24&nbsp;13:51|172.81.182.181|9735|0382019f91e0d8a5e497849052b5bedad4329bc88ca24b5dbf499c0bea1af5b6c5|
@@ -1031,8 +1077,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |PatBoy|2019.10.24&nbsp;00:53|198.1.231.6|9735|02c16149d3ce6ccd670e2b719c9093f3cf61e3c775cd2f9fa879c97924c4b9d3a6|
 |LNBIG.com [lnd-10]|2019.10.24&nbsp;00:13|46.229.165.147|9735|02bb24da3d0fb0793f4918c7599f973cc402f0912ec3fb530470f1fc08bdd6ecb5|
 |Striker|2019.10.23&nbsp;23:55|74.108.25.169|9735|030b04c5d37b8cb3acd324edefed38e170d355c8f0953718307b894321d576615f|
-|BitCoPay|2019.10.23&nbsp;23:55|92.194.33.118|9735|032c01c7ddcbd4f7ee8da1f78ab71d6ce7f454d6bfd0a81f03ed36506ba7477b53|
 |BitCoPay|2019.10.23&nbsp;23:55|92.194.48.97|9735|032c01c7ddcbd4f7ee8da1f78ab71d6ce7f454d6bfd0a81f03ed36506ba7477b53|
+|BitCoPay|2019.10.23&nbsp;23:55|92.194.33.118|9735|032c01c7ddcbd4f7ee8da1f78ab71d6ce7f454d6bfd0a81f03ed36506ba7477b53|
 |yurun.thunder 💡|2019.10.23&nbsp;23:51|176.107.184.29|9735|03487fa0212243e20cb6504d5b93a144d0bc4d83d3d8a083691037a8892f9e5522|
 |lnd.lightning.guru|2019.10.23&nbsp;23:51|159.65.39.11|9735|02efe789fcf1d791e9dfc9494b81a9aea7aa0c2a8744c66165d16dc47ce6b88b91|
 |bitcoinshoppingcentre.com|2019.10.23&nbsp;23:43|93.176.177.0|9735|02b3a79949fcb53da53050018837c8eff56ff571ef1e0552a80edeedbd7320ffb3|
@@ -1054,7 +1100,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |MiltonPusser.lightningnode.eu|2019.10.23&nbsp;19:59|82.197.218.97|9735|020e56a13babec99abdc2c4afbe34e1e44230d79b234c059fd4ff1e367765fdb1b|
 |ln1.1sat.org|2019.10.23&nbsp;19:47|109.201.142.116|9735|03c2b5e97173e2ff7baea106a34a165e0213b6c5148441ea97785b35a78a506299|
 |powehi|2019.10.23&nbsp;19:39|84.250.13.94|9735|0351876efe01167a1f81f988ef470311eca17661dd1994bad01861d4a54565bc5c|
-|dilboy|2019.10.23&nbsp;19:21|209.6.210.179|9735|027d7f94667974b10d3e8330de403111229669273dc9024745d195ba035d746e57|
 |Caffeine|2019.10.23&nbsp;19:21|84.81.234.185|9735|022d509049e143b1c5fc5383210acb97a3e5a4b0e0d31dd4c920eee92a4aacd312|
 |lowly nod geese|2019.10.23&nbsp;19:15|51.15.123.104|9735|0292c23221f69527d74dbaad22ad9e5c6d370d742207dabf01c40db9c7d8cf18d2|
 |BaraBoom [LND]|2019.10.23&nbsp;19:05|5.10.5.22|9735|02a9acaa1500f1e9f756118b2a7ed0447e6ca991ee6a9cbfe753d88f0dfae8cbe9|
@@ -1097,14 +1142,12 @@ Last updated: 2019-10-31 00:00:06 UTC
 |ln.interlogica.it|2019.10.22&nbsp;21:48|91.207.150.170|9735|0202b1f1a4a74876e6c03bc135541ab89ad555bff38cc8984e6ba8cab1a16db4ed|
 |03e15b57b84979a9771d|2019.10.22&nbsp;21:42|52.76.152.228|9735|03e15b57b84979a9771d73a2cd49c9588f46d5131ee30637e3d653f01e945f003e|
 |CryptoCloaks|2019.10.22&nbsp;21:42|68.169.217.236|9735|03668e08fefdc45f91d21dada56f7fed9424dc1092390b88e34a4f119fa4a9e002|
-|Dexpa [LND]|2019.10.22&nbsp;21:42|104.197.5.242|9735|02a54deb8d0f11d47c6f55cec5e673063c9fad2619559e8d87ae3eb4c381668449|
 |ln1.bitcoin1212.me|2019.10.22&nbsp;21:41|45.76.165.162|9735|020d6989eaaf107a020501607aae8f489dd207cc495fbdd6b80eee14336ed3217c|
 |TheCrypto.City|2019.10.22&nbsp;19:33|176.97.247.9|9735|02cd5505d531a86b3152050abfe656b9fd947682eaaca3d6e6e2bd7d4d8322c3db|
 |02f2c37041e5f26f8e72|2019.10.22&nbsp;19:25|111.220.109.91|9735|02f2c37041e5f26f8e7250fdaa3adbdde0d563d5100fdf3de5030ecf0a80a1ac35|
 |ZIPPYD|2019.10.22&nbsp;19:22|98.26.252.31|8333|026b73b3ff65200026db80c580fa5004e79db4e13cffbcdd37cbff84bd5e16bfcd|
 |03800a65b5f3365ccd4c|2019.10.22&nbsp;19:22|80.211.243.154|9735|03800a65b5f3365ccd4cba89e6e049bf95e1bf36445a1f18e18b2d2f0027127046|
 |BitGo Alpha|2019.10.22&nbsp;19:00|35.233.233.86|9735|03bdeb19815dc74c8413a196da388da8b4fababe522355a24c51730bae5007b66d|
-|craig|2019.10.22&nbsp;18:35|109.148.190.3|9735|039e41d2a2248db0709edb3bce857e8b821c85a55cd0c18890e420cc18ae91cdf5|
 |BlackPearl|2019.10.22&nbsp;18:12|2.234.122.191|9735|031d2bbc75802689312220a017c6b51fa246efc59c7aa9355f6f7395038ffb4d6a|
 |PEHIR|2019.10.22&nbsp;16:46|81.229.101.101|9735|021569ba49396884ddd2d59027c0f9426e876b44075faec456d971cc97407046ef|
 |FULMO 2|2019.10.22&nbsp;16:46|167.86.73.199|9735|02b6dabd436275044399002241195b82b7fed517b226d0a109b1d07a39d7b4a91a|
@@ -1115,7 +1158,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |silver-lodge|2019.10.22&nbsp;16:45|136.24.40.148|9735|029bfd026df87bdd7820a0bdb3faec20210f03faf5cf47d0b45b1c2da41adda785|
 |lightning.burleson.tx|2019.10.22&nbsp;16:45|108.226.252.255|9735|02d98ee97760aba8124606c177d0e4c246fc6cd7bd8f8bd3857f20805a62ecbc26|
 |Blueberry|2019.10.22&nbsp;16:45|71.82.246.20|9735|03290e05131a0bc632d4fb7870aabc0e6d809451d2fd07286bed5385e1e1fef2b8|
-|wavylabs|2019.10.22&nbsp;16:45|137.74.107.152|9735|033181a72d4d61c6f3138240d98994e9553726bc65c892e9fe7a7b728a54005a36|
 |TheHub|2019.10.22&nbsp;16:42|176.12.25.146|9735|03e28223dc9b962d824c4a41dd6a2d178a72004594b87aa28cbfdf63e551fbef33|
 |FirstBlockCapital|2019.10.22&nbsp;16:31|167.99.180.92|9735|03f47ba61341a704b0910b6d1fc8a938bb97152e8df94dfc142816d2721b5d5c73|
 |super_node01|2019.10.22&nbsp;16:18|62.77.158.141|9735|03905e28f441d1d0d91d42f7d4873e686c25cb53bfe849b69e5fc2655de71a89a7|
@@ -1124,10 +1166,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |BitDice.me Provably Fair Casino|2019.10.22&nbsp;15:34|95.216.68.44|9735|034b7b1b6f9d6c98c5db180a65987f407d46da3bbc706d5e7e326b1167310cd542|
 |TOBG-LnBigHub|2019.10.22&nbsp;14:48|5.35.248.52|9735|031a5b68b9ce7b9db5cf3ceeae69626cdd5b25eec35de4b2ca85c8ac245fbb0e87|
 |NodeCheck.io|2019.10.22&nbsp;12:02|91.224.118.181|9735|0348aa24486a95aa32ee2757303dc872126b6a0afd57892c8b20806e3905efeedf|
-|Blockchainology ⚡️ [nodl]|2019.10.22&nbsp;11:10|5.67.246.149|9735|02a606d47e7ad9c1b05034abd3b0b805b05bc2bd8259cf0ac281cf0c7133fd6946|
 |ln.taborsky.cz|2019.10.22&nbsp;09:45|37.205.8.78|9735|0265fae305778b7cb157365f70cf3a2047d2cad5c1ccc5f550c6d8a033084a8ea5|
 |shop.nodl.it|2019.10.22&nbsp;09:39|195.95.225.243|9735|028b3ba3aa14be49e5096758c2b062114251eafd9a3dec502c64f3f079322672cb|
-|foodforcoins.org|2019.10.22&nbsp;09:07|84.200.229.30|9735|02efe4469330e3c5addb11418182a3b9ae15803604f72121ad0cbe1884bba6db3e|
 |Pinky|2019.10.22&nbsp;05:52|188.165.2.4|9737|03a5886df676f3b3216a4520156157b8d653e262b520281d8d325c24fd8b456b9c|
 |Hong Kong Lightning Hub|2019.10.22&nbsp;05:51|185.200.116.131|9748|025cb2d324ae423d32984c7fc74edd7185b9fc9bd473d389f12483e3738d526600|
 |nodl [LND]|2019.10.22&nbsp;05:29|82.37.177.225|9735|03798c0b544f240f6aaa24ad235c1ab3a57179cb1431c7e9f378bd67d6f88ff6a6|
@@ -1140,7 +1180,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |ENIGMA|2019.10.21&nbsp;23:23|172.81.178.11|9735|030747e32c0428d6bdfe468ab91ade9cc11daf4aab2b7033d7e7fbe39449167982|
 |satoshifor.me|2019.10.21&nbsp;23:15|139.162.12.50|9735|0313aade7a644e0a06ddfed0aff876e52ff1cac8d2b2f3871ff41cb4d5f9afdddb|
 |Bitkoins.nl|2019.10.21&nbsp;22:06|82.217.214.215|9735|02888244029c5909593038ab19f269947c720de3423e491791b46c7c92f76279b6|
-|ninjalnd|2019.10.21&nbsp;21:21|87.197.191.30|9735|0282665335781f51f496b99aae65f11a2172c6d16642626ca1d39536ef663daf27|
 |TICKERPLANT|2019.10.21&nbsp;21:21|217.160.185.97|9736|023bc00c30acc34a5c9cbf78f84aa775cb63f578a69a6f8ec9a7600753d4f9067c|
 |***ROUTE 66***|2019.10.21&nbsp;20:57|173.212.220.9|9735|03434a39cd9a537c852fc8fb72454086d726f9111e9f730cef4985c39c11fae944|
 |xenoky|2019.10.21&nbsp;20:23|93.50.177.66|9735|02c095d069538f96bf14c5f90f6c0851bdf354a0ec86039a24bf38a73f705adc2c|
@@ -1157,7 +1196,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |&hearts;|2019.10.21&nbsp;15:51|212.51.156.139|9735|03cfea6e01d8735d29863d0ecc0f637e5da25c3afb1894e6cb1c25cc9c52dbceef|
 |🐬Pieces⚡|2019.10.21&nbsp;15:21|66.41.66.160|9735|02247bfd21d78d688de5ac49873d8bb66ef7ffd50a34c8ffeffdbfd23554cc2173|
 |Lightning.Viena|2019.10.21&nbsp;15:14|84.112.42.60|9735|02d79c968a2283ae756da4c2e5dc0b68f8f7e391379516f1c59306610aced1adbe|
-|Reckless|2019.10.21&nbsp;14:51|87.65.0.172|9735|02bd352b93c81d2d9e95f4d9556d334b037ba65d4680426a6a37343e8cfc694912|
 |lncm-dm-2|2019.10.21&nbsp;13:40|202.44.224.130|9739|03935a378993d0b55056801b11957aaecb9f85f34b64245f864c22a2d25001de74|
 |OpinionatedGeek ⚡|2019.10.21&nbsp;13:00|95.179.191.59|9735|023c5b5667b16cd7fcca5591a8c0f47beb76c9405e16a4f2d6b42c7b9904a7f0e6|
 |ln-hub-de|2019.10.21&nbsp;12:44|95.208.76.3|9735|03142b162b4e55237e49dc8aadf919c99eface419c21869339687f365c93675886|
@@ -1166,9 +1204,7 @@ Last updated: 2019-10-31 00:00:06 UTC
 |schulzemic [LND]|2019.10.21&nbsp;11:42|85.212.230.14|9735|0381dbc5290c1c5a02693be10093e45029044fdcdffe5011a17fecb96281c5d202|
 |lndbroc8sj2f|2019.10.21&nbsp;02:26|108.216.155.105|8493|021f37da8aba0c2d3f755515ade6ef29c159e949a56d42c9d116d9c1c01748d490|
 |lightberry|2019.10.21&nbsp;00:12|86.61.104.190|9735|0255b0812589b3d10657655394bea298cd9f2033d9220f313607eb495291f2a729|
-|raspiblitz|2019.10.20&nbsp;21:02|47.61.199.189|9736|03ca94b753c01471b88bb16ca26bfb17c5ac13bd8ff177cb4865101ac11e7b510a|
 |Uruha_LND|2019.10.20&nbsp;19:20|124.83.97.149|9735|0353308936d64e44970186cb43f215fbce1e2ab8631da17c545fadb0a79312229c|
-|ln1.nakamoto.sk|2019.10.20&nbsp;17:54|88.212.44.33|9735|03ce2ff3fd05e8da3b07ec0058f21e53de9d21de04b7908ba5b0e4764413b4ac84|
 |Red.de.Rayos|2019.10.20&nbsp;17:19|87.78.118.93|9735|033ac2f9f7ff643c235cc247c521663924aff73b26b38118a6c6821460afcde1b3|
 |formicary|2019.10.20&nbsp;16:32|71.105.165.64|9735|03a2c0955af2f254849c636dcffa1dc963c99f4141e244fc5ea79c98c72b983d06|
 |99CentStore|2019.10.20&nbsp;14:17|192.168.1.169|9735|020bae58f77e89686f48247a22e351eb4538be46d71e14d7dcf1faddfd949adebd|
@@ -1198,23 +1234,18 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Neutronpay.com|2019.10.18&nbsp;20:45|165.227.47.249|9735|02c73c8ac3f37bb28d9fc3819dc17baecdf24b137d476a2a9e22395d490d842bec|
 |Bitcoin Association of Hong Kong|2019.10.18&nbsp;20:36|172.81.181.220|9735|038ff6ec3fb52c23f1ea2f341bd7f9dd899766380750e4ce8c76bf12e11e1bf9a1|
 |node1|2019.10.18&nbsp;20:36|5.9.247.73|9735|0361373e89c24abb40998754e3d313543f8308bb254cca965eb8c95c9bc6c2736d|
-|Boltz|2019.10.18&nbsp;20:36|104.196.200.39|9735|026165850492521f4ac8abd9bd8088123446d126f648ca35e60f88177dc149ceb2|
-|Montreal|2019.10.18&nbsp;20:08|96.23.239.29|9735|031118c94f180709cb566f86396e345f7ad800a0be2d477b0c930a9677da91e46b|
 |dadobi|2019.10.18&nbsp;19:34|40.68.186.86|9735|029ccbe1f4835d0fd4258d215a03a3ba6860ff2c49ab58b9207aa27455c5d1815c|
 |BLESK|2019.10.18&nbsp;19:28|109.230.21.40|9735|039ba6a2953bac3fbfd8ade06efba861802063876a5198a52c1ce20266bfbc32bb|
 |glc-node.origin|2019.10.18&nbsp;13:56|116.206.245.220|9735|03ddd83f5034c9312a01950bbaddc8df127ddc52840a989a54c8672124e883816f|
 |AshNode|2019.10.18&nbsp;13:27|58.173.253.26|9735|0208afe8bcd72e7b8b06ae8765b99908930bd275eeaf4fe73d50afa6491e41b20d|
 |kademlia|2019.10.18&nbsp;09:20|37.187.3.112|9735|03f2e1a52f35cc0bd3cfda53864cd663b98345688458761cf039d57f22d1c4347c|
 |BCash_Is_Trash|2019.10.18&nbsp;07:33|73.68.158.219|9735|0298f6074a454a1f5345cb2a7c6f9fce206cd0bf675d177cdbf0ca7508dd28852f|
-|Pipsqueak|2019.10.18&nbsp;07:22|75.87.160.184|9735|0307df05fe55a2700153976b8e643915ff01d14d4d0f8d3cce6145e29933a528ee|
 |LN-Fukaya Japan 020c92d71dfe47d4|2019.10.18&nbsp;05:46|106.163.158.127|9735|020c92d71dfe47d49d322eed910064787973dff96c05a39d75a75d7e8f33aead4c|
 |Fabians Lightning ☇|2019.10.18&nbsp;00:17|217.101.108.206|9835|0214041761821afc171b6907ee9ba36cb86307c3454305137b94a23fd81fcb4089|
 |garethtdavies|2019.10.17&nbsp;23:41|159.65.71.195|9735|0314dc1c496290a33f8fba3e78332418b1c136d9fb2a14d4a181e3cc9a653ee2f8|
 |sqlserver.science|2019.10.17&nbsp;23:40|184.70.33.190|9735|02dce7cacb2827e75b31ea694045c3736a234d629483cfc43eb7d9088c89e0c803|
 |RJK|2019.10.17&nbsp;22:32|93.241.53.200|9735|0220603d03ddbdf36b8f1143076f8ab923e6fe3803d6baa747f9629f680de2bb65|
 |BLITZim4derWALD|2019.10.17&nbsp;22:29|178.191.70.45|9735|037e074ea4621b7ab5e83404577bc8e5b720d181be95cd0b2d77d473e5482854e1|
-|PayOnline.Tech|2019.10.17&nbsp;22:29|185.153.197.25|9735|0394e00d56a9e54a3d29036d218a607eb87257c10a4109fbb964b5c5c03c405329|
-|zerobps|2019.10.17&nbsp;20:22|79.62.233.36|9735|02309f3556d51e9d855594762dcf68cb283fbfd7e48618b6cecb8cd90e2e34d8ad|
 |LuckyThunder.com|2019.10.17&nbsp;20:03|51.83.41.129|9735|02294ffbd3619e9dcd7e0577d1203ff06828625f421647950888a19cf30b5a635f|
 |modularsynth.fun|2019.10.17&nbsp;18:39|172.81.183.244|9735|03b907799963aa703feb3951634fc5a57d74e52855f292da67045be418f48638c9|
 |BTCPay|2019.10.17&nbsp;13:08|172.81.181.237|9735|028c1da32603fce64118e469ffe2cfeec04d1c4bd88205efb4e8b4208f77a8064e|
@@ -1232,7 +1263,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Leetning.com #1 SWE|2019.10.16&nbsp;22:12|79.136.31.253|9735|03a5fd566492a69f3653ca464c23d8678ec19634c440baa9a1366c9b39c89512cd|
 |FastForward|2019.10.16&nbsp;21:51|45.76.39.125|9735|0317d6b11e81729192aab651174991a32e566786a7abb45b88898ed27e218a15e6|
 |tomjodh.nl|2019.10.16&nbsp;21:51|212.24.102.21|9735|02600e4f3b1c93c930314ddf236129cb15d81d211bd80a3c74b02b0241e31db63e|
-|SIGHASH_NOINPUT[C-lightning]|2019.10.16&nbsp;20:41|82.255.152.32|9735|03678b4f041fbfbeebcafc076469df75decf81da20a53bd490172e83ce532df1fa|
 |5150|2019.10.16&nbsp;20:35|82.194.153.233|9735|03b9b1374cf6986b99b1c727a106a07493ab7c28ac5edced251fdb7c41834ad5e7|
 |pieraniel [LND]|2019.10.16&nbsp;19:21|178.26.165.115|9735|03aedc5302d3fa4c33eb84f98287a78268d0cdfa70624f7708664264880f6b482c|
 |FunTimes|2019.10.16&nbsp;19:19|82.14.155.224|9735|0303a49b5a91f2ee58f7fe539fa026e0e87d84fcf4d3fc216531b72679c93a656a|
@@ -1247,8 +1277,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |hansieslnd|2019.10.15&nbsp;10:17|86.91.255.121|9735|0372b06465e770cf5bf39c65de8dc2425cf649a6eab00cf08d192f0edf35fa5cf5|
 |MyPocket|2019.10.15&nbsp;09:33|87.99.79.121|9735|0286a857844b11bc306d3dc32d82d5390b466d611b6455f18dd96e6fc18b2e765e|
 |HODLshop|2019.10.15&nbsp;09:21|90.146.253.43|9736|03c75ddddd9d0c8b087fb8ac77199c2a132c78b011ccab893dc6a2735ac30b8179|
-|ACINQ|2019.10.15&nbsp;08:33|34.239.230.56|9735|03864ef025fde8fb587d989186ce6a4a186895ee44a926bfc370e2c366597a3f8f|
-|t0mix|2019.10.15&nbsp;07:54|78.141.123.99|9735|0214ec84c84827dd4911de56d2ecb77d367c6f24c658b8acfe4826b01968e45594|
 |EnlightenThing☇|2019.10.15&nbsp;05:32|173.249.58.30|9735|0357f8170b3a41efcc053e3b1957580bf6c1ab4a0f3125bfafc31040c02228239a|
 |hirish-ln|2019.10.15&nbsp;04:34|5.135.34.152|9735|036d81bb87af589f949dec53af1b3121c84048d0913eb56945cbbb62c5cb4fcb6f|
 |muchbitcoin.org|2019.10.15&nbsp;01:06|107.181.189.34|9735|03d9a5341083d9ae16fd4f6fc117ed8a7f25689c02d0e3f4a955d45105e5ba9c63|
@@ -1264,7 +1292,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |btcln.dev|2019.10.14&nbsp;00:56|47.244.200.183|9735|0393e8fc8d915e64bdbbb02519f305ad9ddc422ba6c93a57d6b190aacdda7b1415|
 |Joltfun.com Game Shop (CLN2)|2019.10.13&nbsp;21:44|54.38.71.76|9889|032ebdae3314f072acd70e66e18572e6ba27f96918009369585e7cdcf36af3cf9e|
 |mainnet.lightningconductor.net|2019.10.13&nbsp;18:19|18.191.89.219|9735|03c436af41160a355fc1ed230a64f6a64bcbd2ae50f12171d1318f9782602be601|
-|DSlightning|2019.10.13&nbsp;17:26|125.24.36.70|9735|036955ac40079f26249d19a086d1cdc193d7f232ffbf64f4e6453e056709ded387|
 |lnTHOR.com|2019.10.13&nbsp;16:29|45.56.83.91|9735|022457e61da38e1a7cac56a054eb0ef225d84dfc6b932dfa119ad7fe6fbecdb71d|
 |HSS56|2019.10.13&nbsp;07:13|77.118.131.227|9735|0217bf1e1fdd7118a71affa77ad77a55aadb8d32311c183c06468d40384b4e6662|
 |TFTC☇|2019.10.13&nbsp;05:26|35.166.136.162|9735|022c1f1ec7f9f065056c97f32a0f2275db0bc74583630c6592e7dda2d92df8e03a|
@@ -1310,15 +1337,14 @@ Last updated: 2019-10-31 00:00:06 UTC
 |HwindLN|2019.09.04&nbsp;14:28|52.175.202.247|9735|032ee599ed949fd4e0e639fd17f75a641b27843fb3b983d0e144ac958b9996713d|
 |MUTATRUM|2019.09.04&nbsp;14:00|83.162.155.18|9735|038bcc6471941c7d6c14a8ce5b7159d8f73a3a0bb9a93e8896bcb892e14552658a|
 |Vondburnt_node1|2019.09.04&nbsp;13:47|24.4.82.115|9736|03c44a3fef1637aae26c96bbe932baf5094b6f48a060d8944bd32d4f67032cc027|
-|SOVEREIGNHOMININ|2019.09.04&nbsp;13:47|18.223.138.245|9735|02827a7ba367d10a29f0a178be878f737292889d1926b40301780d7e1402a90a72|
 |🚣CapitanRetardo🚣|2019.09.04&nbsp;13:47|88.198.55.131|9735|037a3b5518b90c9f2ce4034342f0a36a29ac71ab5f7beb00ef17995ad8ffae5ef9|
+|SOVEREIGNHOMININ|2019.09.04&nbsp;13:47|18.223.138.245|9735|02827a7ba367d10a29f0a178be878f737292889d1926b40301780d7e1402a90a72|
 |dadobi2|2019.09.04&nbsp;13:15|40.68.186.86|9737|03eb4425070e2d1f3ce13c550e8e02307270039aca1a0603b9c56193923cf66324|
 |magic777 [LND]|2019.09.04&nbsp;13:13|69.127.98.78|9735|022d465e8a23a9c1e00adfa430bc2b446c6438f09a4394fa996143f4e883619850|
-|santacruzwaves|2019.09.04&nbsp;13:13|71.198.100.254|9735|026ef5665cdb4f226b34d3b61866695b769099fb5675bd0cd6c1050a1b851fd45b|
 |02b775b4d8e51f609148|2019.09.04&nbsp;13:13|139.99.123.188|9735|02b775b4d8e51f60914853ae55a2cf38a254163bb2639cd15dc0dd419612c43b71|
 |dadobi1|2019.09.04&nbsp;13:04|40.68.186.86|9736|03137d8103732bff159208ea142c5a57a2e97c299b2c368a585e6f857cb123e7f6|
-|BTCtokyo|2019.09.04&nbsp;12:13|157.65.242.66|9735|02f3c32b3ecd2e258bdbeeab5748a47fce7f8b6ba4e169511fee5555f9c6ed94c6|
 |BTCBeans|2019.09.04&nbsp;12:13|172.81.182.142|9735|02b8e9576f1ade4f339f31802d9cf6186a7e424b5889dcaa12ff9bf860602dd32b|
+|BTCtokyo|2019.09.04&nbsp;12:13|157.65.242.66|9735|02f3c32b3ecd2e258bdbeeab5748a47fce7f8b6ba4e169511fee5555f9c6ed94c6|
 |BambergCityNode|2019.09.04&nbsp;12:07|217.91.155.235|9735|039a41344ea8949727bc7aa5fbeef0ef08726c0c9c1c064b07b0e18a3fc9bb5c53|
 |Fastbitcoins.com|2019.09.04&nbsp;12:06|206.189.26.91|9735|03024ff9b2cb3967a17fbc4d69a4ec9c1be5448d77bb58d7eb379faebe410c8db3|
 |dcdcdcdcdcdc|2019.09.04&nbsp;11:43|99.164.139.172|9735|030738312df2deb10b253faa6e9470062399a2b383cab50b9cfcd10c4f2316303c|
@@ -1335,8 +1361,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |FreeBitcoin|2019.09.04&nbsp;03:30|94.134.150.113|9735|024dcb28330bb766def5e85e064dab3dfb472419d855d05b1e32637c4e7339ada9|
 |ACHPAY|2019.09.04&nbsp;03:05|54.169.18.25|9735|03783fe0ad682e695e1d132df84222066d483599b5b49b879a7c6aeb66f57adb56|
 |NodeWork|2019.09.04&nbsp;02:51|92.193.44.104|9735|02e8dec9b8449d78c64764717d36f05f30057f817895d56dc487b5972832d815ce|
-|lightningnob|2019.09.04&nbsp;02:22|170.75.163.252|9735|03bfe4008a3dcf2f8f6d892d00e61086abdc23b4bdeae59319e9ad884b2038166d|
 |ANI.TRAMX|2019.09.04&nbsp;02:22|142.196.232.55|9735|035f4a5671b2dcab14b3e610ca916e9864c3203b8f4bb825cd8b5732e02f864034|
+|lightningnob|2019.09.04&nbsp;02:22|170.75.163.252|9735|03bfe4008a3dcf2f8f6d892d00e61086abdc23b4bdeae59319e9ad884b2038166d|
 |Omnitrixx2|2019.09.04&nbsp;01:58|3.0.165.150|9735|03cd8d692b963b5abcd451607ab7a8a9c1eeee69df1adb3c1ac575e1f8be3b8fee|
 |dsberger2508|2019.09.04&nbsp;01:47|24.253.110.226|9735|029de09b9374a200d8ee17c647f6bd49d9e1071e36b41854e5c8c6c67c038b1d4a|
 |TechH|2019.09.03&nbsp;23:37|92.220.251.74|9735|0338fdf3383eb17433a0de8e7bc7bff19a34a518e1395f69ae09c8e52fa565655c|
@@ -1349,13 +1375,11 @@ Last updated: 2019-10-31 00:00:06 UTC
 |SatoshisVision|2019.09.03&nbsp;13:38|67.86.251.134|9735|021d7477153209bf1c81060483b4c2519bde173a18cbb3b7b94fb552b79e127323|
 |shock.global|2019.09.03&nbsp;13:38|173.63.90.141|29735|034dee6a84aadb411a7ab40ece6f6777ba20d4e7a575035b49c374b4e112466cc6|
 |lnd-01.mainnet.muun.stg|2019.09.03&nbsp;12:52|10.1.1.252|9735|0249b0e7f93ced7877234fcbda889c18da768ac7c5cf2fe15384bd49e30010f5e1|
-|TriglavLN|2019.09.03&nbsp;12:07|193.77.117.97|9735|03a4d23196b17e1f338c7143edd58c0a49c555bee17b0da159cfc4c62b8c7b4822|
 |NescaNodeMY|2019.09.03&nbsp;11:24|202.186.167.128|9735|022d9a4847963807a76cef12ea8653d489ba55f1d0674ec9fcbf3816b7248188aa|
 |Double_A|2019.09.03&nbsp;11:18|135.84.207.4|9735|0361c37f8b01ea5f0b926abded5ed0300d5130a0654b0b5a4ff6241dfd0316cc15|
 |intgrs|2019.09.03&nbsp;11:00|172.81.181.12|9735|0234d70cf65a4e8974d3d49e23ec7b9792877f783f2f5dfd3882422aada18a916c|
 |ANGRYTRINITY|2019.09.03&nbsp;09:13|85.214.90.1|9735|02ef61a252f9504a42fc264a28476f44cea0711a44b2da0bd729ad52aaee9d86b7|
 |Payment21.com_BETA_LNP21|2019.09.03&nbsp;06:37|217.173.236.67|9735|02773c3ac3d4299efb983019ae71717e31b5542da7f37e4ba232a0b21be46421c5|
-|Grand-Guignol|2019.09.03&nbsp;06:02|86.30.249.21|9735|026087e0cec86201f617c6b93528091fd522112cf499eec18f778576e5f883c150|
 |fairly.cheap|2019.09.03&nbsp;06:02|46.28.204.21|9735|03ce16b71fb6f70b30321e867bcea9cc52f39531380cd6673bdd8daf257da27e57|
 |LIGHTNING|2019.09.03&nbsp;05:44|45.20.67.1|9735|03baa70886d9200af0ffbd3f9e18d96008331c858456b16e3a9b41e735c6208fef|
 |Leetning.com #2 SWE|2019.09.03&nbsp;05:37|79.136.31.253|19735|022b84e25b214b836a06f07ae5a16f11f367469ec09f44347f90d8b5de6a103bae|
@@ -1486,13 +1510,11 @@ Last updated: 2019-10-31 00:00:06 UTC
 |nodl [LND]|2019.08.25&nbsp;21:29|82.251.179.176|9735|030794cbbe8250ced13e1b6345e82a96073dfc78e667602f8279a73de48c1a9636|
 |Revelation|2019.08.25&nbsp;20:58|76.88.3.103|8333|02b8db36a01866d78cba98109886495f3c13c4b3668a8328b582a0c4fa460b4e8d|
 |032434b430441d26d807|2019.08.25&nbsp;19:01|192.168.25.167|9735|032434b430441d26d8074424326078a9fff167e4577e576eb4405f8f67cbe3a2e4|
-|CodeEngine|2019.08.25&nbsp;18:54|144.134.44.134|9735|02fead3d3562ae11e2c91ef5c87470700c9cc2b93e205b51fe91be5c4a5f2b258b|
 |ickycage|2019.08.25&nbsp;16:47|109.230.30.221|9735|0201be5b63e839fc57c66c7ab21dcea3aa79001de132f29ade96a0c2d6680c8eaf|
 |RapidLightning|2019.08.25&nbsp;16:45|84.208.164.200|9735|03c613267a1745d08984621be6a710487cb97eb595f7672a550cbd10a6f70c873f|
 |031972edeb8cceab5e59|2019.08.25&nbsp;09:44|0.0.0.0|9735|031972edeb8cceab5e594f66ac502060bae5ff8dbbdf7394bb9d4d9cb0012e6136|
 |oliveiraln|2019.08.25&nbsp;05:37|2.82.223.39|9735|039fcde7836a25c0d37f24ac271128115e589bcee7d059d468ff2e59cc3fdf5dbe|
 |Buda.com|2019.08.25&nbsp;05:37|35.237.2.82|9735|03ed7a880e89471a8493b156e97528bf7e89747cdb1559e05df0483fc8109cff8d|
-|one.lnpay.io|2019.08.25&nbsp;03:23|104.248.170.25|9735|03a45be5b499702903042ab8388151c59c0c5a624d73fe40b0d87780ca75c2f720|
 |gromtemazo [nodl-cloud]|2019.08.25&nbsp;03:07|85.208.68.18|9735|03d5a8b99bdb355ecf0ec34fe299a4c062b70f152d44154a556d24266a28b1d308|
 |resdat.com.lnd|2019.08.25&nbsp;00:44|12.17.189.70|9735|030043d0a2cfb69d80867094eb030f8abde7a5dc36e1a0faece73e614cf779bde8|
 |CARNIKAVA|2019.08.24&nbsp;20:54|145.239.239.40|9735|025a14b8ed40583d67aec92da19453e0b2d1fbbf75f96f85d3dd0ff61a51ee0490|
@@ -1548,7 +1570,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |leannode|2019.08.17&nbsp;15:52|81.217.239.50|9735|0248f9ddf6605b40871829d79f9f38c618a8f4e1ff199b5120e5991f864ad2d004|
 |TurnedOnDigital|2019.08.17&nbsp;12:54|95.156.252.34|9735|03751c375e65e3de9f91a4929c10827607a0b0d8df4cdc044fbeb70f0dbf79dd60|
 |madbaker|2019.08.17&nbsp;11:56|77.105.87.97|9735|030f5bd59457dba436dfdebceebcc3206ac8dfcd40bb1a616942253c3fcc5be174|
-|knudix-mini|2019.08.16&nbsp;23:55|84.214.74.65|9736|027986b16bb9d8c541aff8e8df339548189f3077d0f42a517f7ce57135e8a9c19d|
 |Feedback|2019.08.16&nbsp;22:36|188.113.88.37|9735|020a59b83f13698e950d5c203bd59a1d3aa53cbf0d6c9f30f92bd590a91850bd35|
 |speedygonzalez|2019.08.16&nbsp;21:37|114.23.254.130|9735|02103e435311318804a3657f886f2a5c9bc1454ba4b9b20aecab16145907962f65|
 |VIX18|2019.08.16&nbsp;20:36|84.72.189.230|9735|03f8ab9b7496be92ce370e0224661d5d2de80bca8f505d66f1226d0e6002007d2a|
@@ -1570,7 +1591,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |Madame_S|2019.08.14&nbsp;20:45|99.239.156.163|9735|0218078e511de456bba70dda5e76279a949065391f41060deccb1085ac03ee4c9b|
 |btcbrother|2019.08.14&nbsp;20:28|85.214.228.203|9735|02e113dc70965e608ba18097e8d436a12b5496adf2245792f4e58168f815f3e882|
 |CONNECT_WITH_ME|2019.08.14&nbsp;18:50|212.51.146.169|9735|032d4baebebfdeab7a2ecef2fbe109cbef10de95f05aa54090fdb687789547dbf5|
-|somaha.node|2019.08.14&nbsp;18:13|212.51.146.159|9735|02b77853653ff464339740c06e927ddcc5540487847256d342b98909532853b13d|
 |pinsert.pl|2019.08.14&nbsp;12:11|185.228.141.6|9735|03fc5b91ce2d857f146fd9b986363374ffe04dc143d8bcd6d7664c8873c463cdfc|
 |Nodesserts|2019.08.14&nbsp;09:41|185.95.254.76|9735|03df3ad591b3687f077509c3892cc4c85090a362f29b7624b8cf18781892c65265|
 |Full-lifey|2019.08.14&nbsp;03:34|174.29.217.106|9735|0307e2709ba959ed4d158f793d1f838cbab45e5bdffdb809fb51dd400773e8d43d|
@@ -1578,7 +1598,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |LightningInABox.co|2019.08.14&nbsp;02:10|170.75.162.173|9735|020211194bc7e5830673f87346e77f125c9eca59b308c041f9a54a62be8374f344|
 |santas7372[LND]|2019.08.14&nbsp;01:43|84.46.116.71|9735|0284ddcf436995a506e4d5508b2e2afa04dbc563b2c7d529191ad26ffd2ec0e141|
 |lightning.noctilu.de|2019.08.14&nbsp;00:27|79.143.185.143|9735|03a8eb40ba4c068847ba1a98bdfee2e7d0d3c2844d9cbba65e715966eda3904ed9|
-|@ruigomeseu|2019.08.13&nbsp;16:26|148.71.147.1|9735|02480676e5bda7b6c902e316c5c57b14cb7a855c287dc927f8c42abba503d64bff|
 |Easy.spend|2019.08.13&nbsp;14:32|94.19.99.71|9735|03e815367711542257b2f84413be353ad52f5a50580ca47fc9ba8efbb7bfb604e4|
 |Bitcoin_Dashboards|2019.08.13&nbsp;07:26|172.81.181.182|9735|03d91ffaf5c8ca34c8f01dfaba24654965f41b650ce67c031dbb49b0be1e965bca|
 |&lt;wdey&gt;|2019.08.13&nbsp;06:56|188.62.95.169|48001|0392966aefbb80ae470d4954dfed209d521c676e06066a30bc993629d7003fee60|
@@ -1613,12 +1632,10 @@ Last updated: 2019-10-31 00:00:06 UTC
 |HODLshop.org|2019.08.08&nbsp;21:05|90.146.253.43|9737|03d5bea67ea6cb0478411aab69a437ab8a451669f49997c78678ec3f5c14e0088f|
 |lightning.best|2019.08.08&nbsp;17:16|35.186.166.185|9735|02e186c58bf4351f2d94cbe7feb9d13bbf5ba80bff8539e34c01a3eb47b949a7e8|
 |srv01.ibot3.de|2019.08.08&nbsp;17:16|144.76.91.81|9735|025dff6e781d4c6a926a60a3311a70fb50e90f84ffca159d2c5286b88feef41c91|
-|lnd.firebo.lt|2019.08.08&nbsp;11:34|81.187.58.219|9735|036dfa466e991c038a98175697aa284b414d40e03ccf45a1a64932b3948907f7be|
 |hello_dummy|2019.08.08&nbsp;04:29|47.188.199.88|9735|0330a5e4a4ceb9837b6701c09610b9fdeb49f8e3e56d2ffaae4cc4e93bf15431d8|
 |03e66229b6063bf547a2|2019.08.08&nbsp;03:30|47.149.51.155|9735|03e66229b6063bf547a28000e33b48c5885c56e8d5a089003707d200bfd52c9faf|
 |Jixu|2019.08.08&nbsp;01:06|67.164.73.145|9735|026d0efb65ba988f2fd831d97a6deeed61d4deb6afa61003c4ced66d1ebe7e01e1|
 |0237d6151e7681d29d5f|2019.08.07&nbsp;23:06|47.221.236.126|9735|0237d6151e7681d29d5f5bb3eb447fa7bdb7fa208366a75baeef0009a28b4d1e90|
-|lnpay.in.ua [LND-corvus]|2019.08.07&nbsp;14:32|194.44.177.216|9735|0332242fc347ffb0f96c4975aa9671295ef35bb7fb795720bd15f3d006f3f9ba65|
 |ln.rene-pickhardt.de|2019.08.07&nbsp;13:04|144.76.235.20|9735|03efccf2c383d7bf340da9a3f02e2c23104a0e4fe8ac1a880c8e2dc92fbdacd9df|
 |ln.pay.2|2019.08.07&nbsp;10:00|138.68.231.196|9112|038de60a0cb43eea67e0bcb6e207daebad312a245cedd8b09deb2c5ba4bb19f601|
 |LN.pay|2019.08.07&nbsp;09:59|138.68.231.196|9735|0230d70b0506aa447a1db407cc04e41448ab92bbd373f5c9a1029a40f357fcdcad|
@@ -1635,13 +1652,11 @@ Last updated: 2019-10-31 00:00:06 UTC
 |ln.mycloudware.net|2019.08.04&nbsp;12:35|81.0.209.222|9735|03a0aaf1f9553dca05f8c9edd74c5ff6c5383337973a47015934dece259d646e3c|
 |GeDoLightningNode|2019.08.04&nbsp;11:25|84.131.59.135|9735|02f053943411c02650e41ffbb76884aed09af17877df250cf567b9021ccc5f3ddb|
 |ScamcoinBot|2019.08.04&nbsp;08:41|89.47.163.26|9797|03894b1dee1a2682abe06483b526fe43014e53470fb7cbe0817eebaff0b7b98187|
-|MOBY_Blitz|2019.08.03&nbsp;18:19|185.169.97.66|9735|02929175ac215cb282cd965d21b8bde87cf18828a4824f6a6e12b0098631b9f535|
 |Billfodl 3|2019.08.03&nbsp;15:12|172.81.181.3|9735|0214382bdce7750dfcb8126df8e2b12de38536902dc36abcebdaeefdeca1df8284|
 |LNDEurope2|2019.08.03&nbsp;06:45|83.162.249.171|9735|03ec167b8086f16f76f8e723b253089b3768f063be9013e47c00078fe1dc3c878d|
 |HIPPIEKILLER|2019.08.02&nbsp;15:28|99.73.17.122|9735|020e4c3e2e5d2fe5b6d4a1027b807142f50d944a7835f49534bfa83dbe166a00e2|
 |Cookland|2019.08.02&nbsp;13:20|146.199.216.80|9735|0318a67a056725a69f9ae65ea97e668fa89b515c9148a7d98cfbb07bb047b99bb1|
 |eyedea|2019.08.02&nbsp;09:28|172.81.177.141|9735|02eb9cc2c147c594bea9d41f4c00670d73d764760222b82ce4216ea9c8a2e2e9b5|
-|AGLD-Bullion-Desk|2019.08.01&nbsp;21:47|13.72.106.206|9735|026f9c01e266863c0539ef98bfe4ecd585e6a7ee13ec42b4e09736a5a6f7152ee7|
 |Faf|2019.08.01&nbsp;17:43|105.228.103.146|9735|027d06253d4519ad7197347fc3be0d6805d9960da2f0eea110f2dcd86e678c8701|
 |RabbitNode [LND]|2019.08.01&nbsp;10:22|212.159.19.64|9735|02deb264bf87fa523d7f36bdbc05fa7274a890b8467fdf6557c3a589a58d757d45|
 |bitcoin-studio|2019.08.01&nbsp;08:26|85.246.228.114|9735|03f98d3ea45a224f10aca4d2060deaf576cb9becd4bc2222174ef9e4f4a127b6bf|
@@ -1652,7 +1667,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |tresenza-lnd|2019.07.31&nbsp;13:40|77.53.53.196|9736|020b95133888176c1def9d03b5426aa13d6c5c7f3406c946441ce2eaab23c40834|
 |lnd.cryptoassets.co.za|2019.07.30&nbsp;20:32|197.155.6.254|9735|021227d4be948ab84613d5dbd47b6e148cfb811432d27eb92e80d28382b1b27d27|
 |bitcoblitz|2019.07.30&nbsp;20:22|178.85.165.229|9735|0207894afcc88271476647b8d45c746d4017c2e39ab09b84cae094b65b384df17a|
-|LOOPING[LND]|2019.07.30&nbsp;15:42|90.92.183.116|9735|02f302189b8c0028aa919e5441a5d7e80c82ebdff421219e34408acea58274a823|
 |BOB Chicago|2019.07.30&nbsp;04:20|167.88.117.181|9735|02310841b34230632b2e8185f9429dbf27a463270cf049a66ce2d56b524b283b6d|
 |Satobank|2019.07.30&nbsp;01:12|172.90.52.216|9735|022d6413cedd5d7717813e9a9bcd7379043b112daebfc46cf690287fa8587333ae|
 |hpsauce|2019.07.30&nbsp;00:48|80.229.22.205|9735|028a8114b4c05b6f99a021c5f5391b10a1846f76cc6352f0206c163a4986fa9595|
@@ -1677,7 +1691,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |GeekHouseNode|2019.07.27&nbsp;01:09|81.49.163.214|9735|03f48fc5acea5b3878ff216027f367762805f02feab11a038ea2d144b0a3eb8a38|
 |AmpLN|2019.07.26&nbsp;22:25|192.168.1.72|9735|02aea9892ff66bbc6bcf18c5784a99c4c94642125ce6be71e64b91e5036bc2c5b3|
 |Night_Star|2019.07.26&nbsp;21:54|188.166.200.200|9735|03eb763b37af93dd2123be0ac60389743777e350b5c2cb28f88c7f874811e315b4|
-|YellowSubmarine|2019.07.26&nbsp;12:28|95.108.54.242|9735|020cfe991127e010836cf16429af817a6af3d1441c30726293a77adcbcd2081148|
 |curlydream60e|2019.07.24&nbsp;18:44|170.75.175.206|9735|03e9698cd0367ab0111b826b7d7e9d32ca836cb6b50b51f438615dc79e2f75f669|
 |host4crypto.com|2019.07.24&nbsp;16:19|80.241.216.204|9735|028b6dc171f603467690f799b6a0d52b1f5a5b8977b1453440016ea7917f53925f|
 |Bitcoin emBassy TLV|2019.07.24&nbsp;13:48|142.93.124.241|9735|03649c72a4816f0cd546f84aafbd657e92a30ab474de7ab795e8b5650a427611f7|
@@ -1687,7 +1700,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |HACKERS-INC|2019.07.23&nbsp;17:48|24.10.41.136|9735|02990c5471b30476355ccf593824d959ab2a3e3be085aa1180743951f2d980f043|
 |LHIghtning|2019.07.23&nbsp;12:36|50.46.125.169|9736|02321d2b2bc7ef2336ce35d3644a382117feacf7c80e9dd618c9d55bf8b414dccb|
 |chs [LND]|2019.07.23&nbsp;11:28|122.110.19.182|9735|035234dc0dec3f740fa09cdde583945a8c07102326b3e17faee97e7ea176b09ec7|
-|schorsch|2019.07.23&nbsp;09:12|188.104.198.189|9735|03d860c48ffecb94dd15b53646943ae1a3eee4a53374fa88b5b385e07a2c03e4da|
 |CasaLNfhy|2019.07.23&nbsp;03:31|138.19.211.199|9735|03c6c19dd95c4732a16e4ad4d77bc1f70866080550fd613bad19ba1a2c80243c07|
 |MadMonkGee|2019.07.22&nbsp;22:36|95.89.106.33|9735|03c9419fc4ea899cafbcc993daa0a26d1ef60eb4098367893619a6218f78b049f6|
 |lnd.jakerawsthorne.co.uk|2019.07.22&nbsp;22:36|5.9.144.150|9735|03a0a47b5396cdac83a7c21e1b22cd93cdee1d9dbb4fc3c0cc974266ed224d6cb4|
@@ -1726,11 +1738,9 @@ Last updated: 2019-10-31 00:00:06 UTC
 |PhatChannel_1|2019.07.14&nbsp;05:40|98.4.107.190|9735|03166e47f36d94b7b4d1a0c0a2bcfc563e7318ea10b5db8c77e570ff3e75d47d82|
 |Plasma⚡⚡⚡Release|2019.07.14&nbsp;05:40|71.204.162.179|29735|03b1be68b8f564fe53f5456cf4bec901ba968fb72ed7291279ab0c87e0d22f1f49|
 |lightning-node.online|2019.07.13&nbsp;17:41|195.154.164.243|9735|039c4249e620202add3c61cccfb406d4d4e56900ceaae12b4d2d298ee3e4838852|
-|Payment21.com_LIVE_LNP21|2019.07.12&nbsp;16:56|217.173.236.66|9735|03a21671b1958b4afe298f0fc6caf1330a0bc5345cb30c486f4cd14d4a6c3f4c34|
 |a-minha-casa|2019.07.12&nbsp;14:05|86.80.132.66|9735|02b549eeb8c7a3cd10d0c016b6f1a60b7375a3fb36c869243f959c5e2026355574|
 |bouncemessage|2019.07.11&nbsp;16:04|84.185.104.81|9735|039d5337f0c4afe82b7085be46480246de2506a094f3a6867979ca1b371cfbaa6f|
 |036ae68d1fe7a8dcbdb3|2019.07.11&nbsp;10:41|80.211.255.28|9735|036ae68d1fe7a8dcbdb39492759f6b7b985edc7852a230cc3172a4dbc8be3a5518|
-|bitcoin.punk|2019.07.11&nbsp;05:26|185.228.137.238|9735|029d50d59c78b81a39f4ca40b6bc9b89710542a31429b69aa075b91b587979205d|
 |Bitrefill Thor|2019.07.10&nbsp;19:04|52.30.63.2|9735|0254ff808f53b2f8c45e74b70430f336c6c76ba2f4af289f48d6086ae6e60462d3|
 |nelson|2019.07.10&nbsp;18:17|5.140.165.22|9735|021d8a51035430487094bf6ef5bdba3b7b9ad4f731058b940297d4b60706440684|
 |X-TRIX.ORG|2019.07.10&nbsp;08:23|94.23.18.174|9735|023a5d8df324832580f0815708abefc0cba23f8e7cdb39b9f847fbe6603e68518f|
@@ -1748,7 +1758,6 @@ Last updated: 2019-10-31 00:00:06 UTC
 |qxe.io|2019.07.05&nbsp;17:14|144.76.108.133|9735|03975535656e13c2b0b534f601d5f1f6d9ea4b13745604e8619269fd00ce927ae3|
 |lightningfees.net|2019.07.04&nbsp;20:51|81.207.149.246|9736|023e18169f9b4253eff56bd7035660b28c95e61e12fabc03f4aef59d102d55bbb0|
 |CoinPlaza.it|2019.07.04&nbsp;19:16|94.177.222.65|9735|027e4538fde1d3c776970d5d5b325dddbd4097780a9e3433df2ee1f9f95cd60874|
-|go_forest_go|2019.07.04&nbsp;00:15|81.169.142.251|9735|026b742cea92cea6535f8688e5597bb874d8ddb6dab3500119a25cb25228d2a75e|
 |Bitcoin.Ireland|2019.07.04&nbsp;00:00|2.101.114.44|9735|0344c2e9c84dd0fd843bae94f2f47e77f497192ff17a75d38b2bce5c9a59f4bbe5|
 |ionosphere-mainnet|2019.07.03&nbsp;23:30|35.197.62.113|9735|03f21fc2e8ab0540eeb74dd715b5b66638ec1cd392db00009b320b3ed8c409bd57|
 |Kuragh|2019.07.03&nbsp;17:14|98.207.97.156|9735|03035fbbc9116e9f56faaeeaff42941ae1ae4f6a93c2af4620a3935222da35eb84|
@@ -1818,8 +1827,8 @@ Last updated: 2019-10-31 00:00:06 UTC
 |NiceNode|2019.04.02&nbsp;05:09|170.253.179.221|9735|02e19a46649683b43ae66450e6b1d48516f943514e561569f5a8ecd8d7099a6588|
 |LightningArgentina|2019.03.30&nbsp;11:51|152.169.218.143|9735|030ea1b3efaf88e7b7d22679b0de8cdd5d2c6eb78babc4fee4d7d27cb06e8aa175|
 |02d1ab2f4f7cbb688042|2019.03.30&nbsp;01:54|172.81.179.60|9735|02d1ab2f4f7cbb6880420273556d82a6b6bb36dde4a06820a4d083e4bdb24418a1|
-|weepete [LND]|2019.03.29&nbsp;14:41|94.10.178.130|9735|039ad09a86e3b79d2d3c17ffd14221c7434cccd3a114b93753c03d8e397f7944fc|
 |weepete [LND]|2019.03.29&nbsp;14:41|5.70.59.39|9735|039ad09a86e3b79d2d3c17ffd14221c7434cccd3a114b93753c03d8e397f7944fc|
+|weepete [LND]|2019.03.29&nbsp;14:41|94.10.178.130|9735|039ad09a86e3b79d2d3c17ffd14221c7434cccd3a114b93753c03d8e397f7944fc|
 |patcher_lightning|2019.03.29&nbsp;05:08|195.206.105.42|9735|03b6b0a2a5e8300e2645f7728e699606d1df0408492ad6c88631d569ebcf511151|
 |Kali|2019.03.29&nbsp;01:08|192.168.193.215|8333|0396948e401c19d1b2e25ca7996eaa6f57d885da9940349499a53e9ffac877de1b|
 |Dotbit.me|2019.03.28&nbsp;18:41|144.76.12.6|9735|02d925132e2c79d65cd13bba919a9223f43a44305591c60a01519826ac2ac6e69e|
