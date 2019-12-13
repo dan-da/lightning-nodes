@@ -1261,16 +1261,6 @@
             "port": 9735
         },
         {
-            "nodeid": "023ec3d1fa35f7fb8996374cf1848c1a40788df013551c5510c75617222bd2dd2d",
-            "alias": "seth586\ud83d\ude08guides",
-            "color": "3399ff",
-            "last_timestamp": 1574895455,
-            "globalfeatures": "2200",
-            "type": "torv3",
-            "address": "sethnetppzp4diqkclzql5bzsb2rtug74q7yfkuxfcbkpjklniieltid.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "02004c625d622245606a1ea2c1c69cfb4516b703b47945a3647713c05fe4aaeb1c",
             "alias": "WalletOfSatoshi.com",
             "color": "3399ff",
@@ -1278,6 +1268,16 @@
             "globalfeatures": "",
             "type": "torv3",
             "address": "yocrhxpg2hkof6xeaz4zsjtwmbbcu6xvwvb7dazf2lkbslwylkqzrwad.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "023ec3d1fa35f7fb8996374cf1848c1a40788df013551c5510c75617222bd2dd2d",
+            "alias": "seth586\ud83d\ude08guides",
+            "color": "3399ff",
+            "last_timestamp": 1574895455,
+            "globalfeatures": "2200",
+            "type": "torv3",
+            "address": "sethnetppzp4diqkclzql5bzsb2rtug74q7yfkuxfcbkpjklniieltid.onion",
             "port": 9735
         },
         {
@@ -5177,7 +5177,7 @@
             "last_timestamp": 1571768944,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "3svxfyajizt42u7ai5224k6lhgj2djzit2o2cxidavoh4mp43vipviqd.onion",
+            "address": "kpobggrhrraebdhf45jhquqgy57i7o3xqrzfxltrgxkvjnctrxjoomid.onion",
             "port": 9735
         },
         {
@@ -5187,7 +5187,7 @@
             "last_timestamp": 1571768944,
             "globalfeatures": "",
             "type": "torv3",
-            "address": "kpobggrhrraebdhf45jhquqgy57i7o3xqrzfxltrgxkvjnctrxjoomid.onion",
+            "address": "3svxfyajizt42u7ai5224k6lhgj2djzit2o2cxidavoh4mp43vipviqd.onion",
             "port": 9735
         },
         {
@@ -7693,16 +7693,6 @@
             "port": 9735
         },
         {
-            "nodeid": "0215f7e78b87507380b956c5145a5d4c805c0806faef158fdeb2255842cdedab4b",
-            "alias": "Thor",
-            "color": "68f442",
-            "last_timestamp": 1567515325,
-            "globalfeatures": "",
-            "type": "torv2",
-            "address": "ozw7mpk2g2qlvu2u.onion",
-            "port": 9735
-        },
-        {
             "nodeid": "025f5ede789254859364683f4c4c8c07013a7b09755b93e2bf7f1b67f3919bbba7",
             "alias": "RoaringThunder",
             "color": "68f442",
@@ -7710,6 +7700,16 @@
             "globalfeatures": "",
             "type": "torv2",
             "address": "tl46lhuqjx27owf2.onion",
+            "port": 9735
+        },
+        {
+            "nodeid": "0215f7e78b87507380b956c5145a5d4c805c0806faef158fdeb2255842cdedab4b",
+            "alias": "Thor",
+            "color": "68f442",
+            "last_timestamp": 1567515325,
+            "globalfeatures": "",
+            "type": "torv2",
+            "address": "ozw7mpk2g2qlvu2u.onion",
             "port": 9735
         },
         {
@@ -8493,7 +8493,7 @@
             "last_timestamp": 1575950415,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "87.157.180.147",
+            "address": "79.207.27.97",
             "port": 9735
         },
         {
@@ -8503,7 +8503,7 @@
             "last_timestamp": 1575950415,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "79.207.27.97",
+            "address": "87.157.180.147",
             "port": 9735
         },
         {
@@ -9427,16 +9427,6 @@
             "port": 9735
         },
         {
-            "nodeid": "02004c625d622245606a1ea2c1c69cfb4516b703b47945a3647713c05fe4aaeb1c",
-            "alias": "WalletOfSatoshi.com",
-            "color": "3399ff",
-            "last_timestamp": 1574895455,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "172.81.178.151",
-            "port": 9735
-        },
-        {
             "nodeid": "023ec3d1fa35f7fb8996374cf1848c1a40788df013551c5510c75617222bd2dd2d",
             "alias": "seth586\ud83d\ude08guides",
             "color": "3399ff",
@@ -9444,6 +9434,16 @@
             "globalfeatures": "2200",
             "type": "ipv4",
             "address": "96.47.122.171",
+            "port": 9735
+        },
+        {
+            "nodeid": "02004c625d622245606a1ea2c1c69cfb4516b703b47945a3647713c05fe4aaeb1c",
+            "alias": "WalletOfSatoshi.com",
+            "color": "3399ff",
+            "last_timestamp": 1574895455,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.178.151",
             "port": 9735
         },
         {
@@ -10727,16 +10727,6 @@
             "port": 9735
         },
         {
-            "nodeid": "03bb88ccc444534da7b5b64b4f7b15e1eccb18e102db0e400d4b9cfe93763aa26d",
-            "alias": "LightningTo.Me",
-            "color": "3dffbe",
-            "last_timestamp": 1574287851,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "138.68.14.104",
-            "port": 9735
-        },
-        {
             "nodeid": "03012a23c769decc4fb40a92d5300692b576cb8dc887072580638b97911742554c",
             "alias": "There be dragons here",
             "color": "000000",
@@ -10744,6 +10734,16 @@
             "globalfeatures": "0200",
             "type": "ipv4",
             "address": "5.9.124.124",
+            "port": 9735
+        },
+        {
+            "nodeid": "03bb88ccc444534da7b5b64b4f7b15e1eccb18e102db0e400d4b9cfe93763aa26d",
+            "alias": "LightningTo.Me",
+            "color": "3dffbe",
+            "last_timestamp": 1574287851,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "138.68.14.104",
             "port": 9735
         },
         {
@@ -13727,16 +13727,6 @@
             "port": 9736
         },
         {
-            "nodeid": "0237fefbe8626bf888de0cad8c73630e32746a22a2c4faa91c1d9877a3826e1174",
-            "alias": "1.ln.aantonop.com",
-            "color": "010000",
-            "last_timestamp": 1572997535,
-            "globalfeatures": "2200",
-            "type": "ipv4",
-            "address": "13.48.89.186",
-            "port": 9735
-        },
-        {
             "nodeid": "02de60d194e1ca5947b59fe8e2efd6aadeabfb67f2e89e13ae1a799c1e08e4a43b",
             "alias": "duck1123",
             "color": "3399ff",
@@ -13744,6 +13734,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "138.197.229.63",
+            "port": 9735
+        },
+        {
+            "nodeid": "0237fefbe8626bf888de0cad8c73630e32746a22a2c4faa91c1d9877a3826e1174",
+            "alias": "1.ln.aantonop.com",
+            "color": "010000",
+            "last_timestamp": 1572997535,
+            "globalfeatures": "2200",
+            "type": "ipv4",
+            "address": "13.48.89.186",
             "port": 9735
         },
         {
@@ -14164,7 +14164,7 @@
             "globalfeatures": "2200",
             "type": "ipv4",
             "address": "85.246.228.114",
-            "port": 10011
+            "port": 10001
         },
         {
             "nodeid": "022e0cbff0802ac1a7df0d614aa9636e5bb5c989368844ed70169b974dab55b25c",
@@ -14174,7 +14174,7 @@
             "globalfeatures": "2200",
             "type": "ipv4",
             "address": "85.246.228.114",
-            "port": 10001
+            "port": 10011
         },
         {
             "nodeid": "03a0902a218ab3adb2c8cb4c17358303cb26891f76fee4b9ebe3f3fc0a467ea9cb",
@@ -14813,7 +14813,7 @@
             "last_timestamp": 1571874927,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "92.194.48.97",
+            "address": "92.194.33.118",
             "port": 9735
         },
         {
@@ -14823,7 +14823,7 @@
             "last_timestamp": 1571874927,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "92.194.33.118",
+            "address": "92.194.48.97",
             "port": 9735
         },
         {
@@ -15727,16 +15727,6 @@
             "port": 9736
         },
         {
-            "nodeid": "02b8e9576f1ade4f339f31802d9cf6186a7e424b5889dcaa12ff9bf860602dd32b",
-            "alias": "BTCBeans",
-            "color": "3399ff",
-            "last_timestamp": 1567599227,
-            "globalfeatures": "",
-            "type": "ipv4",
-            "address": "172.81.182.142",
-            "port": 9735
-        },
-        {
             "nodeid": "02f3c32b3ecd2e258bdbeeab5748a47fce7f8b6ba4e169511fee5555f9c6ed94c6",
             "alias": "BTCtokyo",
             "color": "3399ff",
@@ -15744,6 +15734,16 @@
             "globalfeatures": "",
             "type": "ipv4",
             "address": "157.65.242.66",
+            "port": 9735
+        },
+        {
+            "nodeid": "02b8e9576f1ade4f339f31802d9cf6186a7e424b5889dcaa12ff9bf860602dd32b",
+            "alias": "BTCBeans",
+            "color": "3399ff",
+            "last_timestamp": 1567599227,
+            "globalfeatures": "",
+            "type": "ipv4",
+            "address": "172.81.182.142",
             "port": 9735
         },
         {
@@ -15823,7 +15823,7 @@
             "last_timestamp": 1567567826,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "94.134.150.113",
+            "address": "89.244.77.127",
             "port": 9735
         },
         {
@@ -15833,7 +15833,7 @@
             "last_timestamp": 1567567826,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "89.244.77.127",
+            "address": "94.134.150.113",
             "port": 9735
         },
         {
@@ -16253,7 +16253,7 @@
             "last_timestamp": 1567338564,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "192.168.0.223",
+            "address": "203.150.126.241",
             "port": 9735
         },
         {
@@ -16263,7 +16263,7 @@
             "last_timestamp": 1567338564,
             "globalfeatures": "",
             "type": "ipv4",
-            "address": "203.150.126.241",
+            "address": "192.168.0.223",
             "port": 9735
         },
         {
