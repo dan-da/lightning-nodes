@@ -4,7 +4,7 @@ A historical list of lightning nodes, including .onion, updated daily.
 
 Data obtained from [c-lightning](https://github.com/ElementsProject/lightning) listnodes API.  [json](https://raw.githubusercontent.com/dan-da/lightning-nodes/master/nodes-by-addr-type.json) also available.
 
-Last updated: 2019-12-28 01:00:01 UTC
+Last updated: 2019-12-29 01:00:32 UTC
 
 ## Stats
 
